@@ -47,6 +47,7 @@ For simplicity, we removed these features from this example shader, else this sh
 When will the original shader release?
 -------------------
 We don't have ETA now, we are still working on it, here are some videos about the original shader:
+- https://youtu.be/uVI_QOioER4
 - https://youtu.be/YtAiCHBvZr0
 - https://youtu.be/QWB060rVjFI
 - https://youtu.be/URVgKT5c3PM
