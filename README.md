@@ -48,6 +48,9 @@ When will the original shader release?
 -------------------
 We don't have ETA now, we are still working on it, here are some videos about the original shader:
 https://youtu.be/YtAiCHBvZr0
+https://youtu.be/QWB060rVjFI
+https://youtu.be/URVgKT5c3PM
+https://youtu.be/6Gx0LxByfWk
 
 
 Editor enviroment requirment
