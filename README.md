@@ -12,9 +12,9 @@ How to try this shader in my project?
 4. (optional) edit material properties
 5. DONE, you can now test your character with any number of lightprobe/directional light/point light/spot light
 
-What is removed from this example shader?
+What is not included in this example shader?
 -------------------
-For simplicity, we removed these features from this example shader, else this shader will be way too complex for learning.
+For simplicity, we removed these features from this example shader, else this shader will be way too complex for reading & learning.
 - face sphere proxy normal
 - hair "angel ring" reflection
 - smooth normal outline baking
