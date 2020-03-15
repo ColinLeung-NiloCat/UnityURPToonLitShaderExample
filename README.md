@@ -41,7 +41,7 @@ How to try this simplified example shader in my project?
 
 What is not included in this simplified example shader?
 -------------------
-For simplicity, we removed these features from this example shader, else this shader will be way too complex for reading & learning.
+For simplicity, we removed these features(80% of the original shader) from this example shader, else this shader will be way too complex for reading & learning.
 - face sphere proxy normal
 - hair "angel ring" reflection
 - smooth normal outline baking
