@@ -38,12 +38,12 @@ How to try this simplified example shader in my project?
 3. Change your character's material's shader to "SimpleURPToonLitExample(With Outline)"
 4. (optional) edit material properties
 5. setup DONE, you can now test your character with any number of lightprobe/directional light/point light/spot light
-6. most important: open these shader files, read, understand how to write shader in URP
+6. most important: open these shader files, spend some time reading it, you will understand how to write shader in URP very quickly
 7. most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, experiment with your own lighting equation ideas, which is the key part of toon lit shader!
 
 What is not included in this simplified example shader?
 -------------------
-For simplicity, we removed these features(80% of the original shader) from this example shader, else this shader will be way too complex for reading & learning.
+For simplicity, I removed these features from this example shader (deleted 80% of the original shader), else this shader will be way too complex for reading & learning.
 - face sphere proxy normal
 - hair "angel ring" reflection
 - smooth outline normal auto baking
@@ -57,7 +57,7 @@ For simplicity, we removed these features(80% of the original shader) from this 
 - most of the extra inputs options like AO, specular, normal map.....
 - LOTS of sliders to control lighting, final color & outline..........
 
-When will the original shader release?
+When will the original toon lit shader(Full version) release?
 -------------------
 We don't have ETA now, we are still working on it, here are some videos about the original toon lit shader:
 - https://youtu.be/uVI_QOioER4
