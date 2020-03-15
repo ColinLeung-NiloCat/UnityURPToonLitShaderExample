@@ -3,7 +3,7 @@ A very simple toon lit shader example, for you to learn writing custom shader in
 
 How to try this shader in my project?
 -------------------
-1. Clone all files into your URP project.
+1. Clone all .shader & .hlsl files into your URP project.
 2. Put these files inside the same folder.
 3. Change your character's material's shader to "SimpleURPToonLitExample(With Outline)"
 4. (optional) edit material properties
