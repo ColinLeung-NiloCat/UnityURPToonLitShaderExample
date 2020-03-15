@@ -39,7 +39,7 @@ How to try this simplified example shader in my project?
 4. (optional) edit material properties
 5. setup DONE, you can now test your character with any number of lightprobe/directional light/point light/spot light
 6. most important: open these shader files, read, understand how to write shader in URP
-7. most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, experiment with your lighting equation ideas
+7. most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, experiment with your own lighting equation ideas, which is the key part of toon lit shader!
 
 What is not included in this simplified example shader?
 -------------------
