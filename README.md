@@ -46,20 +46,20 @@ What is not included in this simplified example shader?
 For simplicity, we removed these features(80% of the original shader) from this example shader, else this shader will be way too complex for reading & learning.
 - face sphere proxy normal
 - hair "angel ring" reflection
-- smooth normal outline baking
-- GI sphere proxy normal
+- smooth outline normal auto baking
+- character bounding sphere proxy normal
 - rim light
 - specular lighting
 - HSV control shadow & outline color
 - 2D mouth renderer
 - stencil local hair shadow on face
 - depth offset for eye rendering over hair
-- most of the optional inputs like AO, specular, normal map.....
-- lots of sliders to control final color & outline..........
+- most of the extra inputs options like AO, specular, normal map.....
+- LOTS of sliders to control lighting, final color & outline..........
 
 When will the original shader release?
 -------------------
-We don't have ETA now, we are still working on it, here are some videos about the original shader:
+We don't have ETA now, we are still working on it, here are some videos about the original toon lit shader:
 - https://youtu.be/uVI_QOioER4
 - https://youtu.be/YtAiCHBvZr0
 - https://youtu.be/QWB060rVjFI
