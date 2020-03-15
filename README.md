@@ -1,8 +1,13 @@
 # UnityURPToonLitShaderExample
 A very simple toon lit shader example, for you to learn writing custom shader in URP.
-Because this shader is for people learning shader writing in URP, it is an extreme simplified version from the original one (we removed 80% of our code, while just keeping only the most useful part).
 
-Some screen shots from the original shader:
+Because this shader is for people learning shader writing in URP, it is an extremely simplified version from the original one (I removed 80% of my code, while just keeping only the most useful part).
+
+Why creating this "simplified version" shader?
+-------------------
+Lots of my shader friends are looking for an toon lit example shader in URP, so I want them to switch to URP with me, so I decided to provide one. 
+
+Some screenshots from the original shader:
 -------------------
 URPStandardLit(Left) vs our shader(Right)
 ![screenshot](https://i.imgur.com/Ma4wwQv.png)
@@ -54,7 +59,7 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/6Gx0LxByfWk
 
 
-Editor enviroment requirment
+Editor enviroment requirement
 -----------------------
 - URP 7.2.1 or above
 - Unity 2019.3 or above
