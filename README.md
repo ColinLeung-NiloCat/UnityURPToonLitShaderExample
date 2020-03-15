@@ -24,7 +24,12 @@ vs our shader__________________________________
 Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/KxdjhCx.png)
 ![screenshot](https://i.imgur.com/6t2FMcg.png)
-![screenshot](https://i.imgur.com/rvMDoWZ.png)
+![screenshot](https://i.imgur.com/LBTNZCH.png)
+![screenshot](https://i.imgur.com/KxdjhCx.png)
+![screenshot](https://i.imgur.com/WIGyMVx.png)
+![screenshot](https://i.imgur.com/zou7PxL.png)
+![screenshot](https://i.imgur.com/CZHnfMC.png)
+
 
 How to try this simplified example shader in my project?
 -------------------
