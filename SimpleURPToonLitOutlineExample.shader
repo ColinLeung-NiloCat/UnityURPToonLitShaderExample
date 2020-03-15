@@ -1,7 +1,7 @@
 ﻿//https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 /*
-This shader is a simple example showing you how to write your first SRP toon lit shader with "minimum" shader code.
+This shader is a simple example showing you how to write your first URP toon lit shader with "minimum" shader code.
 You can use this shader as a starting point, add/edit code to develop your own custom toon lit shader for URP.
 
 *Usually, just by editing "SimpleURPToonLitOutlineExample_LightingEquation.hlsl" can control most of the visual result.
