@@ -3,8 +3,8 @@ A very simple toon lit shader example, for you to learn writing custom shader in
 
 How to try this shader in my project?
 -------------------
-1. Clone a .shader & two .hlsl files into your URP project (needs URP 7.2.1 or above)
-2. Put these 3 files them inside the same folder.
+1. Clone all files into your URP project.
+2. Put these files inside the same folder.
 3. Change your character's material's shader to "SimpleURPToonLitExample(With Outline)"
 4. (optional) edit material properties
 5. DONE
@@ -21,4 +21,9 @@ For simplicity, we removed these features from this example shader, else this sh
 - stencil local hair shadow on face
 - depth offset for eye rendering over hair
 - lots of little features to control final color..........
+
+Runtime enviroment requirment
+-----------------------
+- URP 7.2.1 or above
+- Unity 2019.3 or above
 
