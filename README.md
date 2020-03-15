@@ -1,6 +1,9 @@
 # UnityURPToonLitShaderExample
 A very simple toon lit shader example, for you to learn writing custom shader in Unity URP.
 
+Left (StandardLit vs this shader)
+![screenshot](https://i.imgur.com/Ma4wwQv.png)
+
 How to try this shader in my project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
