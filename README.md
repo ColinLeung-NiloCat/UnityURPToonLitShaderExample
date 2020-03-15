@@ -9,9 +9,9 @@ How to try this shader in my project?
 4. (optional) edit material properties
 5. DONE
 
-What is removed from in the example?
+What is removed from this example shader?
 -------------------
-For simplicity, we removed these features from this example shader, else this shader will be too complex for learning.
+For simplicity, we removed these features from this example shader, else this shader will be way too complex for learning.
 - face sphere proxy normal
 - GI sphere proxy normal
 - rim light
