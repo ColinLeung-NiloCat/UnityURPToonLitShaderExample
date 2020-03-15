@@ -1,4 +1,4 @@
-﻿//https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+//https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 //This file is intented for you to edit and experiment with different lighting equation.
 //Add/edit whatever code you want here
@@ -8,7 +8,7 @@
 #ifndef SimpleURPToonLitOutlineExample_LightingEquation_Include
 #define SimpleURPToonLitOutlineExample_LightingEquation_Include
 
-half3 ShaderGIDefaultMethod(SurfaceData surfaceData, LightingData lightingData)
+half3 ShadeGIDefaultMethod(SurfaceData surfaceData, LightingData lightingData)
 {
     half3 SH_Sum = 0;
 
@@ -72,7 +72,7 @@ half3 CompositeAllLightResultsYourMethod(half3 indirectResult, half3 mainLightRe
 half3 ShadeGI(SurfaceData surfaceData, LightingData lightingData)
 {
     //you can switch to ShadeGIYourMethod(...) !
-    return ShaderGIDefaultMethod(surfaceData, lightingData); 
+    return ShadeGIDefaultMethod(surfaceData, lightingData); 
 }
 half3 ShadeMainLight(SurfaceData surfaceData, LightingData lightingData, Light light)
 {
