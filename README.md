@@ -5,7 +5,7 @@ Because this shader is for people learning shader writing in URP, it is an extre
 
 Why creating this "simplified version" shader?
 -------------------
-Lots of my shader friends are looking for an toon lit example shader in URP, so I want them to switch to URP with me, so I decided to provide one. 
+Lots of my shader friends are looking for a toon lit example shader in URP, so I want them to switch to URP with me, so I decided to provide one. 
 
 Some screenshots from the original shader:
 -------------------
