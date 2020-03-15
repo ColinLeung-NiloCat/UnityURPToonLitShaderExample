@@ -52,7 +52,8 @@ For simplicity, we removed these features from this example shader, else this sh
 - 2D mouth renderer
 - stencil local hair shadow on face
 - depth offset for eye rendering over hair
-- lots of sliders to control final color..........
+- most of the optional inputs like AO, specular, normal map.....
+- lots of sliders to control final color & outline..........
 
 When will the original shader release?
 -------------------
