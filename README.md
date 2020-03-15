@@ -7,7 +7,7 @@ How to try this shader in my project?
 2. Put these files inside the same folder.
 3. Change your character's material's shader to "SimpleURPToonLitExample(With Outline)"
 4. (optional) edit material properties
-5. DONE
+5. DONE, test your character with any number of lightprobe/directional light/point light/spot light
 
 What is removed from this example shader?
 -------------------
