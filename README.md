@@ -3,15 +3,16 @@ A very simple toon lit shader example, for you to learn writing custom shader in
 Because this shader is for learning, it is an extremely simplified version from the original shader (we removed 80% of our code, while just keeping only the most useful part).
 
 Screen shots from the original shader:
-
+-------------------
 URPStandardLit(Left) vs our shader(Right)
 ![screenshot](https://i.imgur.com/Ma4wwQv.png)
 
 Apply our shader to different models
 ![screenshot](https://i.imgur.com/AgDKEil.png)
 
-Unlit 
+Unlit
 ![screenshot](https://i.imgur.com/tQyWLCl.png)
+
 vs our shader
 ![screenshot](https://i.imgur.com/B8DoTHj.png)
 
