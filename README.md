@@ -1,13 +1,26 @@
 # UnityURPToonLitShaderExample
 A very simple toon lit shader example, for you to learn writing custom shader in Unity URP.
+Because this shader is for learning, it is an extremely simplified version from the original shader (we removed 80% of our code, while just keeping only the most useful part).
 
-URPStandardLit(Left) vs this shader(Right)
+Screen shots from the original shader:
+
+URPStandardLit(Left) vs our shader(Right)
 ![screenshot](https://i.imgur.com/Ma4wwQv.png)
 
-Apply to different models
+Apply our shader to different models
 ![screenshot](https://i.imgur.com/AgDKEil.png)
 
-How to try this shader in my project?
+Unlit 
+![screenshot](https://i.imgur.com/tQyWLCl.png)
+vs our shader
+![screenshot](https://i.imgur.com/B8DoTHj.png)
+
+Apply our shader to another model (2020-2 early version screen shots)
+![screenshot](https://i.imgur.com/KxdjhCx.png)
+![screenshot](https://i.imgur.com/6t2FMcg.png)
+![screenshot](https://i.imgur.com/rvMDoWZ.png)
+
+How to try this example shader in my project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
 2. Put these files inside the same folder.
@@ -29,6 +42,12 @@ For simplicity, we removed these features from this example shader, else this sh
 - stencil local hair shadow on face
 - depth offset for eye rendering over hair
 - lots of sliders to control final color..........
+
+When will the original shader release?
+-------------------
+We don't have ETA now, we are still working on it, here are some videos about the original shader:
+https://youtu.be/YtAiCHBvZr0
+
 
 Editor enviroment requirment
 -----------------------
