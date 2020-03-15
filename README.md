@@ -59,7 +59,7 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/6Gx0LxByfWk
 
 
-Editor enviroment requirement
+Editor environment requirement
 -----------------------
 - URP 7.2.1 or above
 - Unity 2019.3 or above
