@@ -15,10 +15,10 @@ URPStandardLit(Left) vs our shader(Right)
 Apply our shader to different models
 ![screenshot](https://i.imgur.com/AgDKEil.png)
 
-Unlit__________________________________
+Unlit______________________________________________________________________________
 ![screenshot](https://i.imgur.com/tQyWLCl.png)
 
-vs our shader__________________________________
+vs our shader______________________________________________________________________
 ![screenshot](https://i.imgur.com/B8DoTHj.png)
 
 Apply our shader to another model (2020-2 early version screen shots)
