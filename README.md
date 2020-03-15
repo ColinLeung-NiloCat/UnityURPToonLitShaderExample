@@ -1,8 +1,8 @@
 # UnityURPToonLitShaderExample
-A very simple toon lit shader example, for you to learn writing custom shader in Unity URP.
-Because this shader is for learning, it is an extremely simplified version from the original shader (we removed 80% of our code, while just keeping only the most useful part).
+A very simple toon lit shader example, for you to learn writing custom shader in URP.
+Because this shader is for people learning shader writing in URP, it is an extreme simplified version from the original one (we removed 80% of our code, while just keeping only the most useful part).
 
-Screen shots from the original shader:
+Some screen shots from the original shader:
 -------------------
 URPStandardLit(Left) vs our shader(Right)
 ![screenshot](https://i.imgur.com/Ma4wwQv.png)
@@ -21,7 +21,7 @@ Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/6t2FMcg.png)
 ![screenshot](https://i.imgur.com/rvMDoWZ.png)
 
-How to try this example shader in my project?
+How to try this simplified example shader in my project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
 2. Put these files inside the same folder.
@@ -29,7 +29,7 @@ How to try this example shader in my project?
 4. (optional) edit material properties
 5. DONE, you can now test your character with any number of lightprobe/directional light/point light/spot light
 
-What is not included in this example shader?
+What is not included in this simplified example shader?
 -------------------
 For simplicity, we removed these features from this example shader, else this shader will be way too complex for reading & learning.
 - face sphere proxy normal
