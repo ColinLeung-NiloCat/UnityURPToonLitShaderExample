@@ -13,6 +13,8 @@ What is removed from this example shader?
 -------------------
 For simplicity, we removed these features from this example shader, else this shader will be way too complex for learning.
 - face sphere proxy normal
+- hair "angel ring" reflection
+- smooth normal outline baking
 - GI sphere proxy normal
 - rim light
 - specular lighting
@@ -20,7 +22,7 @@ For simplicity, we removed these features from this example shader, else this sh
 - 2D mouth renderer
 - stencil local hair shadow on face
 - depth offset for eye rendering over hair
-- lots of little features to control final color..........
+- lots of sliders to control final color..........
 
 Runtime enviroment requirment
 -----------------------
