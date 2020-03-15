@@ -24,7 +24,7 @@ For simplicity, we removed these features from this example shader, else this sh
 - depth offset for eye rendering over hair
 - lots of sliders to control final color..........
 
-Runtime enviroment requirment
+Editor enviroment requirment
 -----------------------
 - URP 7.2.1 or above
 - Unity 2019.3 or above
