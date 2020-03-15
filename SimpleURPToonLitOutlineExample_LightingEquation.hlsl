@@ -76,7 +76,7 @@ half3 ShadeGI(SurfaceData surfaceData, LightingData lightingData)
 }
 half3 ShadeMainLight(SurfaceData surfaceData, LightingData lightingData, Light light)
 {
-    //you can switch to your ShadeMainLightYourMethod(...) !
+    //you can switch to ShadeMainLightYourMethod(...) !
     return ShadeSingleLightDefaultMethod(surfaceData, lightingData, light); 
 }
 half3 ShadeAdditionalLight(SurfaceData surfaceData, LightingData lightingData, Light light)
