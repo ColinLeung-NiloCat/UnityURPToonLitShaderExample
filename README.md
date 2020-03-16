@@ -68,9 +68,11 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/URVgKT5c3PM
 - https://youtu.be/6Gx0LxByfWk
 
-How to get a test model?
+How to get a test character model?
 -------------------
-here are some websites that can download models(If the creator allows it)
+The easiest way to get a character model is downloading Unity-Chan in the assetstore.
+
+Also, here are some websites that can download models(If the creator allows it)
 - https://3d.nicovideo.jp/
 - https://hub.vroid.com/
 
