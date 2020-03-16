@@ -38,7 +38,7 @@ Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/CZHnfMC.png)
 
 
-How to try this simplified example shader in my URP project?
+How to try this simplified toon lit example shader in my URP project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
 2. Put these files inside the same folder.
