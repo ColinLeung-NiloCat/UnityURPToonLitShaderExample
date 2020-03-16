@@ -6,7 +6,7 @@ This shader's default result(without editing material params) = the following pi
 
 Because this toon lit shader was created to help people learning shader writing in URP, it is an extremely simplified version of the original one (I removed 80% of my original code, while just keeping only the most useful & easy to understand sections), to make sure everyone can understand the shader code easily.
 
-Maybe I simplified it too much, it is now a "How to write your first custom lit shader in URP" example, instead of a good toon lit example (lots of toon lit tricks are not included in this shader, for simplicity reason).
+At the end I simplified it too much, so it is now a "How to write your first custom lit shader in URP" example, instead of a good looking toon lit shader example (lots of toon lit tricks are not included in this shader, for simplicity reason).
 
 Why creating this "simplified version" toon lit shader?
 -------------------
