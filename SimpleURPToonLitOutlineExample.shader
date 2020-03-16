@@ -1,22 +1,22 @@
-﻿//https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+//https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 /*
 This shader is a simple example showing you how to write your first URP toon lit shader with "minimum" shader code.
 You can use this shader as a starting point, add/edit code to develop your own custom toon lit shader for URP.
 
-*Usually, just by editing "SimpleURPToonLitOutlineExample_LightingEquation.hlsl" can control most of the visual result.
+*Usually, just by editing "SimpleURPToonLitOutlineExample_LightingEquation.hlsl" alone can control most of the visual result.
 
 This shader includes 4 passes:
-0.SurfaceColor pass
-1.Outline pass
-2.ShadowCaster pass (for URP's shadow mapping)
-3.DepthOnly pass (for URP's depth texture rendering)
+0.SurfaceColor pass (this pass will always render to the color buffer)
+1.Outline pass (this pass will always render to the color buffer)
+2.ShadowCaster pass (only for URP's shadow mapping, this pass won't render at all if your project don't use shadow mapping)
+3.DepthOnly pass (only for URP's depth texture rendering, this pass won't render at all if your project don't use depth texture)
 
 *because most of the time, you use a toon lit shader for characters, so all lightmap & instancing related code are removed for simplicity.
 
 *In this shader, we choose static uniform branching over "shader_feature & multi_compile" for our togglable feature like "_UseEmission", because:
     - we want to avoid this shader's build time takes too long (2^n)
-    - we want to avoid any spike when a new shader variant was seen by the camera first time (create GPU program)
+    - we want to avoid rendering spike when a new shader variant was seen by the camera first time (create GPU program)
     - we want to avoid increasing ShaderVarientCollection's complexity
     - we want to avoid shader size becomes too large easily (2^n)
     - we want to avoid breaking SRP batcher's batching because it is batched per shader variant, not per shader
@@ -36,6 +36,10 @@ Shader "SimpleURPToonLitExample(With Outline)"
         [HDR][MainColor]_BaseColor("_BaseColor", Color) = (1,1,1,1)
         [MainTexture]_BaseMap("_BaseMap (albedo)", 2D) = "white" {}
 
+        [Header(Alpha)]
+        [Toggle]_UseAlphaClipping("_UseAlphaClipping", Float) = 1
+        _Cutoff("_Cutoff (Alpha Cutoff)", Range(0.0, 1.0)) = 0.5
+
         [Header(Lighting)]
         _IndirectLightConstColor("_IndirectLightConstColor", Color) = (0.5,0.5,0.5,1)
         _IndirectLightMultiplier("_IndirectLightMultiplier", Range(0,1)) = 1
@@ -47,7 +51,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
 
         [Header(Emission)]
         [Toggle]_UseEmission("_UseEmission (on/off completely)", Float) = 0
-        [HDR] _EmissionColor("_EmissionColor", Color) = (1,1,1)
+        [HDR] _EmissionColor("_EmissionColor", Color) = (0,0,0)
         _EmissionMap("_EmissionMap", 2D) = "white" {}
         _EmissionMapChannelMask("_EmissionMapChannelMask", Vector) = (1,1,1,1)
 
