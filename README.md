@@ -9,7 +9,7 @@ Why creating this "simplified version" toon lit shader?
 -------------------
 Lots of my shader friends are looking for a toon lit example shader in URP (not Shader Graph), I want them to switch to URP with me, so I decided to provide a simple enough URP toon lit shader example. 
 
-Some screenshots from the (Full version) shader:
+Some screenshots from the original(Full version) shader:
 -------------------
 URP Standard Lit(Left) vs our shader(Right)
 ![screenshot](https://i.imgur.com/Ma4wwQv.png)
