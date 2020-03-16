@@ -1,6 +1,9 @@
 # Unity URP Simplified Toon Lit Shader Example (for you to learn writing custom lit shader in URP)
 A very simple toon lit shader example, to help people writing their first custom toon lit shader in URP.
 
+This shader's result = the following picture:
+![screenshot](https://i.imgur.com/mbUnvsA.png)
+
 Because this toon lit shader was created to help people learning shader writing the first time in URP, it is an extremely simplified version of the original one (I removed 80% of my original code, while just keeping only the most useful & easy to understand sections), to make sure everyone can understand the shader code easily.
 
 Maybe I simplified it too much, it is now a "How to write your first custom lit shader in URP" example, instead of a good toon lit example (lots of toon lit tricks are not included in this shader, for simplicity reason).
