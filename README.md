@@ -33,7 +33,7 @@ Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/CZHnfMC.png)
 
 
-How to try this simplified example shader in my project?
+How to try this simplified example shader in my URP project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
 2. Put these files inside the same folder.
@@ -43,9 +43,9 @@ How to try this simplified example shader in my project?
 6. most important: open these shader files, spend some time reading it, you will understand how to write custom lit shader in URP very quickly
 7. most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, experiment with your own toon lighting equation ideas, which is the key part of toon lit shader!
 
-What is not included in this simplified example shader?
+What is NOT included in this simplified example shader?
 -------------------
-For simplicity reason, I removed most of the features from the original shader (deleted 80% of the original shader code), else this shader will be way too complex for reading & learning.The removed features are:
+For simplicity reason, I removed most of the features from the original shader (deleted 80% of the original shader package), else this shader will be way too complex for reading & learning. The removed features are:
 - face sphere proxy normal
 - hair "angel ring" reflection
 - smooth outline normal auto baking
@@ -56,7 +56,7 @@ For simplicity reason, I removed most of the features from the original shader (
 - 2D mouth renderer
 - stencil local hair shadow on face
 - depth offset for eye rendering over hair
-- most of the extra input options like AO, specular, normal map...
+- most of the extra texture input options like AO, specular, normal map...
 - LOTS of sliders to control lighting, final color & outline
 
 When will the original toon lit shader(Full version) release?
