@@ -47,8 +47,8 @@ What is NOT included in this simplified example shader?
 -------------------
 For simplicity reason, I removed most of the features from the original shader (deleted 80% of the original shader package), else this shader will be way too complex for reading & learning. The removed features are:
 - face sphere proxy normal & direction proxy normal (fixing face ugly normals, very important)
+- smooth outline normal auto baking (fixing ugly outlines, very important)
 - hair "angel ring" reflection
-- smooth outline normal auto baking
 - character bounding sphere proxy normal
 - rim light
 - specular lighting
