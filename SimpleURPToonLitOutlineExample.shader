@@ -44,10 +44,11 @@ Shader "SimpleURPToonLitExample(With Outline)"
         _IndirectLightConstColor("_IndirectLightConstColor", Color) = (0.5,0.5,0.5,1)
         _IndirectLightMultiplier("_IndirectLightMultiplier", Range(0,1)) = 1
         _DirectLightMultiplier("_DirectLightMultiplier", Range(0,1)) = 0.25
-        _Transimition("_Transimition (How much light can pass through?)", Range(0,1)) = 0.2
+        _CelShadeMidPoint("_CelShadeMidPoint", Range(-1,1)) = -.5
+        _CelShadeSoftness("_CelShadeSoftness", Range(0,1)) = 0.05
 
         [Header(Shadow mapping)]
-        _ReceiveShadowMappingAmount("_ReceiveShadowMappingAmount", Range(0,1)) = 0.5
+        _ReceiveShadowMappingAmount("_ReceiveShadowMappingAmount", Range(0,1)) = 1
 
         [Header(Emission)]
         [Toggle]_UseEmission("_UseEmission (on/off completely)", Float) = 0
