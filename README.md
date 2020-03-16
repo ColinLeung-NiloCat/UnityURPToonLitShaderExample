@@ -12,7 +12,7 @@ At the end I simplified it too much, so it is now a "How to write your first cus
 
 Why creating this "simplified version" toon lit shader?
 -------------------
-Lots of my shader friends are looking for a toon lit example shader in URP (not Shader Graph), I want them to switch to URP with me (instead of built-in RP), so I decided to provide a simple enough URP toon lit shader example. 
+Lots of my shader friends are looking for a toon lit example shader in URP (not Shader Graph), I want them to switch to URP with me (instead of staying in built-in RP), so I decided to provide a simple enough URP toon lit shader example. 
 
 Some screenshots from the original(Full version) shader:
 -------------------
