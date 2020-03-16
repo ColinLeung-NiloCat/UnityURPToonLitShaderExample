@@ -38,10 +38,11 @@ How to try this simplified example shader in my URP project?
 1. Clone all .shader & .hlsl files into your URP project.
 2. Put these files inside the same folder.
 3. Change your character's material's shader to "SimpleURPToonLitExample(With Outline)"
-4. (optional) edit material properties
+4. make sure atleast _BaseMap(albedo) is assigned
 5. setup DONE, you can now test your character with light probe/directional light/point light/spot light
-6. most important: open these shader files, spend some time reading it, you will understand how to write custom lit shader in URP very quickly
-7. most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, experiment with your own toon lighting equation ideas, which is the key part of toon lit shader!
+6. edit the material properties to see how the render result changes
+7. Most important: open these shader files, spend some time reading it, you will understand how to write custom lit shader in URP very quickly
+8. Most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, experiment with your own toon lighting equation ideas, which is the key part of toon lit shader!
 
 What is NOT included in this simplified example shader?
 -------------------
