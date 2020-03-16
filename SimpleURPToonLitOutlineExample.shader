@@ -48,7 +48,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
         _CelShadeSoftness("_CelShadeSoftness", Range(0,1)) = 0.05
 
         [Header(Shadow mapping)]
-        _ReceiveShadowMappingAmount("_ReceiveShadowMappingAmount", Range(0,1)) = 1
+        _ReceiveShadowMappingAmount("_ReceiveShadowMappingAmount", Range(0,1)) = 0.5
 
         [Header(Emission)]
         [Toggle]_UseEmission("_UseEmission (on/off completely)", Float) = 0
