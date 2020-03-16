@@ -57,7 +57,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
         _EmissionMapChannelMask("_EmissionMapChannelMask", Vector) = (1,1,1,1)
 
         [Header(Outline)]
-        _OutlineWidth("_OutlineWidth (Object Space)", Range(0, 0.05)) = 0.0015
+        _OutlineWidth("_OutlineWidth (Object Space)", Range(0, 0.1)) = 0.0015
         _OutlineColor("_OutlineColor", Color) = (0.3,0.3,0.3,1)
     }
     SubShader
