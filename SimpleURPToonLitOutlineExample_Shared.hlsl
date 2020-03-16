@@ -1,4 +1,4 @@
-﻿//https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+//https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 // #ifndef XXX + #define XXX + #endif is a safe guard best practice in almost every .hlsl, 
 // doing this can make sure your .hlsl's user can include this .hlsl anywhere anytime without producing any multi include conflict
@@ -74,6 +74,10 @@ CBUFFER_START(UnityPerMaterial)
     // base color
     float4 _BaseMap_ST;
     half4 _BaseColor;
+
+    // alpha
+    float _UseAlphaClipping;
+    half _Cutoff;
 
     //lighting
     half3 _IndirectLightConstColor;
@@ -222,7 +226,10 @@ half3 GetFinalEmissionColor(Varyings input)
 }
 void DoClipTestToTargetAlphaValue(half alpha) 
 {
-    clip(alpha - 0.5); //hard code 0.5, usually good enough. But you can expose it in material inspector if you wish to
+    if(_UseAlphaClipping)
+    {   
+        clip(alpha - _Cutoff);
+    }
 }
 SurfaceData InitializeSurfaceData(Varyings input)
 {
