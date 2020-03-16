@@ -68,6 +68,21 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/URVgKT5c3PM
 - https://youtu.be/6Gx0LxByfWk
 
+How to get a test model?
+-------------------
+here are some websites that can download models(If the creator allows it)
+- https://3d.nicovideo.jp/
+- https://hub.vroid.com/
+
+if you downloaded a .pmx file, use this to convert it to .fbx & prefab directly inside unity
+
+MMD4Mecanim (Beta)
+http://stereoarts.jp/
+
+if you downloaded a .vrm file, use this to convert it to .fbx & prefab directly inside unity
+
+UniVRM
+https://github.com/vrm-c/UniVRM
 
 Editor environment requirement
 -----------------------
