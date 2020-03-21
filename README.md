@@ -40,9 +40,13 @@ Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/WpkJyFB.png)
 ![screenshot](https://i.imgur.com/3iyu3eG.png)
 (2020-3 lastest version screen shots)
+directional light
 ![screenshot](https://i.imgur.com/DDr32Mu.png)
+indirect lighting
 ![screenshot](https://i.imgur.com/eipsBJU.png)
+spot light
 ![screenshot](https://i.imgur.com/6wbbTGI.png)
+point light
 ![screenshot](https://i.imgur.com/PV89iQ5.png)
 
 How to try this simplified toon lit example shader in my URP project?
