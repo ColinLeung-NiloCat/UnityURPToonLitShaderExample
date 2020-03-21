@@ -36,10 +36,14 @@ Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/WIGyMVx.png)
 ![screenshot](https://i.imgur.com/zou7PxL.png)
 ![screenshot](https://i.imgur.com/CZHnfMC.png)
-
+(2020-3 early version screen shots)
 ![screenshot](https://i.imgur.com/WpkJyFB.png)
 ![screenshot](https://i.imgur.com/3iyu3eG.png)
-
+(2020-3 lastest version screen shots)
+![screenshot](https://i.imgur.com/DDr32Mu.png)
+![screenshot](https://i.imgur.com/eipsBJU.png)
+![screenshot](https://i.imgur.com/6wbbTGI.png)
+![screenshot](https://i.imgur.com/PV89iQ5.png)
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
