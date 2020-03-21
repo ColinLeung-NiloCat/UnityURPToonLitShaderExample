@@ -43,7 +43,7 @@ Apply our shader to another model (2020-2 early version screen shots)
 
 (2020-3 lastest version screen shots)
 ![screenshot](https://i.imgur.com/DDr32Mu.png)
-
+https://youtu.be/IP293mAmBCk
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
