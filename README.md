@@ -42,8 +42,6 @@ Apply our shader to another model (2020-2 early version screen shots)
 
 
 (2020-3 lastest version screen shots)
-
-directional light
 ![screenshot](https://i.imgur.com/DDr32Mu.png)
 
 
