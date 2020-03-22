@@ -48,6 +48,8 @@ https://youtu.be/IP293mAmBCk
 ![screenshot](https://i.imgur.com/kbpw4Me.png)
 ![screenshot](https://i.imgur.com/jaMaTKt.png)
 ![screenshot](https://i.imgur.com/D7ARBo0.png)
+envi shadow cast on character test
+![screenshot](https://i.imgur.com/WGzSxN6.png)
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
