@@ -45,6 +45,9 @@ Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/DDr32Mu.png)
 https://youtu.be/IP293mAmBCk
 
+![screenshot](https://i.imgur.com/kbpw4Me.png)
+![screenshot](https://i.imgur.com/jaMaTKt.png)
+
 How to try this simplified toon lit example shader in my URP project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
