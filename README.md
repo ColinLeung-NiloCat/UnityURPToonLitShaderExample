@@ -47,6 +47,7 @@ https://youtu.be/IP293mAmBCk
 
 ![screenshot](https://i.imgur.com/kbpw4Me.png)
 ![screenshot](https://i.imgur.com/jaMaTKt.png)
+![screenshot](https://i.imgur.com/Sq00RPm.png)
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
