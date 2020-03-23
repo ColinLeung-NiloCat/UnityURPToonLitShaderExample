@@ -69,7 +69,7 @@ For simplicity reason, I removed most of the features from the original shader (
 - hair "angel ring" reflection
 - character bounding sphere proxy normal
 - rim light
-- specular lighting
+- specular lighting (GGX)
 - HSV control shadow & outline color
 - 2D mouth renderer
 - stencil local hair shadow on face
