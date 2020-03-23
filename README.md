@@ -49,6 +49,9 @@ https://youtu.be/IP293mAmBCk
 ![screenshot](https://i.imgur.com/jaMaTKt.png)
 ![screenshot](https://i.imgur.com/D7ARBo0.png)
 
+![screenshot](https://i.imgur.com/lt45arW.png)
+![screenshot](https://i.imgur.com/RcSz8H1.png)
+
 How to try this simplified toon lit example shader in my URP project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
