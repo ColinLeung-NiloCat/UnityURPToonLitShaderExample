@@ -86,6 +86,7 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/URVgKT5c3PM
 - https://youtu.be/6Gx0LxByfWk
 - https://youtu.be/IP293mAmBCk
+- https://youtu.be/n_bFQ9GNhcM (current)
 
 How to get a test character model?
 -------------------
