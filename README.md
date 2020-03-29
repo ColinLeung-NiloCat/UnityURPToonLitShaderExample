@@ -41,7 +41,7 @@ Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/3iyu3eG.png)
 
 
-(2020-3 lastest version screen shots)
+
 ![screenshot](https://i.imgur.com/DDr32Mu.png)
 https://youtu.be/IP293mAmBCk
 
@@ -51,6 +51,11 @@ https://youtu.be/IP293mAmBCk
 
 ![screenshot](https://i.imgur.com/lt45arW.png)
 ![screenshot](https://i.imgur.com/RcSz8H1.png)
+
+(2020-3 lastest version screen shots)
+Our goal is to create a generic toon lit shader for URP, which can apply unify toon lighting to any game's assets
+![screenshot](https://i.imgur.com/LJPsQp2.png)
+![screenshot](https://i.imgur.com/gaHWoS0.png)
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
