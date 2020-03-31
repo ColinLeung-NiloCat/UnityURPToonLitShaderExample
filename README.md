@@ -61,6 +61,15 @@ Our goal is to create a generic toon lit shader for URP, which can apply unify t
 ![screenshot](https://i.imgur.com/imCw8iu.png)
 https://youtu.be/HmuaWpL5Pi8
 
+![screenshot](https://i.imgur.com/RDqMYVP.png)
+![screenshot](https://i.imgur.com/AqqXbjz.png)
+![screenshot](https://i.imgur.com/m95orpw.png)
+![screenshot](https://i.imgur.com/1uU9Dp1.png)
+![screenshot](https://i.imgur.com/U2XYPAj.png)
+![screenshot](https://i.imgur.com/23eeHZS.png)
+![screenshot](https://i.imgur.com/pMCxwyP.png)
+![screenshot](https://i.imgur.com/sxeUg1K.png)
+
 How to try this simplified toon lit example shader in my URP project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
