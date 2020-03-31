@@ -69,6 +69,7 @@ https://youtu.be/HmuaWpL5Pi8
 ![screenshot](https://i.imgur.com/23eeHZS.png)
 ![screenshot](https://i.imgur.com/pMCxwyP.png)
 ![screenshot](https://i.imgur.com/sxeUg1K.png)
+https://youtu.be/tNnqIP4NdV8
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
@@ -109,6 +110,7 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/IP293mAmBCk
 - https://youtu.be/n_bFQ9GNhcM
 - https://youtu.be/HmuaWpL5Pi8 (current)
+- https://youtu.be/tNnqIP4NdV8 (current)
 
 How to get a test character model?
 -------------------
