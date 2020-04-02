@@ -10,12 +10,12 @@ https://youtu.be/ZfSZOHTBypc
 -------------------
 This repository contains a very simple toon lit shader example, to help people writing their first custom toon lit shader in URP.
 
-This shader's default result(without editing material params) = the following picture
+This example shader's default result(without editing material params) = the following picture
 ![screenshot](https://i.imgur.com/mbUnvsA.png)
 
-Because this toon lit shader aims to help people learning shader writing in URP, it is an extremely simplified version of the original one (I removed 80% of my original code, while just keeping only the most useful & easy to understand sections), to make sure everyone can understand the shader code easily.
+Because this example toon lit shader aims to help people learning shader writing in URP, it is an extremely simplified version of the original one (Only contains 10% of the full version shader, this example shader only contains the most useful & easy to understand sections), to make sure everyone can understand the shader code easily.
 
-At the end I simplified it too much, so it is now a "How to write your first custom lit shader in URP" example, instead of a good looking toon lit shader example (lots of toon lit tricks are not included in this shader, for simplicity reason).
+It is a "How to write your first custom lit shader in URP" example, instead of a good looking toon lit shader example (lots of toon lit tricks are not included in this shader, for simplicity reason).
 
 Why creating this "simplified version" toon lit shader?
 -------------------
