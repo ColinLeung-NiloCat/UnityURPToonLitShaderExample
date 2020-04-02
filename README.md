@@ -16,9 +16,13 @@ Lots of my shader friends are looking for a toon lit example shader in URP (not 
 
 Some screenshots from the Full version shader(not yet released):
 -------------------
+
+BEFORE
 ![screenshot](https://i.imgur.com/KmM3XxA.png)
+AFTER
 ![screenshot](https://i.imgur.com/JSuEssw.png)
 https://youtu.be/ZfSZOHTBypc
+
 ---
 ![screenshot](https://i.imgur.com/RDqMYVP.png)
 ![screenshot](https://i.imgur.com/AqqXbjz.png)
