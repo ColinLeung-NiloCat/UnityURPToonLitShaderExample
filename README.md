@@ -10,9 +10,7 @@ https://youtu.be/ZfSZOHTBypc
 -------------------
 This repository contains a very simple toon lit shader example, to help people writing their first custom toon lit shader in URP.
 
-This shader's default result(without editing material params) = the following picture's left & center characters,
-
-While the character on the right is using the full version(not simplified) of this shader.
+This shader's default result(without editing material params) = the following picture
 ![screenshot](https://i.imgur.com/mbUnvsA.png)
 
 Because this toon lit shader aims to help people learning shader writing in URP, it is an extremely simplified version of the original one (I removed 80% of my original code, while just keeping only the most useful & easy to understand sections), to make sure everyone can understand the shader code easily.
