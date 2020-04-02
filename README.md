@@ -71,6 +71,10 @@ https://youtu.be/HmuaWpL5Pi8
 ![screenshot](https://i.imgur.com/sxeUg1K.png)
 https://youtu.be/tNnqIP4NdV8
 
+![screenshot](https://i.imgur.com/KmM3XxA.png)
+![screenshot](https://i.imgur.com/JSuEssw.png)
+https://youtu.be/ZfSZOHTBypc
+
 How to try this simplified toon lit example shader in my URP project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
@@ -111,6 +115,7 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/n_bFQ9GNhcM
 - https://youtu.be/HmuaWpL5Pi8 (current)
 - https://youtu.be/tNnqIP4NdV8 (current)
+- https://youtu.be/ZfSZOHTBypc (current)
 
 How to get a test character model?
 -------------------
