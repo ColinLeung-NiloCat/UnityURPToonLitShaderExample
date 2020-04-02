@@ -58,15 +58,6 @@ https://youtu.be/IP293mAmBCk
 ![screenshot](https://i.imgur.com/lt45arW.png)
 ![screenshot](https://i.imgur.com/RcSz8H1.png)
 
-(2020-3 lastest version screen shots)
-Our goal is to create a generic toon lit shader for URP, which can apply unify toon lighting to any game's character model
-![screenshot](https://i.imgur.com/LJPsQp2.png)
-![screenshot](https://i.imgur.com/gaHWoS0.png)
-
-![screenshot](https://i.imgur.com/fRARvh5.png)
-![screenshot](https://i.imgur.com/imCw8iu.png)
-https://youtu.be/HmuaWpL5Pi8
-
 
 
 
