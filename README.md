@@ -16,18 +16,20 @@ Lots of my shader friends are looking for a toon lit example shader in URP (not 
 
 Some screenshots from the Full version shader(not yet released):
 -------------------
-URP Standard Lit(Left) vs our shader(Right)
-![screenshot](https://i.imgur.com/Ma4wwQv.png)
-
-Apply our shader to different models
-![screenshot](https://i.imgur.com/AgDKEil.png)
-
-Unlit______________________________________________________________________________
-![screenshot](https://i.imgur.com/tQyWLCl.png)
-
-vs our shader______________________________________________________________________
-![screenshot](https://i.imgur.com/B8DoTHj.png)
-
+![screenshot](https://i.imgur.com/KmM3XxA.png)
+![screenshot](https://i.imgur.com/JSuEssw.png)
+https://youtu.be/ZfSZOHTBypc
+---
+![screenshot](https://i.imgur.com/RDqMYVP.png)
+![screenshot](https://i.imgur.com/AqqXbjz.png)
+![screenshot](https://i.imgur.com/m95orpw.png)
+![screenshot](https://i.imgur.com/1uU9Dp1.png)
+![screenshot](https://i.imgur.com/U2XYPAj.png)
+![screenshot](https://i.imgur.com/23eeHZS.png)
+![screenshot](https://i.imgur.com/pMCxwyP.png)
+![screenshot](https://i.imgur.com/sxeUg1K.png)
+https://youtu.be/tNnqIP4NdV8
+---
 Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/KxdjhCx.png)
 ![screenshot](https://i.imgur.com/6t2FMcg.png)
@@ -61,19 +63,9 @@ Our goal is to create a generic toon lit shader for URP, which can apply unify t
 ![screenshot](https://i.imgur.com/imCw8iu.png)
 https://youtu.be/HmuaWpL5Pi8
 
-![screenshot](https://i.imgur.com/RDqMYVP.png)
-![screenshot](https://i.imgur.com/AqqXbjz.png)
-![screenshot](https://i.imgur.com/m95orpw.png)
-![screenshot](https://i.imgur.com/1uU9Dp1.png)
-![screenshot](https://i.imgur.com/U2XYPAj.png)
-![screenshot](https://i.imgur.com/23eeHZS.png)
-![screenshot](https://i.imgur.com/pMCxwyP.png)
-![screenshot](https://i.imgur.com/sxeUg1K.png)
-https://youtu.be/tNnqIP4NdV8
 
-![screenshot](https://i.imgur.com/KmM3XxA.png)
-![screenshot](https://i.imgur.com/JSuEssw.png)
-https://youtu.be/ZfSZOHTBypc
+
+
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
