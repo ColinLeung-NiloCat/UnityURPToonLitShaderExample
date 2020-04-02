@@ -7,6 +7,8 @@ BEFORE
 AFTER
 ![screenshot](https://i.imgur.com/JSuEssw.png)
 https://youtu.be/ZfSZOHTBypc
+
+What is included in this "simplified version" toon lit shader repository?
 -------------------
 This repository contains a very simple toon lit shader example, to help people writing their first custom toon lit shader in URP.
 
