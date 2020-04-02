@@ -1,4 +1,13 @@
 # Unity URP Simplified Toon Lit Shader Example (for you to learn writing custom lit shader in URP)
+
+screenshots from the Full version shader(not yet released):
+-------------------
+BEFORE
+![screenshot](https://i.imgur.com/KmM3XxA.png)
+AFTER
+![screenshot](https://i.imgur.com/JSuEssw.png)
+https://youtu.be/ZfSZOHTBypc
+-------------------
 This repository contains a very simple toon lit shader example, to help people writing their first custom toon lit shader in URP.
 
 This shader's default result(without editing material params) = the following picture's left & center characters,
@@ -14,15 +23,8 @@ Why creating this "simplified version" toon lit shader?
 -------------------
 Lots of my shader friends are looking for a toon lit example shader in URP (not Shader Graph), I want them to switch to URP with me (instead of staying in built-in RP), so I decided to provide a simple enough URP toon lit shader example. 
 
-Some screenshots from the Full version shader(not yet released):
--------------------
 
-BEFORE
-![screenshot](https://i.imgur.com/KmM3XxA.png)
-AFTER
-![screenshot](https://i.imgur.com/JSuEssw.png)
-https://youtu.be/ZfSZOHTBypc
-
+More old screenshots from the Full version shader(not yet released):
 ---
 ![screenshot](https://i.imgur.com/RDqMYVP.png)
 ![screenshot](https://i.imgur.com/AqqXbjz.png)
