@@ -3,9 +3,9 @@
 screenshots from the Full version shader(not yet released):
 -------------------
 BEFORE
-![screenshot](https://i.imgur.com/KmM3XxA.png)
+![screenshot](https://i.imgur.com/AMDcMdG.png)
 AFTER
-![screenshot](https://i.imgur.com/JSuEssw.png)
+![screenshot](https://i.imgur.com/GB31Nay.png)
 https://youtu.be/ZfSZOHTBypc
 
 What is included in this "simplified version" toon lit shader repository?
