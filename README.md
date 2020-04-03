@@ -90,7 +90,7 @@ How to try this simplified toon lit example shader in my URP project?
 
 What is NOT included in this simplified example shader?
 -------------------
-For simplicity reason, I removed most of the features from the original shader (deleted 80% of the original shader package), else this shader will be way too complex for reading & learning. The removed features are:
+For simplicity reason, I removed most of the features from the Full version shader (deleted 90% of the original shader), else this example shader will be way too complex for reading & learning. The removed features are:
 - face sphere proxy normal & direction proxy normal (fixing face ugly normals, very important)
 - smooth outline normal auto baking (fixing ugly outlines, very important)
 - constant outline fix for fov and distance to camera (outline looks correct in any situation, very important)
@@ -104,10 +104,11 @@ For simplicity reason, I removed most of the features from the original shader (
 - depth offset for eye rendering over hair
 - most of the extra texture input options like AO, specular, normal map...
 - LOTS of sliders to control lighting, final color & outline
+- (just too much to write all removed feature here)
 
-When will the original toon lit shader(Full version) release?
+When will the Full version toon lit shader release?
 -------------------
-We don't have ETA now, we are still working on it, here are some videos about the original toon lit shader:
+We don't have ETA now, we are still working on it, here are some videos about the Full version toon lit shader:
 - https://youtu.be/uVI_QOioER4
 - https://youtu.be/YtAiCHBvZr0
 - https://youtu.be/QWB060rVjFI
