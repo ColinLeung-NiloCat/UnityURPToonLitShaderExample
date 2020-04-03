@@ -9,6 +9,17 @@ BEFORE
 AFTER
 ![screenshot](https://i.imgur.com/GB31Nay.png)
 https://youtu.be/ZfSZOHTBypc
+BEFORE
+![screenshot](https://i.imgur.com/dPvjIQK.png)
+AFTER
+![screenshot](https://i.imgur.com/GvxXtva.png)
+BEFORE
+![screenshot](https://i.imgur.com/WKL3NwV.png)
+AFTER
+![screenshot](https://i.imgur.com/8e6wtVZ.png)
+
+
+
 
 What is included in this "simplified version" toon lit shader repository?
 -------------------
