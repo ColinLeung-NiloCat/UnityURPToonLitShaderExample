@@ -18,6 +18,11 @@ BEFORE
 ![screenshot](https://i.imgur.com/WKL3NwV.png)
 AFTER
 ![screenshot](https://i.imgur.com/8e6wtVZ.png)
+https://youtu.be/cebGl_MaWnI
+
+Fake Skin SSS & specular
+![screenshot](https://i.imgur.com/ZoDO5TB.png)
+![screenshot](https://i.imgur.com/ICH4dFt.png)
 
 
 
@@ -120,6 +125,7 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/HmuaWpL5Pi8 (current)
 - https://youtu.be/tNnqIP4NdV8 (current)
 - https://youtu.be/ZfSZOHTBypc (current)
+- https://youtu.be/cebGl_MaWnI (current)
 
 How to get a test character model?
 -------------------
