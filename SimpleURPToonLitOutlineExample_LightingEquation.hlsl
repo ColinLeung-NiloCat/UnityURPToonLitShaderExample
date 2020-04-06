@@ -10,13 +10,12 @@
 
 half3 ShadeGIDefaultMethod(SurfaceData surfaceData, LightingData lightingData)
 {
-    half3 averageSH = 0;
-
-    // trying to hide the 3D feeling by average SH
+    // hide 3D feeling by ignore all detail SH
+    // SH 1 (only use this)
+    // SH 234 (ignored)
+    // SH 56789 (ignored)
     // we just want to tint some average envi color only
-    averageSH += SampleSH(+lightingData.normalWS);
-    averageSH += SampleSH(-lightingData.normalWS);
-    averageSH /= 2.0;
+    half3 averageSH = SampleSH(0);
 
     return surfaceData.albedo * (_IndirectLightConstColor + averageSH * _IndirectLightMultiplier);   
 }
@@ -38,7 +37,7 @@ half3 ShadeSingleLightDefaultMethod(SurfaceData surfaceData, LightingData lighti
     lightAttenuation *= lerp(1,light.shadowAttenuation,_ReceiveShadowMappingAmount);
 
     // light's distance & angle fade for point light & spot light (see GetAdditionalPerObjectLight() in Lighting.hlsl)
-    // Lighting.hlsl -> https://github.com/Unity-Technologies/ScriptableRenderPipeline/blob/master/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl
+    // Lighting.hlsl -> https://github.com/Unity-Technologies/Graphics/blob/master/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl
     lightAttenuation *= min(2,light.distanceAttenuation); //max intensity = 2, prevent over bright if light too close, can expose this float to editor if you wish to
 
     // N dot L
