@@ -14,6 +14,7 @@ BEFORE
 ![screenshot](https://i.imgur.com/5afc5z5.png)
 AFTER
 ![screenshot](https://i.imgur.com/pQ4DIqe.png)
+https://youtu.be/Ty4DXLFqqDo
 
 BEFORE
 ![screenshot](https://i.imgur.com/dPvjIQK.png)
@@ -46,47 +47,6 @@ It is a "How to write your first custom lit shader in URP" example, instead of a
 Why creating this "simplified version" toon lit shader?
 -------------------
 Lots of my shader friends are looking for a toon lit example shader in URP (not Shader Graph), I want them to switch to URP with me (instead of staying in built-in RP), so I decided to provide a simple enough URP toon lit shader example. 
-
-
-More old screenshots from the Full version shader(not yet released):
----
-![screenshot](https://i.imgur.com/RDqMYVP.png)
-![screenshot](https://i.imgur.com/AqqXbjz.png)
-![screenshot](https://i.imgur.com/m95orpw.png)
-![screenshot](https://i.imgur.com/1uU9Dp1.png)
-![screenshot](https://i.imgur.com/U2XYPAj.png)
-![screenshot](https://i.imgur.com/23eeHZS.png)
-![screenshot](https://i.imgur.com/pMCxwyP.png)
-![screenshot](https://i.imgur.com/sxeUg1K.png)
-https://youtu.be/tNnqIP4NdV8
----
-Apply our shader to another model (2020-2 early version screen shots)
-![screenshot](https://i.imgur.com/KxdjhCx.png)
-![screenshot](https://i.imgur.com/6t2FMcg.png)
-![screenshot](https://i.imgur.com/LBTNZCH.png)
-![screenshot](https://i.imgur.com/X6hAD7W.png)
-![screenshot](https://i.imgur.com/WIGyMVx.png)
-![screenshot](https://i.imgur.com/zou7PxL.png)
-![screenshot](https://i.imgur.com/CZHnfMC.png)
-(2020-3 early version screen shots)
-![screenshot](https://i.imgur.com/WpkJyFB.png)
-![screenshot](https://i.imgur.com/3iyu3eG.png)
-
-
-
-![screenshot](https://i.imgur.com/DDr32Mu.png)
-https://youtu.be/IP293mAmBCk
-
-![screenshot](https://i.imgur.com/kbpw4Me.png)
-![screenshot](https://i.imgur.com/jaMaTKt.png)
-![screenshot](https://i.imgur.com/D7ARBo0.png)
-
-![screenshot](https://i.imgur.com/lt45arW.png)
-![screenshot](https://i.imgur.com/RcSz8H1.png)
-
-
-
-
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
@@ -131,6 +91,7 @@ We don't have ETA now, we are still working on it, here are some videos about th
 - https://youtu.be/tNnqIP4NdV8 (current)
 - https://youtu.be/ZfSZOHTBypc (current)
 - https://youtu.be/cebGl_MaWnI (current)
+- https://youtu.be/Ty4DXLFqqDo (current)
 
 How to get a test character model?
 -------------------
@@ -154,4 +115,42 @@ Editor environment requirement
 -----------------------
 - URP 7.2.1 or above
 - Unity 2019.3 or above
+
+---------------------------
+More old screenshots from the Full version shader(not yet released):
+---
+![screenshot](https://i.imgur.com/RDqMYVP.png)
+![screenshot](https://i.imgur.com/AqqXbjz.png)
+![screenshot](https://i.imgur.com/m95orpw.png)
+![screenshot](https://i.imgur.com/1uU9Dp1.png)
+![screenshot](https://i.imgur.com/U2XYPAj.png)
+![screenshot](https://i.imgur.com/23eeHZS.png)
+![screenshot](https://i.imgur.com/pMCxwyP.png)
+![screenshot](https://i.imgur.com/sxeUg1K.png)
+https://youtu.be/tNnqIP4NdV8
+---
+Apply our shader to another model (2020-2 early version screen shots)
+![screenshot](https://i.imgur.com/KxdjhCx.png)
+![screenshot](https://i.imgur.com/6t2FMcg.png)
+![screenshot](https://i.imgur.com/LBTNZCH.png)
+![screenshot](https://i.imgur.com/X6hAD7W.png)
+![screenshot](https://i.imgur.com/WIGyMVx.png)
+![screenshot](https://i.imgur.com/zou7PxL.png)
+![screenshot](https://i.imgur.com/CZHnfMC.png)
+(2020-3 early version screen shots)
+![screenshot](https://i.imgur.com/WpkJyFB.png)
+![screenshot](https://i.imgur.com/3iyu3eG.png)
+
+
+
+![screenshot](https://i.imgur.com/DDr32Mu.png)
+https://youtu.be/IP293mAmBCk
+
+![screenshot](https://i.imgur.com/kbpw4Me.png)
+![screenshot](https://i.imgur.com/jaMaTKt.png)
+![screenshot](https://i.imgur.com/D7ARBo0.png)
+
+![screenshot](https://i.imgur.com/lt45arW.png)
+![screenshot](https://i.imgur.com/RcSz8H1.png)
+
 
