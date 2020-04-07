@@ -21,6 +21,12 @@ BEFORE
 ![screenshot](https://i.imgur.com/dPvjIQK.png)
 AFTER
 ![screenshot](https://i.imgur.com/GvxXtva.png)
+
+BEFORE
+![screenshot](https://i.imgur.com/UCETVsr.png)
+AFTER
+![screenshot](https://i.imgur.com/7Wjdp8W.png)
+
 BEFORE
 ![screenshot](https://i.imgur.com/WKL3NwV.png)
 AFTER
