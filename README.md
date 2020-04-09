@@ -147,7 +147,7 @@ Apply our shader to another model (2020-2 early version screen shots)
 ![screenshot](https://i.imgur.com/WIGyMVx.png)
 ![screenshot](https://i.imgur.com/zou7PxL.png)
 ![screenshot](https://i.imgur.com/CZHnfMC.png)
-(2020-3 early version screen shots)
+
 ![screenshot](https://i.imgur.com/WpkJyFB.png)
 ![screenshot](https://i.imgur.com/3iyu3eG.png)
 
