@@ -82,7 +82,7 @@ For simplicity reason, I removed most of the features from the Full version shad
 
 - almost all the extra texture input options like AO, specular, normal map...
 - LOTS of sliders to control lighting, final color & outline
-***just too much to write all removed feature here, the full version shader is a different level product)
+- ***just too much to write all removed feature here, the full version shader is a different level product)
 
 When will the Full version toon lit shader release?
 -------------------
