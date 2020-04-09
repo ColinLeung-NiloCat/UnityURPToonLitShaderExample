@@ -30,7 +30,7 @@ AFTER
 video -> https://youtu.be/cebGl_MaWnI
 
 ![screenshot](https://i.imgur.com/KxdjhCx.png)
-![screenshot](https://i.imgur.com/RDqMYVP.png)
+![screenshot](https://i.imgur.com/6t2FMcg.png)
 ![screenshot](https://i.imgur.com/CZHnfMC.png)
 video -> https://youtu.be/uVI_QOioER4
 
@@ -134,7 +134,7 @@ Editor environment requirement
 ---------------------------
 More old screenshots from the Full version shader(not yet released):
 ---
-
+![screenshot](https://i.imgur.com/RDqMYVP.png)
 ![screenshot](https://i.imgur.com/AqqXbjz.png)
 ![screenshot](https://i.imgur.com/m95orpw.png)
 ![screenshot](https://i.imgur.com/1uU9Dp1.png)
@@ -146,7 +146,7 @@ https://youtu.be/tNnqIP4NdV8
 ---
 Apply our shader to another model (2020-2 early version screen shots)
 https://youtu.be/uVI_QOioER4
-![screenshot](https://i.imgur.com/6t2FMcg.png)
+
 ![screenshot](https://i.imgur.com/LBTNZCH.png)
 ![screenshot](https://i.imgur.com/X6hAD7W.png)
 ![screenshot](https://i.imgur.com/WIGyMVx.png)
