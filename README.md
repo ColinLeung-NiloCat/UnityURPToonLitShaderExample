@@ -30,6 +30,8 @@ AFTER
 video -> https://youtu.be/cebGl_MaWnI
 
 ![screenshot](https://i.imgur.com/KxdjhCx.png)
+![screenshot](https://i.imgur.com/RDqMYVP.png)
+![screenshot](https://i.imgur.com/CZHnfMC.png)
 video -> https://youtu.be/uVI_QOioER4
 
 Fake Skin SSS & specular
@@ -132,7 +134,7 @@ Editor environment requirement
 ---------------------------
 More old screenshots from the Full version shader(not yet released):
 ---
-![screenshot](https://i.imgur.com/RDqMYVP.png)
+
 ![screenshot](https://i.imgur.com/AqqXbjz.png)
 ![screenshot](https://i.imgur.com/m95orpw.png)
 ![screenshot](https://i.imgur.com/1uU9Dp1.png)
@@ -149,7 +151,7 @@ https://youtu.be/uVI_QOioER4
 ![screenshot](https://i.imgur.com/X6hAD7W.png)
 ![screenshot](https://i.imgur.com/WIGyMVx.png)
 ![screenshot](https://i.imgur.com/zou7PxL.png)
-![screenshot](https://i.imgur.com/CZHnfMC.png)
+
 
 ![screenshot](https://i.imgur.com/WpkJyFB.png)
 ![screenshot](https://i.imgur.com/3iyu3eG.png)
