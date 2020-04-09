@@ -23,6 +23,12 @@ AFTER
 ![screenshot](https://i.imgur.com/pQ4DIqe.png)
 video -> https://youtu.be/Ty4DXLFqqDo
 
+BEFORE
+![screenshot](https://i.imgur.com/WKL3NwV.png)
+AFTER
+![screenshot](https://i.imgur.com/8e6wtVZ.png)
+video -> https://youtu.be/cebGl_MaWnI
+
 Fake Skin SSS & specular
 ![screenshot](https://i.imgur.com/ZoDO5TB.png)
 ![screenshot](https://i.imgur.com/ICH4dFt.png)
@@ -32,11 +38,7 @@ BEFORE
 AFTER
 ![screenshot](https://i.imgur.com/GvxXtva.png)
 
-BEFORE
-![screenshot](https://i.imgur.com/WKL3NwV.png)
-AFTER
-![screenshot](https://i.imgur.com/8e6wtVZ.png)
-video -> https://youtu.be/cebGl_MaWnI
+
 
 What is included in this "simplified version" toon lit shader repository?
 -------------------
