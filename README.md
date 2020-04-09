@@ -82,7 +82,7 @@ For simplicity reason, I removed most of the features from the Full version shad
 
 - almost all the extra texture input options like AO, specular, normal map...
 - LOTS of sliders to control lighting, final color & outline
-- ***just too much to write all removed feature here, the full version shader is a different level product)
+- ***just too much for me to write all removed feature here, the full version shader is a totally different level product
 
 When will the Full version toon lit shader release?
 -------------------
@@ -103,7 +103,7 @@ We don't have ETA now, we are still working on it, here are some videos about th
 
 How to get a test character model?
 -------------------
-The easiest way to get a character model is downloading Unity-Chan in the assetstore.
+The easiest way to get a character model is by downloading Unity-Chan in the assetstore.
 
 Also, here are some websites that can download models(If the creator allows it)
 - https://3d.nicovideo.jp/
