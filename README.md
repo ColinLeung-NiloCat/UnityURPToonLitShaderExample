@@ -29,6 +29,9 @@ AFTER
 ![screenshot](https://i.imgur.com/8e6wtVZ.png)
 video -> https://youtu.be/cebGl_MaWnI
 
+![screenshot](https://i.imgur.com/KxdjhCx.png)
+video -> https://youtu.be/uVI_QOioER4
+
 Fake Skin SSS & specular
 ![screenshot](https://i.imgur.com/ZoDO5TB.png)
 ![screenshot](https://i.imgur.com/ICH4dFt.png)
@@ -140,7 +143,7 @@ More old screenshots from the Full version shader(not yet released):
 https://youtu.be/tNnqIP4NdV8
 ---
 Apply our shader to another model (2020-2 early version screen shots)
-![screenshot](https://i.imgur.com/KxdjhCx.png)
+https://youtu.be/uVI_QOioER4
 ![screenshot](https://i.imgur.com/6t2FMcg.png)
 ![screenshot](https://i.imgur.com/LBTNZCH.png)
 ![screenshot](https://i.imgur.com/X6hAD7W.png)
