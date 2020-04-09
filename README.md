@@ -1,9 +1,9 @@
 # Unity URP Simplified Toon Lit Shader Example (for you to learn writing custom lit shader in URP)
 
 This repository is NOT the full version shader, the full version shader is still WIP and not yet released.
-This repository is only for tutorial purpose.
+This repository is only for tutorial purpose, which only contains a very simple and short shader example.
 
-screenshots from the Full version shader(not yet released):
+Screenshots from the Full version shader (not yet released):
 -------------------
 BEFORE
 ![screenshot](https://i.imgur.com/AMDcMdG.png)
@@ -32,18 +32,11 @@ BEFORE
 AFTER
 ![screenshot](https://i.imgur.com/GvxXtva.png)
 
-
-
 BEFORE
 ![screenshot](https://i.imgur.com/WKL3NwV.png)
 AFTER
 ![screenshot](https://i.imgur.com/8e6wtVZ.png)
 video -> https://youtu.be/cebGl_MaWnI
-
-
-
-
-
 
 What is included in this "simplified version" toon lit shader repository?
 -------------------
@@ -52,13 +45,13 @@ This repository contains a very simple toon lit shader example, to help people w
 This example shader's default result(without editing material params) = the following picture
 ![screenshot](https://i.imgur.com/mbUnvsA.png)
 
-Because this example toon lit shader aims to help people learning shader writing in URP, it is an extremely simplified version of the original one (Only contains 10% of the full version shader, this example shader only contains the most useful & easy to understand sections), to make sure everyone can understand the shader code easily.
+Because this example toon lit shader aims to help people learning shader writing in URP, it is an extremely simplified version of the full version one. This repository only contains ~10% of the full version shader, which only contains the most useful & easy to understand sections, to make sure everyone can understand the shader code easily.
 
-It is a "How to write your first custom lit shader in URP" example, instead of a good looking toon lit shader example (lots of toon lit tricks are not included in this shader, for simplicity reason).
+It is actually a "How to write your first custom lit shader in URP" example, instead of a good looking toon lit shader example (lots of toon lit tricks are not included in this example shader, for tutorial reason).
 
 Why creating this "simplified version" toon lit shader?
 -------------------
-Lots of my shader friends are looking for a toon lit example shader in URP (not Shader Graph), I want them to switch to URP with me (instead of staying in built-in RP), so I decided to provide a simple enough URP toon lit shader example. 
+Lots of my shader friends are looking for a toon lit example shader in URP (not Shader Graph), I want them to switch to URP with me (instead of still staying in built-in RP), so I decided to provide a simple enough URP toon lit shader example. 
 
 How to try this simplified toon lit example shader in my URP project?
 -------------------
@@ -77,17 +70,19 @@ For simplicity reason, I removed most of the features from the Full version shad
 - face sphere proxy normal & direction proxy normal (fixing face ugly normals, very important)
 - smooth outline normal auto baking (fixing ugly outlines, very important)
 - constant outline fix for fov and distance to camera (outline looks correct in any situation, very important)
+- tricks to remove unwanted hair shadow casted on face (to keep face looks clean, very important)
+- tricks to render eye over hair
 - hair "angel ring" reflection
-- character bounding sphere proxy normal
-- rim light
-- specular lighting (GGX)
+- sharp rim light
+- PBR specular lighting (GGX)
 - HSV control shadow & outline color
 - 2D mouth renderer
 - stencil local hair shadow on face
-- depth offset for eye rendering over hair
-- most of the extra texture input options like AO, specular, normal map...
+- physics and wind
+
+- almost all the extra texture input options like AO, specular, normal map...
 - LOTS of sliders to control lighting, final color & outline
-- (just too much to write all removed feature here)
+***just too much to write all removed feature here, the full version shader is a different level product)
 
 When will the Full version toon lit shader release?
 -------------------
