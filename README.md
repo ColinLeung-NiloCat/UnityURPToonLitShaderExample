@@ -6,6 +6,11 @@ This repository is only for tutorial purpose, which only contains a very simple 
 Screenshots from the Full version shader (not yet released):
 -------------------
 BEFORE
+![screenshot](https://i.imgur.com/U5ba2lM.png)
+AFTER
+![screenshot](https://i.imgur.com/cuZUqwW.png)
+
+BEFORE
 ![screenshot](https://i.imgur.com/AMDcMdG.png)
 AFTER
 ![screenshot](https://i.imgur.com/GB31Nay.png)
