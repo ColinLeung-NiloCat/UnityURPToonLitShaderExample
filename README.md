@@ -6,16 +6,16 @@ This repository is only for tutorial purpose, which only contains a very simple 
 Screenshots from the Full version shader (not yet released):
 -------------------
 BEFORE
-![screenshot](https://i.imgur.com/C8AGshD.png)
+![screenshot](https://i.imgur.com/FiuK1Cj.png)
 AFTER:
 Sunny + StreetLight ON
-![screenshot](https://i.imgur.com/gkCt1ED.png)
+![screenshot](https://i.imgur.com/Lh5D9Y9.png)
 Sunny + StreetLight OFF
-![screenshot](https://i.imgur.com/kxf3aGu.png)
+![screenshot](https://i.imgur.com/NcsKQL8.png)
 Night + StreetLight ON
-![screenshot](https://i.imgur.com/Iaa6Y9Z.png)
+![screenshot](https://i.imgur.com/AXV9Yig.png)
 Night + StreetLight OFF
-![screenshot](https://i.imgur.com/L2Tz9hb.png)
+![screenshot](https://i.imgur.com/mJ1sjUm.png)
 
 
 BEFORE
