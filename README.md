@@ -6,6 +6,12 @@ This repository is only for tutorial purpose, which only contains a very simple 
 Screenshots from the Full version shader (not yet released):
 -------------------
 BEFORE
+![screenshot](https://i.imgur.com/K6mZCcH.png)
+AFTER:
+![screenshot](https://i.imgur.com/hjEeAoM.png)
+
+-------------------
+BEFORE
 ![screenshot](https://i.imgur.com/FiuK1Cj.png)
 AFTER:
 Sunny + StreetLight ON
