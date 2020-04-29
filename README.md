@@ -29,9 +29,13 @@ Night + StreetLight OFF
 see it in motion -> https://youtu.be/jDSnJmZrKPw
 ---
 BEFORE
-![screenshot](https://i.imgur.com/C8m4fKl.png)
+![screenshot](https://i.imgur.com/PR3nX4v.png)
+![screenshot](https://i.imgur.com/ULROP7a.png)
 AFTER (just change the shader without editing any material properties)
-![screenshot](https://i.imgur.com/29nJYRE.png)
+![screenshot](https://i.imgur.com/zogMEjw.png)
+![screenshot](https://i.imgur.com/qTdIpu1.png)
+![screenshot](https://i.imgur.com/FeHZYv1.png)
+![screenshot](https://i.imgur.com/cVfkV0k.png)
 creator of model: https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
 ---
 BEFORE
