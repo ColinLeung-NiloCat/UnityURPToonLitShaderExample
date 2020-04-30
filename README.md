@@ -7,6 +7,7 @@ Screenshots from the Full version shader (not yet released):
 -------------------
 SHADER ON
 ![screenshot](https://i.imgur.com/utXF8Qq.png)
+![screenshot](https://i.imgur.com/oEsHSMM.png)
 BEFORE
 ![screenshot](https://i.imgur.com/K6mZCcH.png)
 AFTER:
