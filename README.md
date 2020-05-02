@@ -14,7 +14,12 @@ AFTER:
 ![screenshot](https://i.imgur.com/hjEeAoM.png)
 see it in motion-> https://youtu.be/D9ocVzGJfI8
 ---
-
+BEFORE
+![screenshot](https://i.imgur.com/a9VUVgd.png)
+AFTER:
+![screenshot](https://i.imgur.com/VgSZMka.png)
++2D hair shadow & rim light
+![screenshot](https://i.imgur.com/KXdMhhv.png)
 -------------------
 BEFORE
 ![screenshot](https://i.imgur.com/FiuK1Cj.png)
