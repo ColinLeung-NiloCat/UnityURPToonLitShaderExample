@@ -18,10 +18,14 @@ BEFORE
 
 
 ![screenshot](https://i.imgur.com/a9VUVgd.png)
+
+
 AFTER:
 
 
 ![screenshot](https://i.imgur.com/VgSZMka.png)
+
+
 add 2D hair shadow & rim light
 
 
