@@ -14,6 +14,7 @@ AFTER:
 ![screenshot](https://i.imgur.com/hjEeAoM.png)
 see it in motion-> https://youtu.be/D9ocVzGJfI8
 ---
+-------------------
 BEFORE
 ![screenshot](https://i.imgur.com/a9VUVgd.png)
 AFTER:
