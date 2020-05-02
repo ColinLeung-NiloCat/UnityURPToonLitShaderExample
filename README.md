@@ -19,8 +19,9 @@ BEFORE
 ![screenshot](https://i.imgur.com/a9VUVgd.png)
 AFTER:
 ![screenshot](https://i.imgur.com/VgSZMka.png)
-+2D hair shadow & rim light
+add 2D hair shadow & rim light
 ![screenshot](https://i.imgur.com/KXdMhhv.png)
+---
 -------------------
 BEFORE
 ![screenshot](https://i.imgur.com/FiuK1Cj.png)
