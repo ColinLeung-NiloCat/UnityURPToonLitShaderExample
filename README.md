@@ -45,7 +45,9 @@ BEFORE
 ![screenshot](https://i.imgur.com/ApJyl6p.png)
 AFTER:
 ![screenshot](https://i.imgur.com/5GiKMUG.png)
-model's creator: https://i-fox.club/pcr/
+model's creator: 
+https://i-fox.club/pcr/
+https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
 
 -------------------
 BEFORE
@@ -69,7 +71,6 @@ AFTER (just change the shader without editing any material properties)
 ![screenshot](https://i.imgur.com/qTdIpu1.png)
 ![screenshot](https://i.imgur.com/FeHZYv1.png)
 ![screenshot](https://i.imgur.com/cVfkV0k.png)
-creator of model: https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
 ---
 BEFORE
 ![screenshot](https://i.imgur.com/U5ba2lM.png)
