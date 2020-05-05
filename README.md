@@ -39,6 +39,14 @@ add 2D hair shadow & rim light
 
 see it in motion-> https://youtu.be/S67GlGAnvWA
 ---
+
+---
+BEFORE
+![screenshot](https://i.imgur.com/ApJyl6p.png)
+AFTER:
+![screenshot](https://i.imgur.com/5GiKMUG.png)
+model's creator: https://i-fox.club/pcr/
+
 -------------------
 BEFORE
 ![screenshot](https://i.imgur.com/FiuK1Cj.png)
