@@ -45,10 +45,13 @@ BEFORE
 ![screenshot](https://i.imgur.com/ApJyl6p.png)
 AFTER:
 ![screenshot](https://i.imgur.com/5GiKMUG.png)
+
 model's creator: 
 https://i-fox.club/pcr/
 https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
 
+see it in motion-> https://youtu.be/M6FKoEiOAzU
+---
 -------------------
 BEFORE
 ![screenshot](https://i.imgur.com/FiuK1Cj.png)
