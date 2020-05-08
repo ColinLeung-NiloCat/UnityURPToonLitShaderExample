@@ -339,7 +339,7 @@ half4 ShadeFinalColor(Varyings input, bool isOutline)
     LightingData lightingData;
     lightingData.positionWS = input.positionWSAndFogFactor.xyz;
     lightingData.viewDirectionWS = SafeNormalize(GetCameraPositionWS() - lightingData.positionWS);  
-    lightingData.normalWS = input.normalWS;
+    lightingData.normalWS = normalize(input.normalWS); //interpolated normal is NOT unit vector
 
 #ifdef _MAIN_LIGHT_SHADOWS
     lightingData.shadowCoord = input.shadowCoord;
