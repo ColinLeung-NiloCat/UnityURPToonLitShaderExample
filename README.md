@@ -258,10 +258,12 @@ https://youtu.be/IP293mAmBCk
 
 credits
 ------------------------
-model's creator: 
-https://i-fox.club/pcr/
-https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
-MiHoYo - honkai impact 3
-Kuro Game - Punishing: Grey Raven
+model's creator in shader demo image/video: 
+- https://i-fox.club/pcr/
+- https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
+- miHoYo - Honkai Impact 3
+- Kuro Game - Punishing: Grey Raven
+- Azur Lane: Crosswave
+- Sour式鏡音リン
 
 
