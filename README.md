@@ -265,5 +265,6 @@ model's creator in shader demo image/video:
 - Kuro Game - Punishing: Grey Raven
 - Azur Lane: Crosswave
 - Sour式鏡音リン
+- Unity-Chan in asset store
 
 
