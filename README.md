@@ -55,10 +55,6 @@ BEFORE
 AFTER:
 ![screenshot](https://i.imgur.com/5GiKMUG.png)
 
-model's creator: 
-https://i-fox.club/pcr/
-https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
-
 see it in motion-> https://youtu.be/M6FKoEiOAzU
 ---
 -------------------
@@ -259,5 +255,13 @@ https://youtu.be/IP293mAmBCk
 
 ![screenshot](https://i.imgur.com/lt45arW.png)
 ![screenshot](https://i.imgur.com/RcSz8H1.png)
+
+credits
+------------------------
+model's creator: 
+https://i-fox.club/pcr/
+https://sketchfab.com/3d-models/band-of-sisters-2f1c0626d4cf4fd286c4cf5d109f7a32
+MiHoYo - honkai impact 3
+Kuro Game - Punishing: Grey Raven
 
 
