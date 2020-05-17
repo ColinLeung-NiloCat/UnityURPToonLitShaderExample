@@ -81,15 +81,6 @@ Night + StreetLight OFF
 see it in motion -> https://youtu.be/jDSnJmZrKPw
 ---
 BEFORE
-![screenshot](https://i.imgur.com/PR3nX4v.png)
-![screenshot](https://i.imgur.com/ULROP7a.png)
-AFTER (just change the shader without editing any material properties)
-![screenshot](https://i.imgur.com/zogMEjw.png)
-![screenshot](https://i.imgur.com/qTdIpu1.png)
-![screenshot](https://i.imgur.com/FeHZYv1.png)
-![screenshot](https://i.imgur.com/cVfkV0k.png)
----
-BEFORE
 ![screenshot](https://i.imgur.com/U5ba2lM.png)
 AFTER
 ![screenshot](https://i.imgur.com/cuZUqwW.png)
