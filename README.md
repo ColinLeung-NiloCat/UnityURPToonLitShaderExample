@@ -9,6 +9,7 @@ BEFORE
 ![screenshot](https://i.imgur.com/Ak6rFTp.png)
 AFTER
 ![screenshot](https://i.imgur.com/6BTsiRF.png)
+(more shadow from trees)
 ![screenshot](https://i.imgur.com/qSygREh.png)
 ---
 SHADER ON
