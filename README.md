@@ -5,6 +5,12 @@ This repository is only for tutorial purpose, which only contains a very simple 
 
 Screenshots from the Full version shader (not yet released):
 -------------------
+BEFORE
+![screenshot](https://i.imgur.com/Ak6rFTp.png)
+AFTER
+![screenshot](https://i.imgur.com/6BTsiRF.png)
+![screenshot](https://i.imgur.com/qSygREh.png)
+---
 SHADER ON
 ![screenshot](https://i.imgur.com/utXF8Qq.png)
 ![screenshot](https://i.imgur.com/oEsHSMM.png)
