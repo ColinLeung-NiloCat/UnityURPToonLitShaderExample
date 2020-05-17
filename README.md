@@ -190,20 +190,8 @@ For simplicity reason, I removed most of the features from the Full version shad
 When will the Full version toon lit shader release?
 -------------------
 We don't have ETA now, we are still working on it, here are some videos about the Full version toon lit shader:
-- https://youtu.be/uVI_QOioER4
-- https://youtu.be/YtAiCHBvZr0
-- https://youtu.be/QWB060rVjFI
-- https://youtu.be/URVgKT5c3PM
-- https://youtu.be/6Gx0LxByfWk
-- https://youtu.be/IP293mAmBCk
-- https://youtu.be/n_bFQ9GNhcM
-- https://youtu.be/HmuaWpL5Pi8
-- https://youtu.be/tNnqIP4NdV8 (current)
-- https://youtu.be/ZfSZOHTBypc (current)
-- https://youtu.be/cebGl_MaWnI (current)
-- https://youtu.be/Ty4DXLFqqDo (current)
-- https://youtu.be/EgxiWPk-vaE (current)
-- https://youtu.be/gcUCTLF5hwE (current)
+- https://youtu.be/hUWacEQH6js
+- https://www.youtube.com/channel/UCsvlGOZyqjd68ZUUmgqwj0g
 
 How to get a test character model?
 -------------------
