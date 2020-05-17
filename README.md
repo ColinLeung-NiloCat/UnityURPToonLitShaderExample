@@ -29,6 +29,14 @@ see it in motion-> https://youtu.be/hUWacEQH6js
 ---
 BEFORE
 
+![screenshot](https://i.imgur.com/kZFNunW.png)
+
+AFTER:
+
+![screenshot](https://i.imgur.com/mnm5uYS.png)
+
+BEFORE
+
 
 ![screenshot](https://i.imgur.com/a9VUVgd.png)
 
@@ -45,13 +53,7 @@ add 2D hair shadow & rim light
 ![screenshot](https://i.imgur.com/KXdMhhv.png)
 
 
-BEFORE
 
-![screenshot](https://i.imgur.com/kZFNunW.png)
-
-AFTER:
-
-![screenshot](https://i.imgur.com/mnm5uYS.png)
 
 see it in motion-> https://youtu.be/S67GlGAnvWA
 ---
