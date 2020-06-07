@@ -227,10 +227,16 @@ half3 GetFinalEmissionColor(Varyings input)
 }
 void DoClipTestToTargetAlphaValue(half alpha) 
 {
+    //2020-6-8: disable to fix an iOS compile fail bug
+    /*
     if(_UseAlphaClipping)
     {   
         clip(alpha - _Cutoff);
     }
+    */
+
+    //2020-6-8: now temp use this method, it is not good, don't learn it, should convert this back to a normal shader_feature
+    clip(alpha - _Cutoff + (1.0001-_UseAlphaClipping));
 }
 SurfaceData InitializeSurfaceData(Varyings input)
 {
