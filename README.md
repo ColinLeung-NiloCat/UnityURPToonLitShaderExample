@@ -13,6 +13,17 @@ shader ON
 ![screenshot](https://i.imgur.com/KGvkY3m.png)
 shader OFF
 ![screenshot](https://i.imgur.com/0JiRa7k.png)
+
+SHADER ON
+![screenshot](https://i.imgur.com/utXF8Qq.png)
+![screenshot](https://i.imgur.com/oEsHSMM.png)
+BEFORE
+![screenshot](https://i.imgur.com/K6mZCcH.png)
+AFTER:
+![screenshot](https://i.imgur.com/hjEeAoM.png)
+see it in motion-> https://youtu.be/D9ocVzGJfI8
+---
+
 BEFORE
 ![screenshot](https://i.imgur.com/JImt9l4.png)
 AFTER
@@ -26,15 +37,7 @@ AFTER
 (more shadow from trees)
 ![screenshot](https://i.imgur.com/qSygREh.png)
 ---
-SHADER ON
-![screenshot](https://i.imgur.com/utXF8Qq.png)
-![screenshot](https://i.imgur.com/oEsHSMM.png)
-BEFORE
-![screenshot](https://i.imgur.com/K6mZCcH.png)
-AFTER:
-![screenshot](https://i.imgur.com/hjEeAoM.png)
-see it in motion-> https://youtu.be/D9ocVzGJfI8
----
+
 BEFORE
 ![screenshot](https://i.imgur.com/rXEDmiy.png)
 AFTER:
