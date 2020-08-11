@@ -7,10 +7,10 @@ You can use this shader as a starting point, add/edit code to develop your own c
 *Usually, just by editing "SimpleURPToonLitOutlineExample_LightingEquation.hlsl" alone can control most of the visual result.
 
 This shader includes 4 passes:
-0.SurfaceColor pass (this pass will always render to the color buffer)
-1.Outline pass (this pass will always render to the color buffer)
+0.SurfaceColor pass (this pass will always render to the color buffer _CameraColorTexture)
+1.Outline pass (this pass will always render to the color buffer _CameraColorTexture)
 2.ShadowCaster pass (only for URP's shadow mapping, this pass won't render at all if your project don't use shadow mapping)
-3.DepthOnly pass (only for URP's depth texture rendering, this pass won't render at all if your project don't use depth texture)
+3.DepthOnly pass (only for URP's depth texture _CameraDepthTexture's rendering, this pass won't render at all if your project don't use depth texture)
 
 *because most of the time, you use a toon lit shader for characters, so all lightmap & instancing related code are removed for simplicity.
 
@@ -84,7 +84,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
             Name "SurfaceColor"
             Tags
             {
-                // "Lightmode" tag must be "UniversalForward" or not be defined, in order to render objects in URP.
+                // "Lightmode" tag must be "UniversalForward" in order to render lit objects in URP.
                 "LightMode" = "UniversalForward"
             }
 
