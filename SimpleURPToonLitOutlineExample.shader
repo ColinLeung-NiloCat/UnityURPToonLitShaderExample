@@ -68,7 +68,11 @@ Shader "SimpleURPToonLitExample(With Outline)"
             // that can match multiple render pipelines. If a RenderPipeline tag is not set it will match
             // any render pipeline. In case you want your subshader to only run in URP, set the tag to
             // "UniversalRenderPipeline"
-            "RenderPipeline" = "UniversalRenderPipeline"
+            
+            //for this subshader to render in URP only,
+            //use "UniversalPipeline", not "UniversalRenderPipeline"
+            //https://github.com/Unity-Technologies/Graphics/pull/1431/
+            "RenderPipeline" = "UniversalPipeline"
         }
         
         // ------------------------------------------------------------------
