@@ -13,6 +13,10 @@ shader ON
 ![screenshot](https://i.imgur.com/KGvkY3m.png)
 shader OFF
 ![screenshot](https://i.imgur.com/0JiRa7k.png)
+shader ON
+![screenshot](https://i.imgur.com/VLZKP5h.png)
+shader OFF
+![screenshot](https://i.imgur.com/lTm0zvH.png)
 
 SHADER ON
 ![screenshot](https://i.imgur.com/utXF8Qq.png)
