@@ -21,6 +21,12 @@ shader ON
 ![screenshot](https://i.imgur.com/VLZKP5h.png)
 shader OFF
 ![screenshot](https://i.imgur.com/lTm0zvH.png)
+shader ON
+![screenshot](https://i.imgur.com/m1gnYEr.png)
+![screenshot](https://i.imgur.com/C5lFumg.png)
+![screenshot](https://i.imgur.com/kz0uuqT.png)
+shader OFF
+![screenshot](https://i.imgur.com/P79RmTS.png)
 
 SHADER ON
 ![screenshot](https://i.imgur.com/utXF8Qq.png)
