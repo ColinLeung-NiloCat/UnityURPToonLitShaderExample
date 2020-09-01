@@ -285,5 +285,6 @@ model's creator in shader demo image/video:
 - Azur Lane: Crosswave
 - Sour式鏡音リン
 - Unity-Chan in asset store
+- https://www.bilibili.com/blackboard/activity-mrfzrlha.html
 
 
