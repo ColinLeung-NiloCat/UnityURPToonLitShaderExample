@@ -13,6 +13,23 @@ shader ON
 ![screenshot](https://i.imgur.com/KGvkY3m.png)
 shader OFF
 ![screenshot](https://i.imgur.com/0JiRa7k.png)
+
+SHADER ON
+![screenshot](https://i.imgur.com/utXF8Qq.png)
+![screenshot](https://i.imgur.com/oEsHSMM.png)
+BEFORE
+![screenshot](https://i.imgur.com/K6mZCcH.png)
+AFTER:
+![screenshot](https://i.imgur.com/hjEeAoM.png)
+see it in motion-> https://youtu.be/D9ocVzGJfI8
+
+different BG TEST
+![screenshot](https://i.imgur.com/hev9PtZ.png)
+![screenshot](https://i.imgur.com/lRdXn3I.png)
+![screenshot](https://i.imgur.com/cx8tZox.png)
+![screenshot](https://i.imgur.com/GYPoNWT.png)
+![screenshot](https://i.imgur.com/fZw0Wzt.png)
+
 shader ON
 ![screenshot](https://i.imgur.com/A2NA1Po.png)
 shader OFF
@@ -28,14 +45,7 @@ shader ON
 shader OFF
 ![screenshot](https://i.imgur.com/P79RmTS.png)
 
-SHADER ON
-![screenshot](https://i.imgur.com/utXF8Qq.png)
-![screenshot](https://i.imgur.com/oEsHSMM.png)
-BEFORE
-![screenshot](https://i.imgur.com/K6mZCcH.png)
-AFTER:
-![screenshot](https://i.imgur.com/hjEeAoM.png)
-see it in motion-> https://youtu.be/D9ocVzGJfI8
+
 ---
 
 BEFORE
