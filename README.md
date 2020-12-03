@@ -29,7 +29,7 @@ real 3D background TEST
 ![screenshot](https://i.imgur.com/WlOQtCf.png)
 see it in motion-> https://youtu.be/GcW0pNo-zus
 
-TEST
+Kawaii model TEST
 ![screenshot](https://i.imgur.com/7CAw71u.png)
 ![screenshot](https://i.imgur.com/42CUENh.png)
 
