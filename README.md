@@ -24,7 +24,7 @@ AFTER:
 see it in motion-> https://youtu.be/D9ocVzGJfI8
 
 ---
-real 3D background TEST  
+3D enviroment model TEST  
 ![screenshot](https://i.imgur.com/AOAxQJ8.png)
 ![screenshot](https://i.imgur.com/WlOQtCf.png)
 see it in motion-> https://youtu.be/GcW0pNo-zus
