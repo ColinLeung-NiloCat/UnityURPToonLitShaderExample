@@ -299,5 +299,6 @@ model's creator in shader demo image/video:
 - Sour式鏡音リン
 - Unity-Chan in asset store
 - https://www.bilibili.com/blackboard/activity-mrfzrlha.html
+- https://booth.pm/en/items/2557029 【オリジナル3Dモデル】Eve -イヴ- by ganbaru_sisters
 
 
