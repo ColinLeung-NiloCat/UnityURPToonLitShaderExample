@@ -167,12 +167,7 @@ BEFORE
 AFTER
 ![screenshot](https://i.imgur.com/GvxXtva.png)
 
-different Background image TEST
-![screenshot](https://i.imgur.com/hev9PtZ.png)
-![screenshot](https://i.imgur.com/lRdXn3I.png)
-![screenshot](https://i.imgur.com/cx8tZox.png)
-![screenshot](https://i.imgur.com/GYPoNWT.png)
-![screenshot](https://i.imgur.com/fZw0Wzt.png)
+
 
 
 
@@ -287,6 +282,13 @@ https://youtu.be/IP293mAmBCk
 
 ![screenshot](https://i.imgur.com/lt45arW.png)
 ![screenshot](https://i.imgur.com/RcSz8H1.png)
+
+different Background image TEST
+![screenshot](https://i.imgur.com/hev9PtZ.png)
+![screenshot](https://i.imgur.com/lRdXn3I.png)
+![screenshot](https://i.imgur.com/cx8tZox.png)
+![screenshot](https://i.imgur.com/GYPoNWT.png)
+![screenshot](https://i.imgur.com/fZw0Wzt.png)
 
 credits
 ------------------------
