@@ -38,6 +38,8 @@ SHADER ON
 ![screenshot](https://i.imgur.com/6chTRCl.png)
 SHADER OFF
 ![screenshot](https://i.imgur.com/Vu2M5zB.png)
+HD!
+![screenshot](https://i.imgur.com/KXYYfaN.png)
 
 shader ON
 ![screenshot](https://i.imgur.com/A2NA1Po.png)
