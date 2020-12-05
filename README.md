@@ -307,6 +307,7 @@ model's creator in shader demo image/video:
 - Sour式鏡音リン
 - Unity-Chan in asset store
 - https://www.bilibili.com/blackboard/activity-mrfzrlha.html
-- https://booth.pm/en/items/2557029 【オリジナル3Dモデル】Eve -イヴ- by ganbaru_sisters
+- 【オリジナル3Dモデル】Eve -イヴ- by ganbaru_sisters https://booth.pm/en/items/2557029 
+- Japanese Street by Art Equilibrium https://assetstore.unity.com/packages/3d/environments/urban/japanese-street-170162
 
 
