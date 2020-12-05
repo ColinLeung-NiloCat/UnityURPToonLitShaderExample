@@ -33,6 +33,12 @@ Kawaii model TEST
 ![screenshot](https://i.imgur.com/7CAw71u.png)
 ![screenshot](https://i.imgur.com/42CUENh.png)
 
+Upgraded to Unity2020.2 (URP 10.2.1)
+SHADER ON
+![screenshot](https://i.imgur.com/c3W6m7G.png)
+SHADER OFF
+![screenshot](https://i.imgur.com/yhXGpkn.png)
+
 shader ON
 ![screenshot](https://i.imgur.com/A2NA1Po.png)
 shader OFF
