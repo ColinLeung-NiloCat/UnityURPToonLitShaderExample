@@ -31,7 +31,9 @@ see it in motion-> https://youtu.be/GcW0pNo-zus
 ---
 湊 あくあ（みなと あくあ，Minato Aqua） model TEST
 ![screenshot](https://i.imgur.com/iDDFjoO.png)
-![screenshot](https://i.imgur.com/Kw1TmKM.png)
+![screenshot](https://i.imgur.com/4aFqOND.png)
+![screenshot](https://i.imgur.com/7KjUwrI.png)
+see it in motion-> https://youtu.be/7zICgzdxuGg
 see it in motion-> https://youtu.be/X3XoYMTleJ0
 ---
 
