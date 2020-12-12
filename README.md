@@ -29,6 +29,12 @@ see it in motion-> https://youtu.be/D9ocVzGJfI8
 ![screenshot](https://i.imgur.com/WlOQtCf.png)
 see it in motion-> https://youtu.be/GcW0pNo-zus
 
+湊 あくあ（みなと あくあ，Minato Aqua） model TEST
+![screenshot](https://i.imgur.com/iDDFjoO.png)
+![screenshot](https://i.imgur.com/Kw1TmKM.png)
+see it in motion-> https://youtu.be/X3XoYMTleJ0
+---
+
 Kawaii model TEST
 ![screenshot](https://i.imgur.com/7CAw71u.png)
 ![screenshot](https://i.imgur.com/42CUENh.png)
@@ -310,6 +316,7 @@ model's creator in shader demo image/video:
 - Unity-Chan in asset store
 - https://www.bilibili.com/blackboard/activity-mrfzrlha.html
 - 【オリジナル3Dモデル】Eve -イヴ- by ganbaru_sisters https://booth.pm/en/items/2557029 
+- https://www.mmd.hololive.tv/
 - Japanese Street by Art Equilibrium https://assetstore.unity.com/packages/3d/environments/urban/japanese-street-170162
 
 
