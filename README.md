@@ -216,12 +216,14 @@ How to try this simplified toon lit example shader in my URP project?
 
 I see the shader is working now, but the outline is broken?
 -------------------
-For this tutorial shader, you can let Unity to calculate smooth normal for you, but doing this will make lighting slightly incorrect.
+For this tutorial shader, you can let Unity to calculate smooth normal for you, which can produce better outline, 
+but doing this will make lighting slightly incorrect.
 
 1. click you character's .fbx
 2. In the model tab
 3. edit "Normals" to Calculate
 4. edit "Smoothing Angle" to 180
+
 
 ![screenshot](https://i.imgur.com/yxDkeGP.png)
 before calculate smooth normal (printscreen of tutorial shader, not full version)
