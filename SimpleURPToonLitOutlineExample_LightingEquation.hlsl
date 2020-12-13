@@ -59,14 +59,18 @@ half3 ShadeSingleLightDefaultMethod(ToonSurfaceData surfaceData, LightingData li
     half directOcclusion = lerp(1, surfaceData.occlusion, _OcclusionDirectStrength);
     lightAttenuation *= directOcclusion;
 
-    return min(1,light.color * lightAttenuation); // use min(1,x) to prevent light over bright for each direct light
+    return light.color * lightAttenuation;
 }
 
 half3 CompositeAllLightResultsDefaultMethod(half3 indirectResult, half3 mainLightResult, half3 additionalLightSumResult, half3 emissionResult, ToonSurfaceData surfaceData, LightingData lightingData)
 {
-    // you can write anything here
-    // here we don't allow result brighter than albedo, to prevent over bright
-    return surfaceData.albedo * min(1,max(indirectResult, mainLightResult + additionalLightSumResult)) + emissionResult;
+    // [you can write anything here]
+    // here we don't allow result brighter than albedo, preventing light over bright
+    // while still want to preserve light color's hue
+    half3 rawLightSum = max(indirectResult, mainLightResult + additionalLightSumResult);
+    half lightLuminance = Luminance(rawLightSum);
+    half3 finalLight = rawLightSum / max(1,lightLuminance);
+    return surfaceData.albedo * finalLight + emissionResult;
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
