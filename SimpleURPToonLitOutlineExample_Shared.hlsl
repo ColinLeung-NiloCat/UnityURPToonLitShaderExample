@@ -146,7 +146,7 @@ struct LightingData
 float3 TransformPositionWSToOutlinePositionWS(float3 positionWS, float positionVS_Z, float3 normalWS)
 {
     //you can replace it to your own method! Here we will a simple world space method for tutorial reason, it is not the best method!
-    float fix = _OutlineWidth * GetOutlineCameraFovAndDistanceFixMultiplier(positionVS_Z) * 0.000025;// mul a const to make inspector's _OutlineWidth default = 1
+    float fix = _OutlineWidth * GetOutlineCameraFovAndDistanceFixMultiplier(positionVS_Z) * 0.00005;// mul a const to make inspector's _OutlineWidth default = 1
     return positionWS + normalWS * fix; 
 }
 
