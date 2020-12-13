@@ -222,9 +222,9 @@ For this tutorial shader, you can let Unity to calculate smooth normal for you, 
 3.edit "Normals" to Calculate
 4.edit "Smoothing Angle" to 180
 ![screenshot](https://i.imgur.com/yxDkeGP.png)
-before calculate smooth normal
+before calculate smooth normal (printscreen of tutorial shader, not full version)
 ![screenshot](https://i.imgur.com/uTJ3gxB.png)
-after calculate smooth normal
+after calculate smooth normal  (printscreen of tutorial shader, not full version)
 ![screenshot](https://i.imgur.com/9Jnnigf.png)
 
 *The full version shader project will contains a few editor C# script, which can help the shader to produce correct lighting and perfect outline together.
