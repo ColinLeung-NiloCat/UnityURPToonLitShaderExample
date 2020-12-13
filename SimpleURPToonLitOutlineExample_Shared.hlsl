@@ -148,8 +148,8 @@ struct LightingData
 float3 TransformPositionWSToOutlinePositionWS(float3 positionWS, float positionVS_Z, float3 normalWS)
 {
     //you can replace it to your own method! Here we will write a simple world space method for tutorial reason, it is not the best method!
-    float fix = _OutlineWidth * GetOutlineCameraFovAndDistanceFixMultiplier(positionVS_Z) * 0.00005;// mul a const to make inspector's _OutlineWidth default = 1
-    return positionWS + normalWS * fix; 
+    float outlineExpandAmount = _OutlineWidth * GetOutlineCameraFovAndDistanceFixMultiplier(positionVS_Z);
+    return positionWS + normalWS * outlineExpandAmount; 
 }
 
 // if "ToonShaderIsOutline" is not defined    = do regular MVP transform
@@ -289,11 +289,12 @@ LightingData InitializeLightingData(Varyings input)
 // fragment shared functions (Step2: calculate lighting & final color)
 ///////////////////////////////////////////////////////////////////////////////////////
 
-//all lighting equation written inside this .hlsl,
-//just by editing this .hlsl can control most of the visual result.
+// all lighting equation written inside this .hlsl,
+// just by editing this .hlsl can control most of the visual result.
 #include "SimpleURPToonLitOutlineExample_LightingEquation.hlsl"
 
 // this function contains no lighting logic, it just pass lighting results data around
+// the job done in this function is "do shadow mapping depth test positionWS offset"
 half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
 {
     // Indirect lighting
@@ -350,10 +351,10 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
         // per-object light index and samples the light buffer accordingly to initialized the
         // Light struct. If ADDITIONAL_LIGHT_CALCULATE_SHADOWS is defined it will also compute shadows.
         int perObjectLightIndex = GetPerObjectLightIndex(i);
-        Light light = GetAdditionalPerObjectLight(perObjectLightIndex, lightingData.positionWS);
-        light.shadowAttenuation = AdditionalLightShadow(perObjectLightIndex, shadowTestPosWS, 0, 0);
+        Light light = GetAdditionalPerObjectLight(perObjectLightIndex, lightingData.positionWS); // use original positionWS for lighting
+        light.shadowAttenuation = AdditionalLightShadow(perObjectLightIndex, shadowTestPosWS, 0, 0); // use offseted positionWS for shadow test
 
-        // Different functions used to shade the additional light.
+        // Different function used to shade additional lights.
         additionalLightSumResult += ShadeAdditionalLight(surfaceData, lightingData, light);
     }
 #endif
@@ -384,7 +385,7 @@ half3 ApplyFog(half3 color, Varyings input)
 half4 ShadeFinalColor(Varyings input) : SV_TARGET
 {
     //////////////////////////////////////////////////////////////////////////////////////////
-    //first prepare all data for lighting function
+    // first prepare all data for lighting function
     //////////////////////////////////////////////////////////////////////////////////////////
 
     // fillin ToonSurfaceData struct:

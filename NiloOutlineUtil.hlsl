@@ -44,10 +44,10 @@ float GetOutlineCameraFovAndDistanceFixMultiplier(float positionVS_Z)
         ////////////////////////////////
         float orthoSize = abs(unity_OrthoParams.y);
         orthoSize = ApplyOutlineDistanceFadeOut(orthoSize);
-        cameraMulFix = orthoSize * 100; // use saturate() to limit value inside [0,1], so outline will "fadeout" if character is small in camera's view
+        cameraMulFix = orthoSize * 50; // 50 is a magic number to match perspective camera's outline width
     }
 
-    return cameraMulFix;
+    return cameraMulFix * 0.0001; // mul a const to make return result = default normal expand amount WS
 }
 #endif
 
