@@ -13,15 +13,6 @@
 // -Solve ZFighting issue without moving geometry
 float4 NiloGetNewClipPosWithZOffset(float4 originalPositionCS, float viewSpaceZOffsetAmount)
 {
-    /*
-    https://docs.unity3d.com/Manual/SL-PlatformDifferences.html
-
-    Direct3D-like: The clip space depth goes from +1.0 at the near plane to 0.0 at the far plane. This applies to Direct3D, Metal and consoles.
-    OpenGL-like: The clip space depth goes from –1.0 at the near plane to +1.0 at the far plane. This applies to OpenGL and OpenGL ES.
-    Inside Shader code, you can use the UNITY_NEAR_CLIP_VALUE built-in macro to get the near plane value based on the platform.
-    */
-    viewSpaceZOffsetAmount *= UNITY_NEAR_CLIP_VALUE; //if OpenGL-like platform, we * -1 to viewSpaceZOffsetAmount
-
     if(unity_OrthoParams.w == 0)
     {
         ////////////////////////////////
