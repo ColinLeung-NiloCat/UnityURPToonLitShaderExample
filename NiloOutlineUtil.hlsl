@@ -1,11 +1,11 @@
-﻿// For more information, visit -> https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+// For more information, visit -> https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 #ifndef Include_NiloOutlineUtil
 #define Include_NiloOutlineUtil
 
-// if you have a faster way to get camera fov in unity, you can replace this slow function to that
-// for example, you write cmd.SetGlobalFloat("...",cameraFOV) using a new RendererFeature
-// for now we will use a slower method to get camera fov
+// If your project has a faster way to get camera fov in shader, you can replace this slow function to your method.
+// For example, you write cmd.SetGlobalFloat("_CurrentCameraFOV",cameraFOV) using a new RendererFeature in C#.
+// For this tutorial shader, we will keep things simple and use this slower but convenient method to get camera fov
 float GetCameraFOV()
 {
     //https://answers.unity.com/questions/770838/how-can-i-extract-the-fov-information-from-the-pro.html
