@@ -20,7 +20,7 @@ half3 ShadeGIDefaultMethod(ToonSurfaceData surfaceData, LightingData lightingDat
     // occlusion
     // separated control for indirect occlusion
     half indirectOcclusion = lerp(1, surfaceData.occlusion, _OcclusionIndirectStrength);
-    half indirectLight = averageSH * _IndirectLightMultiplier * indirectOcclusion;
+    half3 indirectLight = averageSH * (_IndirectLightMultiplier * indirectOcclusion);
     return max(indirectLight, _IndirectLightMinColor); // can prevent completely black if lightprobe was not baked
 }
 

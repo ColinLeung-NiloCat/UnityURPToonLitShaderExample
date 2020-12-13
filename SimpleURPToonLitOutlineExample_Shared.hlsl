@@ -21,8 +21,6 @@
 // Include this if you are doing a lit shader. This includes lighting shader variables,
 // lighting and shadow functions
 #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl"
-#include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Shadows.hlsl"
-
 
 // Material shader variables are not defined in SRP or URP shader library.
 // This means _BaseColor, _BaseMap, _BaseMap_ST, and all variables in the Properties section of a shader
@@ -35,16 +33,23 @@
 // So we are not going to use LitInput.hlsl, we will implement everything by ourself.
 //#include "Packages/com.unity.render-pipelines.universal/Shaders/LitInput.hlsl"
 
-//note:
-//subfix OS means object space (e.g. positionOS = position object space)
-//subfix WS means world space (e.g. positionWS = position world space)
+// we will include some utility .hlsl files to help us
+#include "NiloOutlineUtil.hlsl"
+#include "NiloZOffset.hlsl"
+#include "NiloInvLerpRemap.hlsl"
+
+// note:
+// subfix OS means object spaces    (e.g. positionOS = position object space)
+// subfix WS means world space      (e.g. positionWS = position world space)
+// subfix VS means view space       (e.g. positionVS = position view space)
+// subfix CS means clip space       (e.g. positionCS = position clip space)
 
 // all pass will share this Attributes struct (define data needed from Unity app to our vertex shader)
 struct Attributes
 {
     float3 positionOS   : POSITION;
-    half3 normalOS     : NORMAL;
-    half4 tangentOS    : TANGENT;
+    half3 normalOS      : NORMAL;
+    half4 tangentOS     : TANGENT;
     float2 uv           : TEXCOORD0;
 };
 
@@ -52,8 +57,8 @@ struct Attributes
 struct Varyings
 {
     float2 uv                       : TEXCOORD0;
-    float4 positionWSAndFogFactor   : TEXCOORD2; // xyz: positionWS, w: vertex fog factor
-    half3 normalWS                 : TEXCOORD3;
+    float4 positionWSAndFogFactor   : TEXCOORD1; // xyz: positionWS, w: vertex fog factor
+    half3 normalWS                  : TEXCOORD2;
     float4 positionCS               : SV_POSITION;
 };
 
@@ -68,90 +73,87 @@ sampler2D _EmissionMap;
 sampler2D _OcclusionMap;
 sampler2D _OutlineZOffsetMaskTex;
 
-// put all your uniforms(usually things inside properties{} at the start of .shader file) inside this CBUFFER, in order to make SRP batcher compatible
+// put all your uniforms(usually things inside .shader file's properties{}) inside this CBUFFER, in order to make SRP batcher compatible
+// see -> https://blogs.unity3d.com/2019/02/28/srp-batcher-speed-up-your-rendering/
 CBUFFER_START(UnityPerMaterial)
 
     // base color
-    float4 _BaseMap_ST;
-    half4 _BaseColor;
+    float4  _BaseMap_ST;
+    half4   _BaseColor;
 
     // alpha
-    float _UseAlphaClipping;
-    half _Cutoff;
+    float   _UseAlphaClipping;
+    half    _Cutoff;
 
     // emission
-    float _UseEmission;
-    half3 _EmissionColor;
-    half _EmissionMulByBaseColor;
-    half3 _EmissionMapChannelMask;
+    float   _UseEmission;
+    half3   _EmissionColor;
+    half    _EmissionMulByBaseColor;
+    half3   _EmissionMapChannelMask;
 
     // occlusion
-    float _UseOcclusion;
-    half _OcclusionStrength;
-    half _OcclusionIndirectStrength;
-    half _OcclusionDirectStrength;
-    half4 _OcclusionMapChannelMask;
-    half _OcclusionRemapStart;
-    half _OcclusionRemapEnd;
+    float   _UseOcclusion;
+    half    _OcclusionStrength;
+    half    _OcclusionIndirectStrength;
+    half    _OcclusionDirectStrength;
+    half4   _OcclusionMapChannelMask;
+    half    _OcclusionRemapStart;
+    half    _OcclusionRemapEnd;
 
     // lighting
-    half3 _IndirectLightMinColor;
-    half _IndirectLightMultiplier;
-    half _DirectLightMultiplier;
-    half _CelShadeMidPoint;
-    half _CelShadeSoftness;
-    half _MainLightIgnoreCelShade;
-    half _AdditionalLightIgnoreCelShade;
+    half3   _IndirectLightMinColor;
+    half    _IndirectLightMultiplier;
+    half    _DirectLightMultiplier;
+    half    _CelShadeMidPoint;
+    half    _CelShadeSoftness;
+    half    _MainLightIgnoreCelShade;
+    half    _AdditionalLightIgnoreCelShade;
 
     // shadow mapping
-    half _ReceiveShadowMappingAmount;
-    float _ReceiveShadowMappingPosOffset;
+    half    _ReceiveShadowMappingAmount;
+    float   _ReceiveShadowMappingPosOffset;
 
     // outline
-    float _OutlineWidth;
-    half3 _OutlineColor;
-    float _OutlineZOffset;
-    float _OutlineZOffsetMaskRemapStart;
-    float _OutlineZOffsetMaskRemapEnd;
+    float   _OutlineWidth;
+    half3   _OutlineColor;
+    float   _OutlineZOffset;
+    float   _OutlineZOffsetMaskRemapStart;
+    float   _OutlineZOffsetMaskRemapEnd;
 
 CBUFFER_END
 
 //a special uniform for applyShadowBiasFixToHClipPos() only, it is not a per material uniform, 
 //so it is fine to write it outside our UnityPerMaterial CBUFFER
-half3 _LightDirection;
+float3 _LightDirection;
 
 struct ToonSurfaceData
 {
-    half3 albedo;
-    half  alpha;
-    half3 emission;
-    half occlusion;
+    half3   albedo;
+    half    alpha;
+    half3   emission;
+    half    occlusion;
 };
 struct LightingData
 {
-    half3 normalWS;
-    float3 positionWS;
-    half3 viewDirectionWS;
-    float4 shadowCoord;
+    half3   normalWS;
+    float3  positionWS;
+    half3   viewDirectionWS;
+    float4  shadowCoord;
 };
 
 ///////////////////////////////////////////////////////////////////////////////////////
 // vertex shared functions
 ///////////////////////////////////////////////////////////////////////////////////////
 
-#include "NiloOutlineUtil.hlsl"
-#include "NiloZOffset.hlsl"
-#include "NiloInvLerpRemap.hlsl"
-
 float3 TransformPositionWSToOutlinePositionWS(float3 positionWS, float positionVS_Z, float3 normalWS)
 {
-    //you can replace it to your own method! Here we will a simple world space method for tutorial reason, it is not the best method!
+    //you can replace it to your own method! Here we will write a simple world space method for tutorial reason, it is not the best method!
     float fix = _OutlineWidth * GetOutlineCameraFovAndDistanceFixMultiplier(positionVS_Z) * 0.00005;// mul a const to make inspector's _OutlineWidth default = 1
     return positionWS + normalWS * fix; 
 }
 
-// if "IsOutline" not defined   = do regular MVP transform
-// if "isOutline" is defined    = do regular MVP transform + push vertex out a bit according to normal direction
+// if "ToonShaderIsOutline" is not defined    = do regular MVP transform
+// if "ToonShaderIsOutline" is defined        = do regular MVP transform + push vertex out a bit according to normal direction
 Varyings VertexShaderWork(Attributes input)
 {
     Varyings output;
@@ -177,23 +179,21 @@ Varyings VertexShaderWork(Attributes input)
     // TRANSFORM_TEX is the same as the old shader library.
     output.uv = TRANSFORM_TEX(input.uv,_BaseMap);
 
-    // packing posWS.xyz & fog into a vector4
+    // packing positionWS(xyz) & fog(w) into a vector4
     output.positionWSAndFogFactor = float4(positionWS, fogFactor);
-    output.normalWS = vertexNormalInput.normalWS;
+    output.normalWS = vertexNormalInput.normalWS; //normlaized already by GetVertexNormalInputs(...)
 
-    // Here comes the flexibility of the input structs.
-    // We just use the homogeneous clip position from the vertex input
     output.positionCS = TransformWorldToHClip(positionWS);
 
 #ifdef ToonShaderIsOutline
     // [Read ZOffset mask texture]
     // we can't use tex2D() in vertex shader because ddx & ddy is unknown before rasterization, 
-    // so use tex2Dlod() with an explict mip level 0(the 4th component of param uv)
+    // so use tex2Dlod() with an explict mip level 0, put explict mip level 0 inside the 4th component of param uv)
     float outlineZOffsetMaskTexExplictMipLevel = 0;
-    float outlineZOffsetMask = tex2Dlod(_OutlineZOffsetMaskTex, float4(input.uv,0,outlineZOffsetMaskTexExplictMipLevel));
+    float outlineZOffsetMask = tex2Dlod(_OutlineZOffsetMaskTex, float4(input.uv,0,outlineZOffsetMaskTexExplictMipLevel)).r; //we assume it is a Black/White texture
 
     // [Remap ZOffset texture value]
-    // flip texture read value so default black area = apply ZOffset, because usually outline mask texture are using this format
+    // flip texture read value so default black area = apply ZOffset, because usually outline mask texture are using this format(black = hide outline)
     outlineZOffsetMask = 1-outlineZOffsetMask;
     outlineZOffsetMask = invLerpClamp(_OutlineZOffsetMaskRemapStart,_OutlineZOffsetMaskRemapEnd,outlineZOffsetMask);// allow user to flip value or remap
 
@@ -201,12 +201,12 @@ Varyings VertexShaderWork(Attributes input)
     output.positionCS = NiloGetNewClipPosWithZOffset(output.positionCS, _OutlineZOffset * outlineZOffsetMask);
 #endif
 
-    // ShadowCaster pass needs special process to clipPos, else shadow artifact will appear
+    // ShadowCaster pass needs special process to positionCS, else shadow artifact will appear
     //--------------------------------------------------------------------------------------
 #ifdef ToonShaderApplyShadowBiasFix
-    // see GetShadowPositionHClip() in URP/Shaders/ShadowCasterPass.hlsl 
-    float3 normalWS = vertexNormalInput.normalWS;
-    float4 positionCS = TransformWorldToHClip(ApplyShadowBias(positionWS, normalWS, _LightDirection));
+    // see GetShadowPositionHClip() in URP/Shaders/ShadowCasterPass.hlsl
+    // https://github.com/Unity-Technologies/Graphics/blob/master/com.unity.render-pipelines.universal/Shaders/ShadowCasterPass.hlsl
+    float4 positionCS = TransformWorldToHClip(ApplyShadowBias(positionWS, output.normalWS, _LightDirection));
 
     #if UNITY_REVERSED_Z
     positionCS.z = min(positionCS.z, positionCS.w * UNITY_NEAR_CLIP_VALUE);
@@ -221,7 +221,7 @@ Varyings VertexShaderWork(Attributes input)
 }
 
 ///////////////////////////////////////////////////////////////////////////////////////
-// fragment shared functions (Step1: prepare data for lighting)
+// fragment shared functions (Step1: prepare data structs for lighting calculation)
 ///////////////////////////////////////////////////////////////////////////////////////
 half4 GetFinalBaseColor(Varyings input)
 {
@@ -229,25 +229,27 @@ half4 GetFinalBaseColor(Varyings input)
 }
 half3 GetFinalEmissionColor(Varyings input)
 {
+    half3 result = 0;
     if(_UseEmission)
     {
-        return tex2D(_EmissionMap, input.uv).rgb * _EmissionMapChannelMask * _EmissionColor.rgb;
+        result = tex2D(_EmissionMap, input.uv).rgb * _EmissionMapChannelMask * _EmissionColor.rgb;
     }
 
-    return 0;
+    return result;
 }
 half GetFinalOcculsion(Varyings input)
 {
+    half result = 1;
     if(_UseOcclusion)
     {
         half4 texValue = tex2D(_OcclusionMap, input.uv);
         half occlusionValue = dot(texValue, _OcclusionMapChannelMask);
         occlusionValue = lerp(1, occlusionValue, _OcclusionStrength);
         occlusionValue = invLerpClamp(_OcclusionRemapStart, _OcclusionRemapEnd, occlusionValue);
-        return occlusionValue;
+        result = occlusionValue;
     }
 
-    return 1;
+    return result;
 }
 void DoClipTestToTargetAlphaValue(half alpha) 
 {
