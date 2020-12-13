@@ -75,7 +75,7 @@ half3 CompositeAllLightResultsDefaultMethod(half3 indirectResult, half3 mainLigh
     // while still want to preserve light color's hue
     half3 rawLightSum = max(indirectResult, mainLightResult + additionalLightSumResult); // pick the highest between indirect and direct light
     half lightLuminance = Luminance(rawLightSum);
-    half3 finalLightMulResult = rawLightSum / max(1,lightLuminance / max(1,log10(lightLuminance))); // allow controlled over bright using log10
+    half3 finalLightMulResult = rawLightSum / max(1,lightLuminance / max(1,log(lightLuminance))); // allow controlled over bright using log
     return surfaceData.albedo * finalLightMulResult + emissionResult;
 }
 
