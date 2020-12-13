@@ -214,6 +214,16 @@ How to try this simplified toon lit example shader in my URP project?
 7. Most important: open these shader files, spend some time reading it, you will understand how to write custom lit shader in URP very quickly
 8. Most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, experiment with your own toon lighting equation ideas, which is the key part of toon lit shader!
 
+I see the shader is working now, but the outline is broken?
+-------------------
+For this tutorial shader, you can let Unity to calculate smooth normal for you, but doing this will make lighting slightly incorrect.
+1.click you character's .fbx
+2.In the model tab
+3.edit "Normals" to Calculate
+4.edit "Smoothing Angle" to 180
+![screenshot](https://i.imgur.com/yxDkeGP.png)
+The full version shader will contains a few editor C# script, which can help the shader to produce correct lighting and perfect outline together.
+
 What is NOT included in this simplified example shader?
 -------------------
 For simplicity reason, I removed most of the features from the Full version shader (deleted 90% of the original shader), else this example shader will be way too complex for reading & learning. The removed features are:
