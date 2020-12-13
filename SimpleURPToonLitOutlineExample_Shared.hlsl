@@ -358,7 +358,7 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
     //==============================================================================================
 
     // emission
-    half3 emissionResult = lerp(surfaceData.emission, surfaceData.emission * surfaceData.albedo, _EmissionMulByBaseColor); // optional mul albedo
+    half3 emissionResult = ShadeEmission(surfaceData, lightingData);
 
     return CompositeAllLightResults(indirectResult, mainLightResult, additionalLightSumResult, emissionResult, surfaceData, lightingData);
 }

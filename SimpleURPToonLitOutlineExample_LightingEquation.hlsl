@@ -62,6 +62,12 @@ half3 ShadeSingleLightDefaultMethod(ToonSurfaceData surfaceData, LightingData li
     return light.color * lightAttenuation;
 }
 
+half3 ShadeEmissionDefaultMethod(ToonSurfaceData surfaceData, LightingData lightingData)
+{
+    half3 emissionResult = lerp(surfaceData.emission, surfaceData.emission * surfaceData.albedo, _EmissionMulByBaseColor); // optional mul albedo
+    return emissionResult;
+}
+
 half3 CompositeAllLightResultsDefaultMethod(half3 indirectResult, half3 mainLightResult, half3 additionalLightSumResult, half3 emissionResult, ToonSurfaceData surfaceData, LightingData lightingData)
 {
     // [remember you can write anything here, this is just a simple tutorial method]
@@ -89,6 +95,10 @@ half3 ShadeAllAdditionalLightsYourMethod(ToonSurfaceData surfaceData, LightingDa
 {
     return 0; //write your own equation here ! (see ShadeSingleLightDefaultMethod(...))
 }
+half3 ShadeEmissionYourMethod(ToonSurfaceData surfaceData, LightingData lightingData)
+{
+    return 0; //write your own equation here ! (see ShadeEmissionDefaultMethod(...))
+}
 half3 CompositeAllLightResultsYourMethod(half3 indirectResult, half3 mainLightResult, half3 additionalLightSumResult, half3 emissionResult)
 {
     return 0; //write your own equation here ! (see CompositeAllLightResultsDefaultMethod(...))
@@ -99,9 +109,10 @@ half3 CompositeAllLightResultsYourMethod(half3 indirectResult, half3 mainLightRe
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 // We split lighting functions into: 
-//- indirect
-//- main light 
-//- additional light (point light/spot light)
+// - indirect
+// - main light 
+// - additional lights (point lights/spot lights)
+// - emission
 
 half3 ShadeGI(ToonSurfaceData surfaceData, LightingData lightingData)
 {
@@ -117,6 +128,11 @@ half3 ShadeAdditionalLight(ToonSurfaceData surfaceData, LightingData lightingDat
 {
     //you can switch to ShadeAllAdditionalLightsYourMethod(...) !
     return ShadeSingleLightDefaultMethod(surfaceData, lightingData, light, true); 
+}
+half3 ShadeEmission(ToonSurfaceData surfaceData, LightingData lightingData)
+{
+    //you can switch to ShadeEmissionYourMethod(...) !
+    return ShadeEmissionDefaultMethod(surfaceData, lightingData); 
 }
 half3 CompositeAllLightResults(half3 indirectResult, half3 mainLightResult, half3 additionalLightSumResult, half3 emissionResult, ToonSurfaceData surfaceData, LightingData lightingData)
 {
