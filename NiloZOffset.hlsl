@@ -8,7 +8,7 @@
 // Will only affect ZTest ZWrite's depth value of vertex shader
 
 // Useful for:
-// -Hide ugly outline (with a mask)
+// -Hide ugly outline on face/eye
 // -Make eyebrow render on top of hair
 // -Solve ZFighting issue without moving geometry
 float4 NiloGetNewClipPosWithZOffset(float4 originalPositionCS, float viewSpaceZOffsetAmount)
