@@ -347,7 +347,9 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
         // Similar to GetMainLight(), but it takes a for-loop index. This figures out the
         // per-object light index and samples the light buffer accordingly to initialized the
         // Light struct. If ADDITIONAL_LIGHT_CALCULATE_SHADOWS is defined it will also compute shadows.
-        Light light = GetAdditionalLight(i, shadowTestPosWS, 1);
+        int perObjectLightIndex = GetPerObjectLightIndex(i);
+        Light light = GetAdditionalPerObjectLight(perObjectLightIndex, lightingData.positionWS);
+        light.shadowAttenuation = AdditionalLightShadow(perObjectLightIndex, shadowTestPosWS, 0, 0);
 
         // Different functions used to shade the additional light.
         additionalLightSumResult += ShadeAdditionalLight(surfaceData, lightingData, light);
