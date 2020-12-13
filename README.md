@@ -217,20 +217,16 @@ How to try this simplified toon lit example shader in my URP project?
 What is NOT included in this simplified example shader?
 -------------------
 For simplicity reason, I removed most of the features from the Full version shader (deleted 90% of the original shader), else this example shader will be way too complex for reading & learning. The removed features are:
-- face sphere proxy normal & direction proxy normal (fixing face ugly normals, very important)
-- smooth outline normal auto baking (fixing ugly outlines, very important)
-- constant outline fix for fov and distance to camera (outline looks correct in any situation, very important)
-- tricks to remove unwanted hair shadow casted on face (to keep face looks clean, very important)
-- tricks to render eye over hair
+- face anime lighting (auto fix face ugly lighting due to vertex normal without modify fbx, very important)
+- smooth outline normal auto baking (fix ugly outlines without modify fbx, very important)
+- auto 2D hair shadow on face (very important, it is very difficult to produce good looking shadow result using shadowmap)
+- sharp const width rim light (Blue Protocol / Genshin Impact)
+- tricks to render eye/eyebrow over hair
 - hair "angel ring" reflection
-- sharp rim light
 - PBR specular lighting (GGX)
 - HSV control shadow & outline color
 - 2D mouth renderer
-- stencil local hair shadow on face
-- physics and wind
-
-- almost all the extra texture input options like AO, specular, normal map...
+- almost all the extra texture input options like roughness, specular, normal map...
 - LOTS of sliders to control lighting, final color & outline
 - ***just too much for me to write all removed feature here, the full version shader is a totally different level product
 
@@ -260,6 +256,16 @@ Editor environment requirement
 - Unity 2020.2
 
 ---------------------------
+Apply our shader to another model (2020-2 early version screen shots)
+https://youtu.be/uVI_QOioER4
+
+![screenshot](https://i.imgur.com/LBTNZCH.png)
+![screenshot](https://i.imgur.com/X6hAD7W.png)
+![screenshot](https://i.imgur.com/WIGyMVx.png)
+![screenshot](https://i.imgur.com/zou7PxL.png)
+![screenshot](https://i.imgur.com/WpkJyFB.png)
+![screenshot](https://i.imgur.com/3iyu3eG.png)
+
 More old screenshots from the Full version shader(not yet released):
 ---
 ![screenshot](https://i.imgur.com/RDqMYVP.png)
@@ -272,19 +278,6 @@ More old screenshots from the Full version shader(not yet released):
 ![screenshot](https://i.imgur.com/sxeUg1K.png)
 https://youtu.be/tNnqIP4NdV8
 ---
-Apply our shader to another model (2020-2 early version screen shots)
-https://youtu.be/uVI_QOioER4
-
-![screenshot](https://i.imgur.com/LBTNZCH.png)
-![screenshot](https://i.imgur.com/X6hAD7W.png)
-![screenshot](https://i.imgur.com/WIGyMVx.png)
-![screenshot](https://i.imgur.com/zou7PxL.png)
-
-
-![screenshot](https://i.imgur.com/WpkJyFB.png)
-![screenshot](https://i.imgur.com/3iyu3eG.png)
-
-
 
 ![screenshot](https://i.imgur.com/DDr32Mu.png)
 https://youtu.be/IP293mAmBCk
