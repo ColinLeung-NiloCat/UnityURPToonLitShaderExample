@@ -260,8 +260,8 @@ https://github.com/vrm-c/UniVRM
 
 Editor environment requirement
 -----------------------
-- URP 7.2.1 or above
-- Unity 2019.3 or above
+- URP 10.2.1
+- Unity 2020.2
 
 ---------------------------
 More old screenshots from the Full version shader(not yet released):
