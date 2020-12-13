@@ -38,7 +38,7 @@ see it in motion-> https://youtu.be/7zICgzdxuGg
 see it in motion-> https://youtu.be/X3XoYMTleJ0
 ---
 
-Kawaii model TEST
+Kawaii model TEST (@ganbaru_sisters)
 ![screenshot](https://i.imgur.com/7CAw71u.png)
 ![screenshot](https://i.imgur.com/42CUENh.png)
 
@@ -47,7 +47,7 @@ SHADER ON
 ![screenshot](https://i.imgur.com/6chTRCl.png)
 SHADER OFF
 ![screenshot](https://i.imgur.com/Vu2M5zB.png)
-HD!
+HD
 ![screenshot](https://i.imgur.com/KXYYfaN.png)
 
 shader ON
