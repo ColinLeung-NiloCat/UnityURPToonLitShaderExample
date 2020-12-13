@@ -64,13 +64,13 @@ half3 ShadeSingleLightDefaultMethod(ToonSurfaceData surfaceData, LightingData li
 
 half3 CompositeAllLightResultsDefaultMethod(half3 indirectResult, half3 mainLightResult, half3 additionalLightSumResult, half3 emissionResult, ToonSurfaceData surfaceData, LightingData lightingData)
 {
-    // [you can write anything here]
-    // here we don't allow result brighter than albedo, preventing light over bright
+    // [remember you can write anything here, this is just a simple tutorial method]
+    // here we prevent light over bright,
     // while still want to preserve light color's hue
-    half3 rawLightSum = max(indirectResult, mainLightResult + additionalLightSumResult);
+    half3 rawLightSum = max(indirectResult, mainLightResult + additionalLightSumResult); // pick the highest between indirect and direct light
     half lightLuminance = Luminance(rawLightSum);
-    half3 finalLight = rawLightSum / max(1,lightLuminance / max(1,log10(lightLuminance)));
-    return surfaceData.albedo * finalLight + emissionResult;
+    half3 finalLightMulResult = rawLightSum / max(1,lightLuminance / max(1,log10(lightLuminance))); // allow controlled over bright using log10
+    return surfaceData.albedo * finalLightMulResult + emissionResult;
 }
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
