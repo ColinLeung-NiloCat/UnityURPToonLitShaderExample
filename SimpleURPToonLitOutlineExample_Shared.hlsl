@@ -1,4 +1,4 @@
-//https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
+// For more information, visit -> https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 // #ifndef XXX + #define XXX + #endif is a safe guard best practice in almost every .hlsl, 
 // doing this can make sure your .hlsl's user can include this .hlsl anywhere anytime without producing any multi include conflict
@@ -21,6 +21,8 @@
 // Include this if you are doing a lit shader. This includes lighting shader variables,
 // lighting and shadow functions
 #include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl"
+#include "Packages/com.unity.render-pipelines.universal/ShaderLibrary/Shadows.hlsl"
+
 
 // Material shader variables are not defined in SRP or URP shader library.
 // This means _BaseColor, _BaseMap, _BaseMap_ST, and all variables in the Properties section of a shader
@@ -52,10 +54,6 @@ struct Varyings
     float2 uv                       : TEXCOORD0;
     float4 positionWSAndFogFactor   : TEXCOORD2; // xyz: positionWS, w: vertex fog factor
     half3 normalWS                 : TEXCOORD3;
-
-#ifdef _MAIN_LIGHT_SHADOWS
-    float4 shadowCoord              : TEXCOORD6; // compute shadow coord per-vertex for the main light
-#endif
     float4 positionCS               : SV_POSITION;
 };
 
@@ -67,6 +65,8 @@ struct Varyings
 // all sampler2D don't need to put inside CBUFFER 
 sampler2D _BaseMap; 
 sampler2D _EmissionMap;
+sampler2D _OcclusionMap;
+sampler2D _OutlineZOffsetMaskTex;
 
 // put all your uniforms(usually things inside properties{} at the start of .shader file) inside this CBUFFER, in order to make SRP batcher compatible
 CBUFFER_START(UnityPerMaterial)
@@ -79,24 +79,40 @@ CBUFFER_START(UnityPerMaterial)
     float _UseAlphaClipping;
     half _Cutoff;
 
-    //lighting
-    half3 _IndirectLightConstColor;
+    // emission
+    float _UseEmission;
+    half3 _EmissionColor;
+    half _EmissionMulByBaseColor;
+    half3 _EmissionMapChannelMask;
+
+    // occlusion
+    float _UseOcclusion;
+    half _OcclusionStrength;
+    half _OcclusionIndirectStrength;
+    half _OcclusionDirectStrength;
+    half4 _OcclusionMapChannelMask;
+    half _OcclusionRemapStart;
+    half _OcclusionRemapEnd;
+
+    // lighting
+    half3 _IndirectLightMinColor;
     half _IndirectLightMultiplier;
     half _DirectLightMultiplier;
     half _CelShadeMidPoint;
     half _CelShadeSoftness;
+    half _MainLightIgnoreCelShade;
+    half _AdditionalLightIgnoreCelShade;
 
     // shadow mapping
     half _ReceiveShadowMappingAmount;
-
-    //emission
-    float _UseEmission;
-    half3 _EmissionColor;
-    half3 _EmissionMapChannelMask;
+    float _ReceiveShadowMappingPosOffset;
 
     // outline
     float _OutlineWidth;
     half3 _OutlineColor;
+    float _OutlineZOffset;
+    float _OutlineZOffsetMaskRemapStart;
+    float _OutlineZOffsetMaskRemapEnd;
 
 CBUFFER_END
 
@@ -104,11 +120,12 @@ CBUFFER_END
 //so it is fine to write it outside our UnityPerMaterial CBUFFER
 half3 _LightDirection;
 
-struct SurfaceData
+struct ToonSurfaceData
 {
     half3 albedo;
     half  alpha;
     half3 emission;
+    half occlusion;
 };
 struct LightingData
 {
@@ -119,52 +136,40 @@ struct LightingData
 };
 
 ///////////////////////////////////////////////////////////////////////////////////////
-// compile time const helper functions for .shader file
-///////////////////////////////////////////////////////////////////////////////////////
-
-struct VertexShaderWorkSetting
-{
-    bool isOutline;
-    bool applyShadowBiasFixToHClipPos;
-};
-VertexShaderWorkSetting GetDefaultVertexShaderWorkSetting()
-{
-    VertexShaderWorkSetting output;
-    output.isOutline = false;
-    output.applyShadowBiasFixToHClipPos = false;
-    return output;
-}
-
-///////////////////////////////////////////////////////////////////////////////////////
 // vertex shared functions
 ///////////////////////////////////////////////////////////////////////////////////////
 
-float3 TransformPositionOSToOutlinePositionOS(Attributes input)
+#include "NiloOutlineUtil.hlsl"
+#include "NiloZOffset.hlsl"
+#include "NiloInvLerpRemap.hlsl"
+
+float3 TransformPositionWSToOutlinePositionWS(float3 positionWS, float positionVS_Z, float3 normalWS)
 {
-    float3 outlineNormalOSUnitVector = normalize(input.normalOS); //normalize, just in case model's data is incorrect
-    return input.positionOS + outlineNormalOSUnitVector * _OutlineWidth; //you can replace it to your own method! Here we will use the most simple method for tutorial reason, it is not the best method!
+    //you can replace it to your own method! Here we will a simple world space method for tutorial reason, it is not the best method!
+    float fix = _OutlineWidth * GetOutlineCameraFovAndDistanceFixMultiplier(positionVS_Z) * 0.000025;// mul a const to make inspector's _OutlineWidth default = 1
+    return positionWS + normalWS * fix; 
 }
 
-// if param "isOutline" is false = do regular MVP transform
-// if param "isOutline" is ture = do regular MVP transform + push vertex out a bit according to normal direction
-Varyings VertexShaderWork(Attributes input, VertexShaderWorkSetting setting)
+// if "IsOutline" not defined   = do regular MVP transform
+// if "isOutline" is defined    = do regular MVP transform + push vertex out a bit according to normal direction
+Varyings VertexShaderWork(Attributes input)
 {
     Varyings output;
 
-    // bool isOutline should be always a compile time constant, so using if() here has no performance cost
-    if(setting.isOutline)
-    {
-        input.positionOS = TransformPositionOSToOutlinePositionOS(input);
-    }
-
-    // VertexPositionInputs contains position in multiple spaces (world, view, homogeneous clip space)
-    // Our compiler will strip all unused references (say you don't use view space).
+    // VertexPositionInputs contains position in multiple spaces (world, view, homogeneous clip space, ndc)
+    // Unity compiler will strip all unused references (say you don't use view space).
     // Therefore there is more flexibility at no additional cost with this struct.
     VertexPositionInputs vertexInput = GetVertexPositionInputs(input.positionOS);
 
     // Similar to VertexPositionInputs, VertexNormalInputs will contain normal, tangent and bitangent
     // in world space. If not used it will be stripped.
     VertexNormalInputs vertexNormalInput = GetVertexNormalInputs(input.normalOS, input.tangentOS);
+
+    float3 positionWS = vertexInput.positionWS;
+
+#ifdef ToonShaderIsOutline
+    positionWS = TransformPositionWSToOutlinePositionWS(vertexInput.positionWS, vertexInput.positionVS.z, vertexNormalInput.normalWS);
+#endif
 
     // Computes fog factor per-vertex.
     float fogFactor = ComputeFogFactor(vertexInput.positionCS.z);
@@ -173,37 +178,43 @@ Varyings VertexShaderWork(Attributes input, VertexShaderWorkSetting setting)
     output.uv = TRANSFORM_TEX(input.uv,_BaseMap);
 
     // packing posWS.xyz & fog into a vector4
-    output.positionWSAndFogFactor = float4(vertexInput.positionWS, fogFactor);
+    output.positionWSAndFogFactor = float4(positionWS, fogFactor);
     output.normalWS = vertexNormalInput.normalWS;
-
-#ifdef _MAIN_LIGHT_SHADOWS
-    // shadow coord for the light is computed in vertex.
-    // After URP 7.21, URP will always resolve shadows in light space, no more screen space resolve.
-    // In this case shadowCoord will be the vertex position in light space.
-    output.shadowCoord = GetShadowCoord(vertexInput);
-#endif
 
     // Here comes the flexibility of the input structs.
     // We just use the homogeneous clip position from the vertex input
-    output.positionCS = vertexInput.positionCS;
+    output.positionCS = TransformWorldToHClip(positionWS);
+
+#ifdef ToonShaderIsOutline
+    // [Read ZOffset mask texture]
+    // we can't use tex2D() in vertex shader because ddx & ddy is unknown before rasterization, 
+    // so use tex2Dlod() with an explict mip level 0(the 4th component of param uv)
+    float outlineZOffsetMaskTexExplictMipLevel = 0;
+    float outlineZOffsetMask = tex2Dlod(_OutlineZOffsetMaskTex, float4(input.uv,0,outlineZOffsetMaskTexExplictMipLevel));
+
+    // [Remap ZOffset texture value]
+    // flip texture read value so default black area = apply ZOffset, because usually outline mask texture are using this format
+    outlineZOffsetMask = 1-outlineZOffsetMask;
+    outlineZOffsetMask = invLerpClamp(_OutlineZOffsetMaskRemapStart,_OutlineZOffsetMaskRemapEnd,outlineZOffsetMask);// allow user to flip value or remap
+
+    // [Apply ZOffset, Use remapped value as ZOffset mask]
+    output.positionCS = NiloGetNewClipPosWithZOffset(output.positionCS, _OutlineZOffset * outlineZOffsetMask);
+#endif
 
     // ShadowCaster pass needs special process to clipPos, else shadow artifact will appear
     //--------------------------------------------------------------------------------------
-    // bool applyShadowBiasFixToHClipPos should be always a compile time constant, so using if() here has no performance cost
-    if(setting.applyShadowBiasFixToHClipPos)
-    {
-        //see GetShadowPositionHClip() in URP/Shaders/ShadowCasterPass.hlsl 
-        float3 positionWS = vertexInput.positionWS;
-        float3 normalWS = vertexNormalInput.normalWS;
-        float4 positionCS = TransformWorldToHClip(ApplyShadowBias(positionWS, normalWS, _LightDirection));
+#ifdef ToonShaderApplyShadowBiasFix
+    // see GetShadowPositionHClip() in URP/Shaders/ShadowCasterPass.hlsl 
+    float3 normalWS = vertexNormalInput.normalWS;
+    float4 positionCS = TransformWorldToHClip(ApplyShadowBias(positionWS, normalWS, _LightDirection));
 
-        #if UNITY_REVERSED_Z
-        positionCS.z = min(positionCS.z, positionCS.w * UNITY_NEAR_CLIP_VALUE);
-        #else
-        positionCS.z = max(positionCS.z, positionCS.w * UNITY_NEAR_CLIP_VALUE);
-        #endif
-        output.positionCS = positionCS;
-    }
+    #if UNITY_REVERSED_Z
+    positionCS.z = min(positionCS.z, positionCS.w * UNITY_NEAR_CLIP_VALUE);
+    #else
+    positionCS.z = max(positionCS.z, positionCS.w * UNITY_NEAR_CLIP_VALUE);
+    #endif
+    output.positionCS = positionCS;
+#endif
     //--------------------------------------------------------------------------------------    
 
     return output;
@@ -220,38 +231,56 @@ half3 GetFinalEmissionColor(Varyings input)
 {
     if(_UseEmission)
     {
-        return tex2D(_EmissionMap, input.uv).rgb * _EmissionColor.rgb * _EmissionMapChannelMask;
+        return tex2D(_EmissionMap, input.uv).rgb * _EmissionMapChannelMask * _EmissionColor.rgb;
     }
 
     return 0;
 }
+half GetFinalOcculsion(Varyings input)
+{
+    if(_UseOcclusion)
+    {
+        half4 texValue = tex2D(_OcclusionMap, input.uv);
+        half occlusionValue = dot(texValue, _OcclusionMapChannelMask);
+        occlusionValue = lerp(1, occlusionValue, _OcclusionStrength);
+        occlusionValue = invLerpClamp(_OcclusionRemapStart, _OcclusionRemapEnd, occlusionValue);
+        return occlusionValue;
+    }
+
+    return 1;
+}
 void DoClipTestToTargetAlphaValue(half alpha) 
 {
-    //2020-6-8: disable to fix an iOS compile fail bug
-    /*
-    if(_UseAlphaClipping)
-    {   
-        clip(alpha - _Cutoff);
-    }
-    */
-
-    //2020-6-8: now temp use this method, it is not good, don't learn it, should convert this back to a normal shader_feature
-    clip(alpha - _Cutoff + (1.0001-_UseAlphaClipping));
+#if _UseAlphaClipping
+    clip(alpha - _Cutoff);
+#endif
 }
-SurfaceData InitializeSurfaceData(Varyings input)
+ToonSurfaceData InitializeSurfaceData(Varyings input)
 {
-    SurfaceData output;
+    ToonSurfaceData output;
 
     // albedo & alpha
     float4 baseColorFinal = GetFinalBaseColor(input);
     output.albedo = baseColorFinal.rgb;
     output.alpha = baseColorFinal.a;
-    DoClipTestToTargetAlphaValue(output.alpha);//early exit if possible
+    DoClipTestToTargetAlphaValue(output.alpha);// early exit if possible
 
-    //emission
+    // emission
     output.emission = GetFinalEmissionColor(input);
 
+    // occlusion
+    output.occlusion = GetFinalOcculsion(input);
+
     return output;
+}
+LightingData InitializeLightingData(Varyings input)
+{
+    LightingData lightingData;
+    lightingData.positionWS = input.positionWSAndFogFactor.xyz;
+    lightingData.viewDirectionWS = SafeNormalize(GetCameraPositionWS() - lightingData.positionWS);  
+    lightingData.normalWS = normalize(input.normalWS); //interpolated normal is NOT unit vector, we need to normalize it
+
+    return lightingData;
 }
 
 ///////////////////////////////////////////////////////////////////////////////////////
@@ -263,7 +292,7 @@ SurfaceData InitializeSurfaceData(Varyings input)
 #include "SimpleURPToonLitOutlineExample_LightingEquation.hlsl"
 
 // this function contains no lighting logic, it just pass lighting results data around
-half3 ShadeAllLights(SurfaceData surfaceData, LightingData lightingData)
+half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
 {
     // Indirect lighting
     half3 indirectResult = ShadeGI(surfaceData, lightingData);
@@ -287,13 +316,17 @@ half3 ShadeAllLights(SurfaceData surfaceData, LightingData lightingData)
     // Main light is the brightest directional light.
     // It is shaded outside the light loop and it has a specific set of variables and shading path
     // so we can be as fast as possible in the case when there's only a single directional light
-    // You can pass optionally a shadowCoord (computed per-vertex). If so, shadowAttenuation will be
-    // computed.
-    Light mainLight;
+    // You can pass optionally a shadowCoord. If so, shadowAttenuation will be computed.
+    Light mainLight = GetMainLight();
+
 #ifdef _MAIN_LIGHT_SHADOWS
-    mainLight = GetMainLight(lightingData.shadowCoord);
-#else
-    mainLight = GetMainLight();
+    // compute the shadow coords in the fragment shader now due to this change
+    // https://forum.unity.com/threads/shadow-cascades-weird-since-7-2-0.828453/#post-5516425
+
+    // _ReceiveShadowMappingPosOffset will control the offset the shadow comparsion position, 
+    // doing this is usually for hide ugly self shadow for shadow sensitive area like face
+    float4 shadowCoord = TransformWorldToShadowCoord(lightingData.positionWS + mainLight.direction * _ReceiveShadowMappingPosOffset);
+    mainLight.shadowAttenuation = MainLightRealtimeShadow(shadowCoord);
 #endif 
 
     // Main light
@@ -312,77 +345,67 @@ half3 ShadeAllLights(SurfaceData surfaceData, LightingData lightingData)
     {
         // Similar to GetMainLight(), but it takes a for-loop index. This figures out the
         // per-object light index and samples the light buffer accordingly to initialized the
-        // Light struct. If _ADDITIONAL_LIGHT_SHADOWS is defined it will also compute shadows.
-        Light light = GetAdditionalLight(i, lightingData.positionWS);
+        // Light struct. If ADDITIONAL_LIGHT_CALCULATE_SHADOWS is defined it will also compute shadows.
+        Light light = GetAdditionalLight(i, lightingData.positionWS,1);
 
         // Different functions used to shade the additional light.
         additionalLightSumResult += ShadeAdditionalLight(surfaceData, lightingData, light);
     }
 #endif
     //==============================================================================================
-    // emission
-    half3 emissionResult = surfaceData.emission;
 
-    return CompositeAllLightResults(indirectResult, mainLightResult, additionalLightSumResult, emissionResult);
+    // emission
+    half3 emissionResult = lerp(surfaceData.emission, surfaceData.emission * surfaceData.albedo, _EmissionMulByBaseColor); // optional mul albedo
+
+    return CompositeAllLightResults(indirectResult, mainLightResult, additionalLightSumResult, emissionResult, surfaceData, lightingData);
 }
 
 half3 ConvertSurfaceColorToOutlineColor(half3 originalSurfaceColor)
 {
     return originalSurfaceColor * _OutlineColor;
 }
-
-//only the .shader file will call this function
-half4 ShadeFinalColor(Varyings input, bool isOutline)
+half3 ApplyFog(half3 color, Varyings input)
 {
-    //////////////////////////////////////////////////////////////////////////////////////////
-    //first prepare all data for lighting function
-    //////////////////////////////////////////////////////////////////////////////////////////
-
-    //SurfaceData:
-    SurfaceData surfaceData = InitializeSurfaceData(input);
-
-    //LightingData:
-    LightingData lightingData;
-    lightingData.positionWS = input.positionWSAndFogFactor.xyz;
-    lightingData.viewDirectionWS = SafeNormalize(GetCameraPositionWS() - lightingData.positionWS);  
-    lightingData.normalWS = normalize(input.normalWS); //interpolated normal is NOT unit vector
-
-#ifdef _MAIN_LIGHT_SHADOWS
-    lightingData.shadowCoord = input.shadowCoord;
-#endif
- 
-    //////////////////////////////////////////////////////////////////////////////////////////
-    // lighting calculation START
-    //////////////////////////////////////////////////////////////////////////////////////////
-
-    half3 color = ShadeAllLights(surfaceData, lightingData);
-
-    //////////////////////////////////////////////////////////////////////////////////////////
-    // lighting calculation END
-    //////////////////////////////////////////////////////////////////////////////////////////
-
-    // outline (isOutline should be a compile time const, so no performance cost here)
-    if(isOutline)
-    {
-        color = ConvertSurfaceColorToOutlineColor(color);
-    }
-
-    // fog
     half fogFactor = input.positionWSAndFogFactor.w;
     // Mix the pixel color with fogColor. You can optionaly use MixFogColor to override the fogColor
     // with a custom one.
     color = MixFog(color, fogFactor);
 
-    return half4(color,1);
+    return color;  
+}
+
+// only the .shader file will call this function by 
+// #pragma fragment ShadeFinalColor
+half4 ShadeFinalColor(Varyings input) : SV_TARGET
+{
+    //////////////////////////////////////////////////////////////////////////////////////////
+    //first prepare all data for lighting function
+    //////////////////////////////////////////////////////////////////////////////////////////
+
+    // fillin ToonSurfaceData struct:
+    ToonSurfaceData surfaceData = InitializeSurfaceData(input);
+
+    // fillin LightingData struct:
+    LightingData lightingData = InitializeLightingData(input);
+ 
+    // apply all lighting calculation
+    half3 color = ShadeAllLights(surfaceData, lightingData);
+
+#ifdef ToonShaderIsOutline
+    color = ConvertSurfaceColorToOutlineColor(color);
+#endif
+
+    color = ApplyFog(color, input);
+
+    return half4(color, surfaceData.alpha);
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////
 // fragment shared functions (for ShadowCaster pass & DepthOnly pass to use only)
 //////////////////////////////////////////////////////////////////////////////////////////
-half4 BaseColorAlphaClipTest(Varyings input)
+void BaseColorAlphaClipTest(Varyings input)
 {
     DoClipTestToTargetAlphaValue(GetFinalBaseColor(input).a);
-    return 0;
 }
 
 #endif
