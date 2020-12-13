@@ -76,7 +76,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
         _OutlineWidth("_OutlineWidth (World Space)", Range(0,4)) = 1
         _OutlineColor("_OutlineColor", Color) = (0.5,0.5,0.5,1)
         _OutlineZOffset("_OutlineZOffset (View Space)(increase it if is face!)", Range(0,1)) = 0.01
-        [NoScaleOffset]_OutlineZOffsetMaskTex("_OutlineZOffsetMask(black is apply ZOffset", 2D) = "white" {}
+        [NoScaleOffset]_OutlineZOffsetMaskTex("_OutlineZOffsetMask(black is apply ZOffset", 2D) = "black" {}
         _OutlineZOffsetMaskRemapStart("_OutlineZOffsetMaskRemapStart", Range(0,1)) = 0
         _OutlineZOffsetMaskRemapEnd("_OutlineZOffsetMaskRemapEnd", Range(0,1)) = 1
     }
