@@ -62,7 +62,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
         [Header(Lighting)]
         _IndirectLightMinColor("_IndirectLightMinColor", Color) = (0.1,0.1,0.1,1) // can prevent completely black if lightprobe not baked
         _IndirectLightMultiplier("_IndirectLightMultiplier", Range(0,1)) = 1
-        _DirectLightMultiplier("_DirectLightMultiplier", Range(0,1)) = 0.5
+        _DirectLightMultiplier("_DirectLightMultiplier", Range(0,1)) = 0.25
         _CelShadeMidPoint("_CelShadeMidPoint", Range(-1,1)) = -.5
         _CelShadeSoftness("_CelShadeSoftness", Range(0,1)) = 0.05
         _MainLightIgnoreCelShade("_MainLightIgnoreCelShade", Range(0,1)) = 0
