@@ -319,13 +319,14 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
     // You can pass optionally a shadowCoord. If so, shadowAttenuation will be computed.
     Light mainLight = GetMainLight();
 
+    float3 shadowTestPosWS = lightingData.positionWS + mainLight.direction * _ReceiveShadowMappingPosOffset;
 #ifdef _MAIN_LIGHT_SHADOWS
     // compute the shadow coords in the fragment shader now due to this change
     // https://forum.unity.com/threads/shadow-cascades-weird-since-7-2-0.828453/#post-5516425
 
     // _ReceiveShadowMappingPosOffset will control the offset the shadow comparsion position, 
     // doing this is usually for hide ugly self shadow for shadow sensitive area like face
-    float4 shadowCoord = TransformWorldToShadowCoord(lightingData.positionWS + mainLight.direction * _ReceiveShadowMappingPosOffset);
+    float4 shadowCoord = TransformWorldToShadowCoord(shadowTestPosWS);
     mainLight.shadowAttenuation = MainLightRealtimeShadow(shadowCoord);
 #endif 
 
@@ -346,7 +347,7 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
         // Similar to GetMainLight(), but it takes a for-loop index. This figures out the
         // per-object light index and samples the light buffer accordingly to initialized the
         // Light struct. If ADDITIONAL_LIGHT_CALCULATE_SHADOWS is defined it will also compute shadows.
-        Light light = GetAdditionalLight(i, lightingData.positionWS,1);
+        Light light = GetAdditionalLight(i, shadowTestPosWS, 1);
 
         // Different functions used to shade the additional light.
         additionalLightSumResult += ShadeAdditionalLight(surfaceData, lightingData, light);
