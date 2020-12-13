@@ -69,7 +69,7 @@ half3 CompositeAllLightResultsDefaultMethod(half3 indirectResult, half3 mainLigh
     // while still want to preserve light color's hue
     half3 rawLightSum = max(indirectResult, mainLightResult + additionalLightSumResult);
     half lightLuminance = Luminance(rawLightSum);
-    half3 finalLight = rawLightSum / max(1,lightLuminance);
+    half3 finalLight = rawLightSum / max(1,lightLuminance / max(1,log10(lightLuminance)));
     return surfaceData.albedo * finalLight + emissionResult;
 }
 
