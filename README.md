@@ -223,7 +223,7 @@ but doing this will make lighting slightly incorrect.
 2. In the model tab
 3. edit "Normals" to Calculate
 4. edit "Smoothing Angle" to 180  
-
+  
 ![screenshot](https://i.imgur.com/yxDkeGP.png)
 before calculate smooth normal (printscreen of tutorial shader, not full version)
 ![screenshot](https://i.imgur.com/uTJ3gxB.png)
