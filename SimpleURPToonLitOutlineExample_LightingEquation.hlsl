@@ -10,17 +10,18 @@
 
 half3 ShadeGIDefaultMethod(ToonSurfaceData surfaceData, LightingData lightingData)
 {
-    // hide 3D feeling by ignore all detail SH
+    // hide 3D feeling by ignoring all detail SH
     // SH 1 (only use this)
     // SH 234 (ignored)
     // SH 56789 (ignored)
     // we just want to tint some average envi color only
     half3 averageSH = SampleSH(0);
 
-    // extra separated control for indirect occlusion
+    // occlusion
+    // separated control for indirect occlusion
     half indirectOcclusion = lerp(1, surfaceData.occlusion, _OcclusionIndirectStrength);
     half indirectLight = averageSH * _IndirectLightMultiplier * indirectOcclusion;
-    return surfaceData.albedo * max(indirectLight, _IndirectLightMinColor);   
+    return max(indirectLight, _IndirectLightMinColor); // can prevent completely black if lightprobe was not baked
 }
 
 // Most important part: lighting equation, edit it according to your needs, write whatever you want here, be creative!
@@ -41,34 +42,36 @@ half3 ShadeSingleLightDefaultMethod(ToonSurfaceData surfaceData, LightingData li
 
     // light's distance & angle fade for point light & spot light (see GetAdditionalPerObjectLight() in Lighting.hlsl)
     // Lighting.hlsl -> https://github.com/Unity-Technologies/Graphics/blob/master/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl
-    lightAttenuation *= min(1,light.distanceAttenuation); //max intensity = 1, prevent over bright if light too close, can expose this float to editor if you wish to
+    lightAttenuation *= light.distanceAttenuation;
 
     // N dot L
     // simplest 1 line cel shade, you can always replace this line by your own better method !
     half celShadeResult = smoothstep(_CelShadeMidPoint-_CelShadeSoftness,_CelShadeMidPoint+_CelShadeSoftness, NoL);
 
+    // don't want direct lighting's cel shade effect looks too strong? set ignoreValue to a higher value
     lightAttenuation *= lerp(celShadeResult,1, isAdditionalLight? _AdditionalLightIgnoreCelShade : _MainLightIgnoreCelShade);
 
     // don't want direct lighting becomes too bright for toon lit characters? set this value to a lower value 
     lightAttenuation *= _DirectLightMultiplier;
 
     // occlusion
-    // extra separated control for indirect occlusion
+    // separated control for direct occlusion
     half directOcclusion = lerp(1, surfaceData.occlusion, _OcclusionDirectStrength);
     lightAttenuation *= directOcclusion;
 
-    return surfaceData.albedo * min(1,light.color * lightAttenuation); // use min(1,x) to prevent over bright for direct light
+    return min(1,light.color * lightAttenuation); // use min(1,x) to prevent light over bright for each direct light
 }
 
 half3 CompositeAllLightResultsDefaultMethod(half3 indirectResult, half3 mainLightResult, half3 additionalLightSumResult, half3 emissionResult, ToonSurfaceData surfaceData, LightingData lightingData)
 {
-    // here we simply add them together, but you can write anything here
-    return indirectResult+mainLightResult+additionalLightSumResult+emissionResult;
+    // you can write anything here
+    // here we don't allow result brighter than albedo, to prevent over bright
+    return surfaceData.albedo * min(1,max(indirectResult, mainLightResult + additionalLightSumResult)) + emissionResult;
 }
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Implement your own lighting equation here! 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 half3 ShadeGIYourMethod(ToonSurfaceData surfaceData, LightingData lightingData)
 {
@@ -87,15 +90,14 @@ half3 CompositeAllLightResultsYourMethod(half3 indirectResult, half3 mainLightRe
     return 0; //write your own equation here ! (see CompositeAllLightResultsDefaultMethod(...))
 }
 
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
-// Once you have implemented a equation in the above section, switch to using your own lighting equation in below section!
-////////////////////////////////////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+// Once you have implemented an equation in the above section, switch to use your own lighting equation in below section!
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-// We split lighting into: 
+// We split lighting functions into: 
 //- indirect
 //- main light 
 //- additional light (point light/spot light)
-// for a more isolated lighting control, just in case you need a separate equation for main light & additional light, you can do it easily here
 
 half3 ShadeGI(ToonSurfaceData surfaceData, LightingData lightingData)
 {
