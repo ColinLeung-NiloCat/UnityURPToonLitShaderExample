@@ -248,14 +248,10 @@ Also, here are some websites that can download models(If the creator allows it)
 - https://3d.nicovideo.jp/
 - https://hub.vroid.com/
 
-if you downloaded a .pmx file, use this to convert it to .fbx & prefab directly inside unity
-
-MMD4Mecanim (Beta)
+if you downloaded a .pmx file, use MMD4Mecanim to convert it to .fbx & prefab directly inside unity
 http://stereoarts.jp/
 
-if you downloaded a .vrm file, use this to convert it to .fbx & prefab directly inside unity
-
-UniVRM
+if you downloaded a .vrm file, use UniVRM to convert it to .fbx & prefab directly inside unity
 https://github.com/vrm-c/UniVRM
 
 Editor environment requirement
@@ -316,7 +312,7 @@ model's creator in shader demo image/video:
 - Kuro Game - Punishing: Grey Raven
 - Azur Lane: Crosswave
 - Sour式鏡音リン
-- Unity-Chan in asset store
+- Unity-Chan
 - https://www.bilibili.com/blackboard/activity-mrfzrlha.html
 - 【オリジナル3Dモデル】Eve -イヴ- by ganbaru_sisters https://booth.pm/en/items/2557029 
 - https://www.mmd.hololive.tv/
