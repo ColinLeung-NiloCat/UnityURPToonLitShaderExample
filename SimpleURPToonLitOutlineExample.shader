@@ -280,7 +280,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
             ENDHLSL
         }
 
-        // TODO: DepthNormal pass (see URP's Lit.shader)
+        // TODO: DepthNormals pass (see URP's Lit.shader)
         /*
         Pass
         {
