@@ -1,16 +1,17 @@
 // For more information, visit -> https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
 /*
-This shader is a simple example showing you how to write your first URP custom lit shader(toon) with "minimum" shader code.
+This shader is a simple example showing you how to write your first URP custom lit shader with "minimum" shader code.
 You can use this shader as a starting point, add/edit code to develop your own custom lit shader for URP10.2.2 or above.
 
 *Usually, just by editing "SimpleURPToonLitOutlineExample_LightingEquation.hlsl" alone can control most of the visual result.
 
-This shader includes 4 passes:
-0.SurfaceColor  pass    (this pass will always render to the color buffer _CameraColorTexture)
+This shader includes 5 passes:
+0.ForwardLit    pass    (this pass will always render to the color buffer _CameraColorTexture)
 1.Outline       pass    (this pass will always render to the color buffer _CameraColorTexture)
 2.ShadowCaster  pass    (only for URP's shadow mapping, this pass won't render at all if your character don't cast shadow)
 3.DepthOnly     pass    (only for URP's depth texture _CameraDepthTexture's rendering, this pass won't render at all if your project don't render URP's offscreen depth prepass)
+4.DepthNormals  pass    (only for URP's normal texture _CameraNormalsTexture's rendering)
 
 *Because most of the time, you use this toon lit shader for unique characters, so all lightmap & GPU instancing related code are removed for simplicity.
 *For batching, we only rely on SRP batcher, which is the most practical batching method in URP for rendering lots of unique skinnedmesh characters
@@ -31,8 +32,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
         // all properties will try to follow URP Lit shader's naming convention
         // so switching your URP lit material's shader to this toon lit shader will preserve most of the original properties if defined in this shader
 
-        // URP Lit shader's naming convention:
-        // https://gist.github.com/phi-lira/225cd7c5e8545be602dca4eb5ed111ba#file-universalpipelinetemplateshader-shader
+        // for URP Lit shader's naming convention, see URP's Lit.shader
 
         [Header(Base Color)]
         [MainTexture]_BaseMap("_BaseMap (Albedo)", 2D) = "white" {}
@@ -105,10 +105,10 @@ Shader "SimpleURPToonLitExample(With Outline)"
             "Queue"="Geometry"
         }
         
-        // We can extract duplicated hlsl code from all passes into this HLSLINCLUDE section. Less code, less error
+        // We can extract duplicated hlsl code from all passes into this HLSLINCLUDE section. Less duplicated code = Less error
         HLSLINCLUDE
 
-        // all Passes will need this
+        // all Passes will need this keyword
         #pragma shader_feature_local_fragment _UseAlphaClipping
 
         ENDHLSL
@@ -188,7 +188,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
                 // (1) Write "LightMode" = "YourCustomPassTag" inside new Pass's Tags{}
                 // (2) Add a new custom RendererFeature(C#) to your renderer,
                 // (3) write cmd.DrawRenderers() with ShaderPassName = "YourCustomPassTag"
-                // (4) now URP will render your new Pass{} for your shader, in a SRP-batcher friendly way (usually in 1 big SRP batch)
+                // (4) if done correctly, URP will render your new Pass{} for your shader, in a SRP-batcher friendly way (usually in 1 big SRP batch)
 
                 // For tutorial purpose, current everything is just shader files without any C#, so this Outline pass is actually NOT SRP-batcher friendly.
                 // If you are working on a project with lots of characters, make sure you use the above method to make Outline pass SRP-batcher friendly!
@@ -244,14 +244,14 @@ Shader "SimpleURPToonLitExample(With Outline)"
             // because it is a ShadowCaster pass, define "ToonShaderApplyShadowBiasFix" to inject "remove shadow mapping artifact" code into VertexShaderWork()
             #define ToonShaderApplyShadowBiasFix
 
-            // all shader logic written inside this .hlsl, must write #include AFTER all #define
+            // all shader logic written inside this .hlsl, remember to write all #define BEFORE writing #include
             #include "SimpleURPToonLitOutlineExample_Shared.hlsl"
 
             ENDHLSL
         }
 
         // DepthOnly pass. Used for rendering URP's offscreen depth prepass (you can search DepthOnlyPass.cs in URP package)
-        // Usually when depth texture is needed, we need to perform this depth prepass for this toon shader. 
+        // For example, when depth texture is on, we need to perform this offscreen depth prepass for this toon shader. 
         Pass
         {
             Name "DepthOnly"
@@ -274,7 +274,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
             // because Outline area should write to depth also, define "ToonShaderIsOutline" to inject outline related code into VertexShaderWork()
             #define ToonShaderIsOutline
 
-            // all shader logic written inside this .hlsl, must write #include AFTER all #define
+            // all shader logic written inside this .hlsl, remember to write all #define BEFORE writing #include
             #include "SimpleURPToonLitOutlineExample_Shared.hlsl"
 
             ENDHLSL
