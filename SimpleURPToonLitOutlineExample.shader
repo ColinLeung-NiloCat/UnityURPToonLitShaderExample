@@ -198,7 +198,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
 
             HLSLPROGRAM
 
-            // Direct copy all keywords from "SurfaceColor" pass
+            // Direct copy all keywords from "ForwardLit" pass
             // ---------------------------------------------------------------------------------------------
             #pragma multi_compile _ _MAIN_LIGHT_SHADOWS
             #pragma multi_compile _ _MAIN_LIGHT_SHADOWS_CASCADE
@@ -280,6 +280,9 @@ Shader "SimpleURPToonLitExample(With Outline)"
             ENDHLSL
         }
 
+        // Starting from version 10.0.x, URP can generate a normal texture called _CameraNormalsTexture. 
+        // To render to this texture in your custom shader, add a Pass with the name DepthNormals. 
+        // For example, see the implementation in Lit.shader.
         // TODO: DepthNormals pass (see URP's Lit.shader)
         /*
         Pass
