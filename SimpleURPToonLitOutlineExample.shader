@@ -88,19 +88,24 @@ Shader "SimpleURPToonLitExample(With Outline)"
             // that can match multiple render pipelines. If a RenderPipeline tag is not set it will match
             // any render pipeline. In case you want your subshader to only run in URP, set the tag to
             // "UniversalPipeline"
-            
-            // for this subshader, we only want to render in URP only.
-            // the tag is "UniversalPipeline", not "UniversalRenderPipeline"
+
+            // here "UniversalPipeline" tag is required, because we only want this shader to run in URP.
+            // If Universal render pipeline is not set in the graphics settings, this Subshader will fail.
+
+            // One can add a subshader below or fallback to Standard built-in to make this
+            // material work with both Universal Render Pipeline and Builtin Unity Pipeline
+
+            // the tag value is "UniversalPipeline", not "UniversalRenderPipeline", be careful!
             // https://github.com/Unity-Technologies/Graphics/pull/1431/
             "RenderPipeline" = "UniversalPipeline"
 
-            // more explict SubShader tag to avoid confusion (this is a tutorial shader)
+            // explict SubShader tag to avoid confusion
             "RenderType"="Opaque"
             "UniversalMaterialType" = "Lit"
             "Queue"="Geometry"
         }
         
-        // We can extract all passes shared hlsl code into a HLSLINCLUDE section, just to remove duplicated code in each pass
+        // We can extract duplicated hlsl code from all passes into this HLSLINCLUDE section. Less code, less error
         HLSLINCLUDE
 
         // all Passes will need this
@@ -108,28 +113,32 @@ Shader "SimpleURPToonLitExample(With Outline)"
 
         ENDHLSL
 
-        // SurfaceColor pass (Forward lighting). Shades GI, all lights, emission and fog in a single pass.
+        // [#0 Pass - ForwardLit]
+        // Shades GI, all lights, emission and fog in a single pass.
         // Compared to Builtin pipeline forward renderer, URP forward renderer will
         // render a scene with multiple lights with less drawcalls and less overdraw.
         Pass
         {               
-            Name "SurfaceColor"
+            Name "ForwardLit"
             Tags
             {
+                // "Lightmode" matches the "ShaderPassName" set in UniversalRenderPipeline.cs. 
+                // SRPDefaultUnlit and passes with no LightMode tag are also rendered by Universal Render Pipeline
+
                 // "Lightmode" tag must be "UniversalForward" in order to render lit objects in URP.
                 "LightMode" = "UniversalForward"
             }
 
-            // more explict render state to avoid confusion (this is a tutorial shader)
-            // you can expose these render state to material inspector if needed
+            // explict render state to avoid confusion
+            // you can expose these render state to material inspector if needed (see URP's Lit.shader)
             Cull Back
-            Blend One Zero
             ZTest LEqual
             ZWrite On
+            Blend One Zero
 
             HLSLPROGRAM
 
-            // -------------------------------------
+            // ---------------------------------------------------------------------------------------------
             // Universal Render Pipeline keywords (you can always copy this section from URP's Lit.shader)
             // When doing custom shaders you most often want to copy and paste these #pragmas
             // These multi_compile variants are stripped from the build depending on:
@@ -143,37 +152,46 @@ Shader "SimpleURPToonLitExample(With Outline)"
             #pragma multi_compile _ _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS
             #pragma multi_compile_fragment _ _ADDITIONAL_LIGHT_SHADOWS
             #pragma multi_compile_fragment _ _SHADOWS_SOFT
-            // -------------------------------------
+            // ---------------------------------------------------------------------------------------------
             // Unity defined keywords
             #pragma multi_compile_fog
-            // -------------------------------------
+            // ---------------------------------------------------------------------------------------------
 
             #pragma vertex VertexShaderWork
             #pragma fragment ShadeFinalColor
 
-            // because this pass is just a SurfaceColor pass, no need any special #define
+            // because this pass is just a ForwardLit pass, no need any special #define
             // (no special #define)
 
-            // all shader logic written inside this .hlsl, must write #include AFTER all #define
+            // all shader logic written inside this .hlsl, remember to write all #define BEFORE writing #include
             #include "SimpleURPToonLitOutlineExample_Shared.hlsl"
 
             ENDHLSL
         }
         
-        // Outline pass. Same as "SurfaceColor" pass, but 
+        // [#1 Pass - Outline]
+        // Same as the above "ForwardLit" pass, but 
         // -vertex position are pushed out a bit base on normal direction
-        // -also color is darker
-        // -Cull Front instead of Cull Back because it is a must for extra pass outline method
+        // -also color is tinted
+        // -Cull Front instead of Cull Back because Cull Front is a must for all extra pass outline method
         Pass 
         {
             Name "Outline"
             Tags 
             {
-                //"LightMode" = "UniversalForward" // IMPORTANT: don't write this line for any custom pass! else this outline pass will not be rendered by URP!
+                // IMPORTANT: don't write this line for any custom pass! else this outline pass will not be rendered by URP!
+                //"LightMode" = "UniversalForward" 
 
-                // If you need to add a custom pass to your shader (outline, planar shadow....),
-                // - Write "LightMode" = "YourCustomPassTag" inside your shader's custom pass's Tags{}
-                // - Add a rendererFeature C#, write cmd.DrawRenderers() to render this custom pass
+                // [Important CPU performance note]
+                // If you need to add a custom pass to your shader (outline pass, planar shadow pass, XRay pass when blocked....),
+                // (0) Add a new Pass{} to your shader
+                // (1) Write "LightMode" = "YourCustomPassTag" inside new Pass's Tags{}
+                // (2) Add a new custom RendererFeature(C#) to your renderer,
+                // (3) write cmd.DrawRenderers() with ShaderPassName = "YourCustomPassTag"
+                // (4) now URP will render your new Pass{} for your shader, in a SRP-batcher friendly way (usually in 1 big SRP batch)
+
+                // For tutorial purpose, current everything is just shader files without any C#, so this Outline pass is actually NOT SRP-batcher friendly.
+                // If you are working on a project with lots of characters, make sure you use the above method to make Outline pass SRP-batcher friendly!
             }
 
             Cull Front // Cull Front is a must for extra pass outline method
@@ -181,15 +199,15 @@ Shader "SimpleURPToonLitExample(With Outline)"
             HLSLPROGRAM
 
             // Direct copy all keywords from "SurfaceColor" pass
-            // -------------------------------------
+            // ---------------------------------------------------------------------------------------------
             #pragma multi_compile _ _MAIN_LIGHT_SHADOWS
             #pragma multi_compile _ _MAIN_LIGHT_SHADOWS_CASCADE
             #pragma multi_compile _ _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS
             #pragma multi_compile_fragment _ _ADDITIONAL_LIGHT_SHADOWS
             #pragma multi_compile_fragment _ _SHADOWS_SOFT
-            // -------------------------------------
+            // ---------------------------------------------------------------------------------------------
             #pragma multi_compile_fog
-            // -------------------------------------
+            // ---------------------------------------------------------------------------------------------
 
             #pragma vertex VertexShaderWork
             #pragma fragment ShadeFinalColor
@@ -197,7 +215,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
             // because this is an Outline pass, define "ToonShaderIsOutline" to inject outline related code into both VertexShaderWork() and ShadeFinalColor()
             #define ToonShaderIsOutline
 
-            // all shader logic written inside this .hlsl, must write #include AFTER all #define
+            // all shader logic written inside this .hlsl, remember to write all #define BEFORE writing #include
             #include "SimpleURPToonLitOutlineExample_Shared.hlsl"
 
             ENDHLSL
@@ -256,11 +274,22 @@ Shader "SimpleURPToonLitExample(With Outline)"
             // because Outline area should write to depth also, define "ToonShaderIsOutline" to inject outline related code into VertexShaderWork()
             #define ToonShaderIsOutline
 
-            //all shader logic written inside this .hlsl, must write #include AFTER all #define
+            // all shader logic written inside this .hlsl, must write #include AFTER all #define
             #include "SimpleURPToonLitOutlineExample_Shared.hlsl"
 
             ENDHLSL
         }
+
+        // TODO: DepthNormal pass (see URP's Lit.shader)
+        /*
+        Pass
+        {
+            Name "DepthNormals"
+            Tags{"LightMode" = "DepthNormals"}
+
+            //...
+        }
+        */
     }
 
     FallBack "Hidden/Universal Render Pipeline/FallbackError"
