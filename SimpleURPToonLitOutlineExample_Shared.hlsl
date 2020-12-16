@@ -82,7 +82,6 @@ CBUFFER_START(UnityPerMaterial)
     half4   _BaseColor;
 
     // alpha
-    float   _UseAlphaClipping;
     half    _Cutoff;
 
     // emission

@@ -39,7 +39,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
         [HDR][MainColor]_BaseColor("_BaseColor", Color) = (1,1,1,1)
 
         [Header(Alpha)]
-        [Toggle]_UseAlphaClipping("_UseAlphaClipping", Float) = 0
+        [Toggle(_UseAlphaClipping)]_UseAlphaClipping("_UseAlphaClipping", Float) = 0
         _Cutoff("_Cutoff (Alpha Cutoff)", Range(0.0, 1.0)) = 0.5
 
         [Header(Emission)]
@@ -100,30 +100,11 @@ Shader "SimpleURPToonLitExample(With Outline)"
             "Queue"="Geometry"
         }
         
-        // We can extract all shared hlsl code into a HLSLINCLUDE section, just to remove duplicated code for each pass
+        // We can extract all passes shared hlsl code into a HLSLINCLUDE section, just to remove duplicated code in each pass
         HLSLINCLUDE
 
-        // -------------------------------------
-        // Our keywords
+        // all Passes will need this
         #pragma shader_feature_local_fragment _UseAlphaClipping
-        // -------------------------------------
-        // Universal Render Pipeline keywords (you can always copy this section from URP's Lit.shader)
-        // When doing custom shaders you most often want to copy and paste these #pragmas
-        // These multi_compile variants are stripped from the build depending on:
-        // 1) Settings in the URP Asset assigned in the GraphicsSettings at build time
-        // e.g If you disabled AdditionalLights in the asset then all _ADDITIONA_LIGHTS variants
-        // will be stripped from build
-        // 2) Invalid combinations are stripped. e.g variants with _MAIN_LIGHT_SHADOWS_CASCADE
-        // but not _MAIN_LIGHT_SHADOWS are invalid and therefore stripped.
-        #pragma multi_compile _ _MAIN_LIGHT_SHADOWS
-        #pragma multi_compile _ _MAIN_LIGHT_SHADOWS_CASCADE
-        #pragma multi_compile _ _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS
-        #pragma multi_compile_fragment _ _ADDITIONAL_LIGHT_SHADOWS
-        #pragma multi_compile_fragment _ _SHADOWS_SOFT
-        // -------------------------------------
-        // Unity defined keywords
-        #pragma multi_compile_fog
-        // -------------------------------------
 
         ENDHLSL
 
@@ -147,6 +128,25 @@ Shader "SimpleURPToonLitExample(With Outline)"
             ZWrite On
 
             HLSLPROGRAM
+
+            // -------------------------------------
+            // Universal Render Pipeline keywords (you can always copy this section from URP's Lit.shader)
+            // When doing custom shaders you most often want to copy and paste these #pragmas
+            // These multi_compile variants are stripped from the build depending on:
+            // 1) Settings in the URP Asset assigned in the GraphicsSettings at build time
+            // e.g If you disabled AdditionalLights in the asset then all _ADDITIONA_LIGHTS variants
+            // will be stripped from build
+            // 2) Invalid combinations are stripped. e.g variants with _MAIN_LIGHT_SHADOWS_CASCADE
+            // but not _MAIN_LIGHT_SHADOWS are invalid and therefore stripped.
+            #pragma multi_compile _ _MAIN_LIGHT_SHADOWS
+            #pragma multi_compile _ _MAIN_LIGHT_SHADOWS_CASCADE
+            #pragma multi_compile _ _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS
+            #pragma multi_compile_fragment _ _ADDITIONAL_LIGHT_SHADOWS
+            #pragma multi_compile_fragment _ _SHADOWS_SOFT
+            // -------------------------------------
+            // Unity defined keywords
+            #pragma multi_compile_fog
+            // -------------------------------------
 
             #pragma vertex VertexShaderWork
             #pragma fragment ShadeFinalColor
@@ -180,6 +180,17 @@ Shader "SimpleURPToonLitExample(With Outline)"
 
             HLSLPROGRAM
 
+            // Direct copy all keywords from "SurfaceColor" pass
+            // -------------------------------------
+            #pragma multi_compile _ _MAIN_LIGHT_SHADOWS
+            #pragma multi_compile _ _MAIN_LIGHT_SHADOWS_CASCADE
+            #pragma multi_compile _ _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS
+            #pragma multi_compile_fragment _ _ADDITIONAL_LIGHT_SHADOWS
+            #pragma multi_compile_fragment _ _SHADOWS_SOFT
+            // -------------------------------------
+            #pragma multi_compile_fog
+            // -------------------------------------
+
             #pragma vertex VertexShaderWork
             #pragma fragment ShadeFinalColor
 
@@ -198,10 +209,16 @@ Shader "SimpleURPToonLitExample(With Outline)"
             Name "ShadowCaster"
             Tags{"LightMode" = "ShadowCaster"}
 
-            // we don't care about color, we just want to write depth
-            ColorMask 0
+            // more explict render state to avoid confusion
+            ZWrite On // the only goal of this pass is to write depth!
+            ZTest LEqual // early exit at Early-Z stage if possible            
+            ColorMask 0 // we don't care about color, we just want to write depth, ColorMask 0 will save some write bandwidth
+            Cull Back // support Cull[_Cull] requires "flip vertex normal" using VFACE in fragment shader, which is maybe beyond the scope of a simple tutorial shader
 
             HLSLPROGRAM
+
+            // the only keywords we need in this pass = _UseAlphaClipping, which is already defined inside the HLSLINCLUDE block
+            // (so no need to write any multi_compile or shader_feature in this pass)
 
             #pragma vertex VertexShaderWork
             #pragma fragment BaseColorAlphaClipTest // we only need to do Clip(), no need shading
@@ -215,21 +232,28 @@ Shader "SimpleURPToonLitExample(With Outline)"
             ENDHLSL
         }
 
-        // DepthOnly pass. Used for rendering URP's depth prepass (DepthOnlyPass)
-        // If depth texture is needed, we need to perform a depth prepass for this shader. 
+        // DepthOnly pass. Used for rendering URP's offscreen depth prepass (you can search DepthOnlyPass.cs in URP package)
+        // Usually when depth texture is needed, we need to perform this depth prepass for this toon shader. 
         Pass
         {
             Name "DepthOnly"
             Tags{"LightMode" = "DepthOnly"}
 
-            // we don't care about color, we just want to write depth
-            ColorMask 0
+            // more explict render state to avoid confusion
+            ZWrite On // the only goal of this pass is to write depth!
+            ZTest LEqual // early exit at Early-Z stage if possible            
+            ColorMask 0 // we don't care about color, we just want to write depth, ColorMask 0 will save some write bandwidth
+            Cull Back // support Cull[_Cull] requires "flip vertex normal" using VFACE in fragment shader, which is maybe beyond the scope of a simple tutorial shader
 
             HLSLPROGRAM
-            #pragma vertex VertexShaderWork
-            #pragma fragment BaseColorAlphaClipTest // we only need to do Clip(), no need shading
 
-            // because this is an Outline pass, define "ToonShaderIsOutline" to inject outline related code into both VertexShaderWork()
+            // the only keywords we need in this pass = _UseAlphaClipping, which is already defined inside the HLSLINCLUDE block
+            // (so no need to write any multi_compile or shader_feature in this pass)
+
+            #pragma vertex VertexShaderWork
+            #pragma fragment BaseColorAlphaClipTest // we only need to do Clip(), no need color shading
+
+            // because Outline area should write to depth also, define "ToonShaderIsOutline" to inject outline related code into VertexShaderWork()
             #define ToonShaderIsOutline
 
             //all shader logic written inside this .hlsl, must write #include AFTER all #define
@@ -238,5 +262,6 @@ Shader "SimpleURPToonLitExample(With Outline)"
             ENDHLSL
         }
     }
+
     FallBack "Hidden/Universal Render Pipeline/FallbackError"
 }
