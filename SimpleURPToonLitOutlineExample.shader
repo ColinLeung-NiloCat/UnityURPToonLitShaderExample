@@ -2,7 +2,7 @@
 
 /*
 This shader is a simple example showing you how to write your first URP custom lit shader(toon) with "minimum" shader code.
-You can use this shader as a starting point, add/edit code to develop your own custom lit shader for URP.
+You can use this shader as a starting point, add/edit code to develop your own custom lit shader for URP10.2.2 or above.
 
 *Usually, just by editing "SimpleURPToonLitOutlineExample_LightingEquation.hlsl" alone can control most of the visual result.
 
@@ -10,18 +10,18 @@ This shader includes 4 passes:
 0.SurfaceColor  pass    (this pass will always render to the color buffer _CameraColorTexture)
 1.Outline       pass    (this pass will always render to the color buffer _CameraColorTexture)
 2.ShadowCaster  pass    (only for URP's shadow mapping, this pass won't render at all if your character don't cast shadow)
-3.DepthOnly     pass    (only for URP's depth texture _CameraDepthTexture's rendering, this pass won't render at all if your project don't render depth prepass)
+3.DepthOnly     pass    (only for URP's depth texture _CameraDepthTexture's rendering, this pass won't render at all if your project don't render URP's offscreen depth prepass)
 
-*Because most of the time, you use a toon lit shader for unique characters, so all lightmap & instancing related code are removed for simplicity.
+*Because most of the time, you use this toon lit shader for unique characters, so all lightmap & GPU instancing related code are removed for simplicity.
 *For batching, we only rely on SRP batcher, which is the most practical batching method in URP for rendering lots of unique skinnedmesh characters
 
-*In this shader, we choose static uniform branching over "shader_feature & multi_compile" for some of togglable feature like "_UseEmission","_UseOcclusion"..., 
+*In this shader, we choose static uniform branching over "shader_feature & multi_compile" for some of the togglable feature like "_UseEmission","_UseOcclusion"..., 
 because:
     - we want to avoid this shader's build time takes too long (2^n)
     - we want to avoid rendering spike when a new shader variant was seen by the camera first time (create GPU program)
     - we want to avoid increasing ShaderVarientCollection's complexity
     - we want to avoid shader size becomes too large easily (2^n)
-    - we want to avoid breaking SRP batcher's batching because SRP batcher is a per shader variant batching, not per shader
+    - we want to avoid breaking SRP batcher's batching because SRP batcher is per shader variant batching, not per shader
     - all modern GPU(include newer mobile devices) can handle static uniform branching with "almost" no performance cost
 */
 Shader "SimpleURPToonLitExample(With Outline)"
@@ -35,8 +35,8 @@ Shader "SimpleURPToonLitExample(With Outline)"
         // https://gist.github.com/phi-lira/225cd7c5e8545be602dca4eb5ed111ba#file-universalpipelinetemplateshader-shader
 
         [Header(Base Color)]
+        [MainTexture]_BaseMap("_BaseMap (Albedo)", 2D) = "white" {}
         [HDR][MainColor]_BaseColor("_BaseColor", Color) = (1,1,1,1)
-        [MainTexture]_BaseMap("_BaseMap (albedo)", 2D) = "white" {}
 
         [Header(Alpha)]
         [Toggle]_UseAlphaClipping("_UseAlphaClipping", Float) = 0
@@ -105,9 +105,9 @@ Shader "SimpleURPToonLitExample(With Outline)"
 
         // -------------------------------------
         // Our keywords
-        #pragma shader_feature_local _UseAlphaClipping
+        #pragma shader_feature_local_fragment _UseAlphaClipping
         // -------------------------------------
-        // Universal Render Pipeline keywords
+        // Universal Render Pipeline keywords (you can always copy this section from URP's Lit.shader)
         // When doing custom shaders you most often want to copy and paste these #pragmas
         // These multi_compile variants are stripped from the build depending on:
         // 1) Settings in the URP Asset assigned in the GraphicsSettings at build time
@@ -117,9 +117,9 @@ Shader "SimpleURPToonLitExample(With Outline)"
         // but not _MAIN_LIGHT_SHADOWS are invalid and therefore stripped.
         #pragma multi_compile _ _MAIN_LIGHT_SHADOWS
         #pragma multi_compile _ _MAIN_LIGHT_SHADOWS_CASCADE
-        #pragma multi_compile _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS _ADDITIONAL_OFF
-        #pragma multi_compile _ _ADDITIONAL_LIGHT_SHADOWS
-        #pragma multi_compile _ _SHADOWS_SOFT
+        #pragma multi_compile _ _ADDITIONAL_LIGHTS_VERTEX _ADDITIONAL_LIGHTS
+        #pragma multi_compile_fragment _ _ADDITIONAL_LIGHT_SHADOWS
+        #pragma multi_compile_fragment _ _SHADOWS_SOFT
         // -------------------------------------
         // Unity defined keywords
         #pragma multi_compile_fog
@@ -238,4 +238,5 @@ Shader "SimpleURPToonLitExample(With Outline)"
             ENDHLSL
         }
     }
+    FallBack "Hidden/Universal Render Pipeline/FallbackError"
 }
