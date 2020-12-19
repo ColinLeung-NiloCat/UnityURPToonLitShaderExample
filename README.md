@@ -37,6 +37,14 @@ see it in motion-> https://youtu.be/7zICgzdxuGg
 ---
 see it in motion-> https://youtu.be/X3XoYMTleJ0
 ---
+Auto Phong tessellation  
+
+(shader off, no tessellation)
+![screenshot](https://i.imgur.com/yAUdcmK.png)
+(shader on, no tessellation)
+![screenshot](https://i.imgur.com/pncbBUq.png)
+(shader on, enable tessellation! Phong tessellation can make your model smooth without changing your .fbx)
+![screenshot](https://i.imgur.com/nGCmiEj.png)
 
 Kawaii model TEST (@ganbaru_sisters)
 ![screenshot](https://i.imgur.com/7CAw71u.png)
@@ -328,5 +336,6 @@ model's creator in shader demo image/video:
 - 【オリジナル3Dモデル】Eve -イヴ- by ganbaru_sisters https://booth.pm/en/items/2557029 
 - https://www.mmd.hololive.tv/
 - Japanese Street by Art Equilibrium https://assetstore.unity.com/packages/3d/environments/urban/japanese-street-170162
+- miHoYo - Genshin Impact
 
 
