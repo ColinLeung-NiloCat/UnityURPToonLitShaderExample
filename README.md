@@ -45,6 +45,8 @@ Auto Phong tessellation
 ![screenshot](https://i.imgur.com/pncbBUq.png)
 (shader on, enable tessellation! Phong tessellation can make your model smooth without changing your .fbx)
 ![screenshot](https://i.imgur.com/nGCmiEj.png)
+see it in motion-> https://youtu.be/D-MxyBa0nJE
+---
 
 Kawaii model TEST (@ganbaru_sisters)
 ![screenshot](https://i.imgur.com/7CAw71u.png)
