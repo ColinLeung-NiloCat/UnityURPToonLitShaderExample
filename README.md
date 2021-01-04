@@ -2,7 +2,7 @@
 
 This repository is NOT the full version shader, the full version shader is still WIP and not yet released.
 
-but we are now developing a mobile version of it, NiloToonURP(Lite), and uploaded a test APK here:
+but we are now developing a mobile lite version of it, NiloToonURP(Lite), and uploaded a test APK here:
 https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view  
 
 APK's preview image:
