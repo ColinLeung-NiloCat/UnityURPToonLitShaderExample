@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view
 
 APK's preview image:
 ![screenshot](https://i.imgur.com/7kia1Mi.png)  
-runtime video of the APK: https://youtu.be/X0cOHQYkfNs  
+runtime video of the APK: https://youtu.be/gjFeVhjLe4w  
 
 This repository will be upgraded to NiloToonURP(Lite) once the product is good enough for full open-source release. 
 If you want to keep the current tutorial shader, please fork it or download a copy now.
