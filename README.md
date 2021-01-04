@@ -4,9 +4,10 @@ This repository is NOT the full version shader, the full version shader is still
 
 but we are now developing a mobile version of it, NiloToonURP(Lite), and uploaded a test APK here:
 https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view  
-runtime video of the APK: https://youtu.be/X0cOHQYkfNs  
+
 APK's preview image:
-![screenshot](https://i.imgur.com/7kia1Mi.png)
+![screenshot](https://i.imgur.com/7kia1Mi.png)  
+runtime video of the APK: https://youtu.be/X0cOHQYkfNs  
 
 This repository will be upgraded to NiloToonURP(Lite) once the product is good enough for full open-source release. 
 If you want to keep the current tutorial shader, please fork it or download a copy now.
