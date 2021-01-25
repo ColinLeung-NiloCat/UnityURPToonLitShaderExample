@@ -5,9 +5,11 @@ This repository is NOT the full version shader, the full version shader is still
 but we are now developing a mobile lite version of it, NiloToonURP(Lite), and uploaded a test APK here:
 https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view  
 
+runtime video of the APK: https://youtu.be/gjFeVhjLe4w  
+
 APK's preview image:
 ![screenshot](https://i.imgur.com/7kia1Mi.png)  
-runtime video of the APK: https://youtu.be/gjFeVhjLe4w  
+![screenshot](https://i.imgur.com/nSLdaPM.png)
 
 This repository will be upgraded to NiloToonURP(Lite) once the product is good enough for full open-source release. 
 If you want to keep the current tutorial shader, please fork it or download a copy now.
@@ -350,5 +352,6 @@ model's creator in shader demo image/video:
 - https://www.mmd.hololive.tv/
 - Japanese Street by Art Equilibrium https://assetstore.unity.com/packages/3d/environments/urban/japanese-street-170162
 - miHoYo - Genshin Impact
+- 【セール中】【オリジナル3Dモデル】ドラゴニュート・シェンナ by rokota https://rokota.booth.pm/items/2661189
 
 
