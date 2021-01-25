@@ -10,6 +10,7 @@ runtime video of the APK: https://youtu.be/gjFeVhjLe4w
 APK's preview image:
 ![screenshot](https://i.imgur.com/nSLdaPM.png)
 ![screenshot](https://i.imgur.com/sBpX10Y.png)
+![screenshot](https://i.imgur.com/EyiMbKP.png)
 ![screenshot](https://i.imgur.com/2fOhV13.png)  
 ![screenshot](https://i.imgur.com/McKrRYW.png)  
 ![screenshot](https://i.imgur.com/ZVqn8D0.png)  
