@@ -15,6 +15,7 @@ APK's preview image:
 ![screenshot](https://i.imgur.com/McKrRYW.png)  
 ![screenshot](https://i.imgur.com/ZVqn8D0.png)  
 ![screenshot](https://i.imgur.com/DKM0eyN.png)  
+![screenshot](https://i.imgur.com/UJQLJF1.png)
 
 This repository will be upgraded to NiloToonURP(Lite) once the product is good enough for full open-source release. 
 If you want to keep the current tutorial shader, please fork it or download a copy now.
