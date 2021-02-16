@@ -5,19 +5,14 @@ This repository is NOT the full version shader, the full version shader is still
 but we are now developing a mobile lite version of it, NiloToonURP(Lite), and uploaded a test APK here:
 https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view  
 
-runtime video of the APK: https://youtu.be/gjFeVhjLe4w  
+NiloToonURP(Lite)'s runtime video: https://youtu.be/zFEL1eBq_v0
 
-APK's preview image:
-![screenshot](https://i.imgur.com/nSLdaPM.png)
+NiloToonURP(Lite)'s preview image:
+![screenshot](https://i.imgur.com/nFPy1KS.png)
 ![screenshot](https://i.imgur.com/sBpX10Y.png)
 ![screenshot](https://i.imgur.com/EyiMbKP.png)
-![screenshot](https://i.imgur.com/2fOhV13.png)  
-![screenshot](https://i.imgur.com/McKrRYW.png)  
-![screenshot](https://i.imgur.com/ZVqn8D0.png)  
-![screenshot](https://i.imgur.com/DKM0eyN.png)  
-![screenshot](https://i.imgur.com/UJQLJF1.png)
 
-This repository will be upgraded to NiloToonURP(Lite) once the product is good enough for full open-source release. 
+This repository will be upgraded to NiloToonURP(Lite) once it is working correctly on 2020.3LTS. 
 If you want to keep the current tutorial shader, please fork it or download a copy now.
 ----------------------------------------------------------------
 Currently this repository is still a very simple and short shader example, only for tutorial purpose.
