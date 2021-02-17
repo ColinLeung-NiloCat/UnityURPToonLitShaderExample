@@ -11,6 +11,8 @@ NiloToonURP(Lite)'s preview image:
 ![screenshot](https://i.imgur.com/nFPy1KS.png)
 ![screenshot](https://i.imgur.com/sBpX10Y.png)
 ![screenshot](https://i.imgur.com/EyiMbKP.png)
+![screenshot](https://i.imgur.com/McKrRYW.png)
+![screenshot](https://i.imgur.com/2fOhV13.png)
 
 This repository will be upgraded to NiloToonURP(Lite) once it is working correctly on 2020.3LTS. 
 If you want to keep the current tutorial shader, please fork it or download a copy now.
