@@ -351,7 +351,7 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
         // Light struct. If ADDITIONAL_LIGHT_CALCULATE_SHADOWS is defined it will also compute shadows.
         int perObjectLightIndex = GetPerObjectLightIndex(i);
         Light light = GetAdditionalPerObjectLight(perObjectLightIndex, lightingData.positionWS); // use original positionWS for lighting
-        light.shadowAttenuation = AdditionalLightShadow(perObjectLightIndex, shadowTestPosWS, 0, 0); // use offseted positionWS for shadow test
+        light.shadowAttenuation = AdditionalLightRealtimeShadow(perObjectLightIndex, shadowTestPosWS); // use offseted positionWS for shadow test
 
         // Different function used to shade additional lights.
         additionalLightSumResult += ShadeAdditionalLight(surfaceData, lightingData, light);
