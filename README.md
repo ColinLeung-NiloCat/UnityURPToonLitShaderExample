@@ -358,5 +358,6 @@ model's creator in shader demo image/video:
 - Japanese Street by Art Equilibrium https://assetstore.unity.com/packages/3d/environments/urban/japanese-street-170162
 - miHoYo - Genshin Impact
 - 【セール中】【オリジナル3Dモデル】ドラゴニュート・シェンナ by rokota https://rokota.booth.pm/items/2661189
+- Cygames - Uma Musume
 
 
