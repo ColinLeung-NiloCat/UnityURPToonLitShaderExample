@@ -24,7 +24,7 @@ NiloToonURP(Lite)'s preview image:
 
 This repository will be upgraded to NiloToonURP(Lite) in the future when it is ready for public release, there is no ETA.  
 
--If your company needs the "latest source code + one to one support + example project setup + full document + commercial license" of NiloToonURP(Lite) for your URP project, 
+-If your company needs the "latest source code + one to one support + example project setup using your model + full document + commercial license" of NiloToonURP(Lite) for your URP project, 
 please contact: nilotoon@gmail.com  
 
 -If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future.  
