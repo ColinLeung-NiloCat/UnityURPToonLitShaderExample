@@ -1,8 +1,12 @@
 # Unity URP Simplified Toon Lit Shader Example (for you to learn writing custom lit shader in URP)
 
 This repository is NOT the full version shader, the full version shader is still WIP and not yet released.
+Currently, this repository is still a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
 
-but we are now developing a mobile lite version of it, NiloToonURP(Lite), and uploaded a test APK here:
+We are now also developing an "easy-to-use + high-performance + cross-platform" package - NiloToonURP(Lite),
+to meet the goal of URP's user -> "Build once, deploy anywhere".
+NiloToonURP(Lite) is working correctly on 2019.4LTS and 2020.3LTS now (confirmed on 2021-3-11).  
+You can download the lastest test APK of NiloToonURP(Lite) (2020.3LTS build) here to test rendering result and performance on your android mobile devices:
 https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view  
 
 NiloToonURP(Lite)'s runtime video: https://youtu.be/zFEL1eBq_v0
@@ -16,10 +20,14 @@ NiloToonURP(Lite)'s preview image:
 ![screenshot](https://i.imgur.com/McKrRYW.png)
 ![screenshot](https://i.imgur.com/2fOhV13.png)
 
-This repository will be upgraded to NiloToonURP(Lite) once it is working correctly on 2020.3LTS. 
-If you want to keep the current tutorial shader, please fork it or download a copy now.
+This repository will be upgraded to NiloToonURP(Lite) in the future when it is ready to be released to the public, there is no ETA.  
+
+-If your company needs the "lastest source code + one to one support + full document + commercial license" of NiloToonURP(Lite) for game / vtuber, 
+please contact: nilotoon@gmail.com  
+
+-If you want to keep the current tutorial shader, please fork it or download a copy now since it maybe removed in the future.  
+
 ----------------------------------------------------------------
-Currently this repository is still a very simple and short shader example, only for tutorial purpose.
 
 Screenshots from the Full version shader (not yet released):
 -------------------
