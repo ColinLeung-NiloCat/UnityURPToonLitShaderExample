@@ -284,6 +284,9 @@ For simplicity reason, I removed most of the features from the full / lite versi
 - 2D mouth renderer
 - almost all the extra texture input options like roughness, specular, normal map...
 - LOTS of sliders to control lighting, final color & outline
+- per character "dither fadeinout / rim light / tint / lerp..." control script
+- volume override control of global "dither fadeinout / rim light / tint / lerp..."
+- anime postprocessing 
 - ***just too much for me to write all removed feature here, the full / lite version shader is a totally different level product
 
 How to get a test character model?
