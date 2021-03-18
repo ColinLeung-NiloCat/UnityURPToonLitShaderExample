@@ -14,6 +14,8 @@ https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view
 NiloToonURP(Lite)'s runtime video: https://youtu.be/yYOezvzmebE
 
 NiloToonURP(Lite)'s preview image:
+![screenshot](https://i.imgur.com/WUuwUZd.png)
+![screenshot](https://i.imgur.com/pbBcur0.png)
 ![screenshot](https://i.imgur.com/nFPy1KS.png)
 ![screenshot](https://i.imgur.com/sBpX10Y.png)
 ![screenshot](https://i.imgur.com/EyiMbKP.png)
