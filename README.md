@@ -321,16 +321,6 @@ https://youtu.be/uVI_QOioER4
 
 More old screenshots from the Full version shader(not yet released):
 ---
-![screenshot](https://i.imgur.com/RDqMYVP.png)
-![screenshot](https://i.imgur.com/AqqXbjz.png)
-![screenshot](https://i.imgur.com/m95orpw.png)
-![screenshot](https://i.imgur.com/1uU9Dp1.png)
-![screenshot](https://i.imgur.com/U2XYPAj.png)
-![screenshot](https://i.imgur.com/23eeHZS.png)
-![screenshot](https://i.imgur.com/pMCxwyP.png)
-![screenshot](https://i.imgur.com/sxeUg1K.png)
-https://youtu.be/tNnqIP4NdV8
----
 
 ![screenshot](https://i.imgur.com/DDr32Mu.png)
 https://youtu.be/IP293mAmBCk
