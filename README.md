@@ -21,6 +21,8 @@ NiloToonURP(Lite)'s preview image:
 ![screenshot](https://i.imgur.com/5F5x82u.png)
 ![screenshot](https://i.imgur.com/azlQ8KO.png)
 ![screenshot](https://i.imgur.com/LUwoSiY.png)
+![screenshot](https://i.imgur.com/iAtnFGo.png)
+![screenshot](https://i.imgur.com/5rjw5NI.png)
 https://youtu.be/VFFjMpmJ7WQ
 ![screenshot](https://i.imgur.com/rGBAu13.png)
 https://youtu.be/hBNs-7tyrU4
