@@ -76,6 +76,9 @@ sampler2D _OutlineZOffsetMaskTex;
 // put all your uniforms(usually things inside .shader file's properties{}) inside this CBUFFER, in order to make SRP batcher compatible
 // see -> https://blogs.unity3d.com/2019/02/28/srp-batcher-speed-up-your-rendering/
 CBUFFER_START(UnityPerMaterial)
+    
+    // high level settings
+    float   _IsFace;
 
     // base color
     float4  _BaseMap_ST;
@@ -197,7 +200,7 @@ Varyings VertexShaderWork(Attributes input)
     outlineZOffsetMask = invLerpClamp(_OutlineZOffsetMaskRemapStart,_OutlineZOffsetMaskRemapEnd,outlineZOffsetMask);// allow user to flip value or remap
 
     // [Apply ZOffset, Use remapped value as ZOffset mask]
-    output.positionCS = NiloGetNewClipPosWithZOffset(output.positionCS, _OutlineZOffset * outlineZOffsetMask);
+    output.positionCS = NiloGetNewClipPosWithZOffset(output.positionCS, _OutlineZOffset * outlineZOffsetMask + 0.03 * _IsFace);
 #endif
 
     // ShadowCaster pass needs special process to positionCS, else shadow artifact will appear
@@ -321,7 +324,7 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
     // You can pass optionally a shadowCoord. If so, shadowAttenuation will be computed.
     Light mainLight = GetMainLight();
 
-    float3 shadowTestPosWS = lightingData.positionWS + mainLight.direction * _ReceiveShadowMappingPosOffset;
+    float3 shadowTestPosWS = lightingData.positionWS + mainLight.direction * (_ReceiveShadowMappingPosOffset + _IsFace);
 #ifdef _MAIN_LIGHT_SHADOWS
     // compute the shadow coords in the fragment shader now due to this change
     // https://forum.unity.com/threads/shadow-cascades-weird-since-7-2-0.828453/#post-5516425
