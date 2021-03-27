@@ -1,9 +1,8 @@
 // For more information, visit -> https://github.com/ColinLeung-NiloCat/UnityURPToonLitShaderExample
 
-// #ifndef XXX + #define XXX + #endif is a safe guard best practice in almost every .hlsl, 
+// #pragma once is a safe guard best practice in almost every .hlsl (need Unity2020 or up), 
 // doing this can make sure your .hlsl's user can include this .hlsl anywhere anytime without producing any multi include conflict
-#ifndef SimpleURPToonLitOutlineExample_Shared_Include
-#define SimpleURPToonLitOutlineExample_Shared_Include
+#pragma once
 
 // We don't have "UnityCG.cginc" in SRP/URP's package anymore, so:
 // Including the following two hlsl files is enough for shading with Universal Pipeline. Everything is included in them.
@@ -96,24 +95,19 @@ CBUFFER_START(UnityPerMaterial)
     // occlusion
     float   _UseOcclusion;
     half    _OcclusionStrength;
-    half    _OcclusionIndirectStrength;
-    half    _OcclusionDirectStrength;
     half4   _OcclusionMapChannelMask;
     half    _OcclusionRemapStart;
     half    _OcclusionRemapEnd;
 
     // lighting
     half3   _IndirectLightMinColor;
-    half    _IndirectLightMultiplier;
-    half    _DirectLightMultiplier;
     half    _CelShadeMidPoint;
     half    _CelShadeSoftness;
-    half    _MainLightIgnoreCelShade;
-    half    _AdditionalLightIgnoreCelShade;
 
     // shadow mapping
     half    _ReceiveShadowMappingAmount;
     float   _ReceiveShadowMappingPosOffset;
+    half3   _ShadowMapColor;
 
     // outline
     float   _OutlineWidth;
@@ -336,7 +330,7 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
 #endif 
 
     // Main light
-    half3 mainLightResult = ShadeMainLight(surfaceData, lightingData, mainLight);
+    half3 mainLightResult = ShadeSingleLight(surfaceData, lightingData, mainLight, false);
 
     //==============================================================================================
     // All additional lights
@@ -357,7 +351,7 @@ half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
         light.shadowAttenuation = AdditionalLightRealtimeShadow(perObjectLightIndex, shadowTestPosWS); // use offseted positionWS for shadow test
 
         // Different function used to shade additional lights.
-        additionalLightSumResult += ShadeAdditionalLight(surfaceData, lightingData, light);
+        additionalLightSumResult += ShadeSingleLight(surfaceData, lightingData, light, true);
     }
 #endif
     //==============================================================================================
@@ -415,5 +409,3 @@ void BaseColorAlphaClipTest(Varyings input)
 {
     DoClipTestToTargetAlphaValue(GetFinalBaseColor(input).a);
 }
-
-#endif
