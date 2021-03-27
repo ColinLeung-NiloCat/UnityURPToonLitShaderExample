@@ -49,7 +49,8 @@ half3 ShadeSingleLightDefaultMethod(ToonSurfaceData surfaceData, LightingData li
     half celShadeResult = smoothstep(_CelShadeMidPoint-_CelShadeSoftness,_CelShadeMidPoint+_CelShadeSoftness, NoL);
 
     // don't want direct lighting's cel shade effect looks too strong? set ignoreValue to a higher value
-    lightAttenuation *= lerp(celShadeResult,1, isAdditionalLight? _AdditionalLightIgnoreCelShade : _MainLightIgnoreCelShade);
+    // face will ignore celshade
+    lightAttenuation *= lerp(celShadeResult,1, _IsFace? 1 : isAdditionalLight? _AdditionalLightIgnoreCelShade : _MainLightIgnoreCelShade);
 
     // don't want direct lighting becomes too bright for toon lit characters? set this value to a lower value 
     lightAttenuation *= _DirectLightMultiplier;
@@ -59,7 +60,8 @@ half3 ShadeSingleLightDefaultMethod(ToonSurfaceData surfaceData, LightingData li
     half directOcclusion = lerp(1, surfaceData.occlusion, _OcclusionDirectStrength);
     lightAttenuation *= directOcclusion;
 
-    return light.color * lightAttenuation;
+    // saturate light.color to prevent over bright
+    return saturate(light.color) * lightAttenuation;
 }
 
 half3 ShadeEmissionDefaultMethod(ToonSurfaceData surfaceData, LightingData lightingData)
