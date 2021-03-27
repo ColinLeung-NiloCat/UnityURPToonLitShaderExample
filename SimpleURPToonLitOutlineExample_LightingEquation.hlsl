@@ -34,7 +34,7 @@ half3 ShadeSingleLight(ToonSurfaceData surfaceData, LightingData lightingData, L
 
     // light's distance & angle fade for point light & spot light (see GetAdditionalPerObjectLight(...) in Lighting.hlsl)
     // Lighting.hlsl -> https://github.com/Unity-Technologies/Graphics/blob/master/com.unity.render-pipelines.universal/ShaderLibrary/Lighting.hlsl
-    half distanceAttenuation = saturate(light.distanceAttenuation); //clamp to prevent light over bright if point/spot light too close to vertex
+    half distanceAttenuation = min(4,light.distanceAttenuation); //clamp to prevent light over bright if point/spot light too close to vertex
 
     // N dot L
     // simplest 1 line cel shade, you can always replace this line by your own method!
