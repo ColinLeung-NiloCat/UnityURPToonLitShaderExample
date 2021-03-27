@@ -2,7 +2,7 @@
 
 /*
 This shader is a simple example showing you how to write your first URP custom lit shader with "minimum" shader code.
-You can use this shader as a starting point, add/edit code to develop your own custom lit shader for URP10.2.2 or above.
+You can use this shader as a starting point, add/edit code to develop your own custom lit shader for URP10.3.2 or above.
 
 *Usually, just by editing "SimpleURPToonLitOutlineExample_LightingEquation.hlsl" alone can control most of the visual result.
 
@@ -36,7 +36,6 @@ Shader "SimpleURPToonLitExample(With Outline)"
         // so switching your URP lit material's shader to this toon lit shader will preserve most of the original properties if defined in this shader
 
         // for URP Lit shader's naming convention, see URP's Lit.shader
-
         [Header(Base Color)]
         [MainTexture]_BaseMap("_BaseMap (Albedo)", 2D) = "white" {}
         [HDR][MainColor]_BaseColor("_BaseColor", Color) = (1,1,1,1)
@@ -55,8 +54,6 @@ Shader "SimpleURPToonLitExample(With Outline)"
         [Header(Occlusion)]
         [Toggle]_UseOcclusion("_UseOcclusion (on/off Occlusion completely)", Float) = 0
         _OcclusionStrength("_OcclusionStrength", Range(0.0, 1.0)) = 1.0
-        _OcclusionIndirectStrength("_OcclusionIndirectStrength", Range(0.0, 1.0)) = 0.5
-        _OcclusionDirectStrength("_OcclusionDirectStrength", Range(0.0, 1.0)) = 0.75
         [NoScaleOffset]_OcclusionMap("_OcclusionMap", 2D) = "white" {}
         _OcclusionMapChannelMask("_OcclusionMapChannelMask", Vector) = (1,0,0,0)
         _OcclusionRemapStart("_OcclusionRemapStart", Range(0,1)) = 0
@@ -74,6 +71,7 @@ Shader "SimpleURPToonLitExample(With Outline)"
         [Header(Shadow mapping)]
         _ReceiveShadowMappingAmount("_ReceiveShadowMappingAmount", Range(0,1)) = 0.65
         _ReceiveShadowMappingPosOffset("_ReceiveShadowMappingPosOffset", Float) = 0
+        _ShadowMapColor("_ShadowMapColor", Color) = (1,0.825,0.78)
 
         [Header(Outline)]
         _OutlineWidth("_OutlineWidth (World Space)", Range(0,4)) = 1
