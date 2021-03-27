@@ -47,7 +47,7 @@ float GetOutlineCameraFovAndDistanceFixMultiplier(float positionVS_Z)
         cameraMulFix = orthoSize * 50; // 50 is a magic number to match perspective camera's outline width
     }
 
-    return cameraMulFix * 0.0001; // mul a const to make return result = default normal expand amount WS
+    return cameraMulFix * 0.00005; // mul a const to make return result = default normal expand amount WS
 }
 #endif
 
