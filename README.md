@@ -6,12 +6,12 @@ Currently, this repository is still a very simple and short shader example, only
 We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
 
-NiloToonURP is working correctly on 2019.4LTS and 2020.3LTS (confirmed on 2021-3-11).  
+NiloToonURP is tested and working correctly on 2019.4LTS and 2020.3LTS (confirmed on 2021-3-11).  
 
-Download NiloToonURP android .apk demo:
+Download NiloToonURP android .apk demo (2020.3LTS build):
 - https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
 
-Download NiloToonURP PC, Mac, and Linux standalone demo:
+Download NiloToonURP PC, Mac, and Linux standalone demo (2020.3LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
 NiloToonURP's runtime video: 
