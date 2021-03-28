@@ -3,22 +3,22 @@
 This repository is NOT the full version shader, the full version shader is still WIP and not yet released.
 Currently, this repository is still a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
 
-We are now also developing an "easy-to-use + high-performance + cross-platform + look as good as full version" package - NiloToonURP(Lite),
-to meet the goal of most URP's user.  
+We are now also developing an "easy-to-use + high-performance + cross-platform" shader package - NiloToonURP,
+to meet toon shading needs of most URP's user.  
 
-NiloToonURP(Lite) is working correctly on 2019.4LTS and 2020.3LTS (confirmed on 2021-3-11).  
+NiloToonURP is working correctly on 2019.4LTS and 2020.3LTS (confirmed on 2021-3-11).  
 
-Download NiloToonURP(Lite) android .apk demo:
+Download NiloToonURP android .apk demo:
 - https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
 
-Download NiloToonURP(Lite) PC, Mac, and Linux standalone demo:
+Download NiloToonURP PC, Mac, and Linux standalone demo:
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
-NiloToonURP(Lite)'s runtime video: 
+NiloToonURP's runtime video: 
 - https://youtu.be/VFFjMpmJ7WQ
 - https://youtu.be/hBNs-7tyrU4
 
-NiloToonURP(Lite)'s preview image:
+NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
 ![screenshot](https://i.imgur.com/pbBcur0.png)
 ![screenshot](https://i.imgur.com/5F5x82u.png)
@@ -35,16 +35,14 @@ NiloToonURP(Lite)'s preview image:
 ![screenshot](https://i.imgur.com/McKrRYW.png)
 ![screenshot](https://i.imgur.com/2fOhV13.png)
 
-This repository will be upgraded to NiloToonURP(Lite) in the future when it is ready for public release, there is no ETA.  
-
--If your company needs the "latest source code + one to one support + example project setup using your model + full document + commercial license" of NiloToonURP(Lite) for your URP project, 
+-If your company needs the "latest source code + one to one support + example project setup using your model + full document + commercial license" of NiloToonURP for your URP project, 
 please contact: nilotoon@gmail.com  
 
 -If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future.  
 
 ----------------------------------------------------------------
 
-Screenshots from the Full version shader (not yet released):
+Screenshots from the NiloToonURP (not yet released):
 -------------------
 shader ON
 ![screenshot](https://i.imgur.com/xJSzAMZ.png)
