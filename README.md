@@ -8,10 +8,10 @@ to meet the goal of most URP's user.
 
 NiloToonURP(Lite) is working correctly on 2019.4LTS and 2020.3LTS (confirmed on 2021-3-11).  
 
-Download android .apk demo:
+Download NiloToonURP(Lite) android .apk demo:
 - https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view
 
-Download PC .exe demo:
+Download NiloToonURP(Lite) PC .exe demo:
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
 NiloToonURP(Lite)'s runtime video: 
@@ -24,14 +24,12 @@ NiloToonURP(Lite)'s preview image:
 ![screenshot](https://i.imgur.com/5F5x82u.png)
 ![screenshot](https://i.imgur.com/azlQ8KO.png)
 ![screenshot](https://i.imgur.com/LUwoSiY.png)
-https://youtu.be/VFFjMpmJ7WQ
 ![screenshot](https://i.imgur.com/iAtnFGo.png)
 ![screenshot](https://i.imgur.com/5rjw5NI.png)
 ![screenshot](https://i.imgur.com/rGBAu13.png)
 ![screenshot](https://i.imgur.com/ngsFHWb.png)
 ![screenshot](https://i.imgur.com/GTfwbV0.png)
 ![screenshot](https://i.imgur.com/nFPy1KS.png)
-https://youtu.be/hBNs-7tyrU4
 ![screenshot](https://i.imgur.com/sBpX10Y.png)
 ![screenshot](https://i.imgur.com/EyiMbKP.png)
 ![screenshot](https://i.imgur.com/McKrRYW.png)
@@ -289,7 +287,7 @@ What is NOT included in this simplified example shader?
 -------------------
 For simplicity reason, I removed most of the features from the full / lite version shader (deleted 90% of the original shader), else this example shader will be way too complex for reading & learning. The removed features are:
 - face anime lighting (auto-fix face ugly lighting due to vertex normal without modifying .fbx, very important)
-- smooth outline normal auto baking (fix ugly outlines without modifying .fbx, very important)
+- smooth outline normal auto baking (fix ugly outlines without modifying .fbx once you attach a script on character, very important)
 - auto 2D hair shadow on face (very important, it is very difficult to produce good looking shadow result using shadowmap)
 - sharp const width rim light (Blue Protocol / Genshin Impact)
 - tricks to render eye/eyebrow over hair
@@ -297,11 +295,13 @@ For simplicity reason, I removed most of the features from the full / lite versi
 - PBR specular lighting (GGX)
 - HSV control shadow & outline color
 - 2D mouth renderer
-- almost all the extra texture input options like roughness, specular, normal map...
+- almost all the extra texture input options like roughness, specular, normal map, detail map...
 - LOTS of sliders to control lighting, final color & outline
 - per character "dither fadeinout / rim light / tint / lerp..." control script
 - volume override control of global "dither fadeinout / rim light / tint / lerp..."
-- anime postprocessing 
+- anime postprocessing
+- auto phong tessellation
+- perspective removal per character 
 - ***just too much for me to write all removed feature here, the full / lite version shader is a totally different level product
 
 How to get a test character model?
@@ -371,5 +371,3 @@ model's creator in shader demo image/video:
 - miHoYo - Genshin Impact
 - 【セール中】【オリジナル3Dモデル】ドラゴニュート・シェンナ by rokota https://rokota.booth.pm/items/2661189
 - Cygames - Uma Musume
-
-
