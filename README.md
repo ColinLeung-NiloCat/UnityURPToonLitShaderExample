@@ -11,7 +11,7 @@ NiloToonURP(Lite) is working correctly on 2019.4LTS and 2020.3LTS (confirmed on 
 Download NiloToonURP(Lite) android .apk demo:
 - https://drive.google.com/file/d/1bPm2qVqzGELJUcVFbZRIsWyF2FVfvCDl/view
 
-Download NiloToonURP(Lite) PC .exe demo:
+Download NiloToonURP(Lite) PC, Mac, and Linux standalone demo:
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
 NiloToonURP(Lite)'s runtime video: 
