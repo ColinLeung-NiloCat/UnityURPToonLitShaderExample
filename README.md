@@ -3,8 +3,8 @@
 This repository is NOT the full version shader, the full version shader is still WIP and not yet released.
 Currently, this repository is still a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
 
-We are now also developing an "easy-to-use + high-performance + cross-platform" shader package - NiloToonURP,
-to meet toon shading needs of most URP's user.  
+We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" toon shader package - NiloToonURP,
+to meet the toon shading needs of most URP's user.  
 
 NiloToonURP is working correctly on 2019.4LTS and 2020.3LTS (confirmed on 2021-3-11).  
 
