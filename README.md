@@ -271,16 +271,16 @@ but doing this will make lighting slightly incorrect.
 4. edit "Smoothing Angle" to 180  
   
 ![screenshot](https://i.imgur.com/yxDkeGP.png)  
-before calculate smooth normal (printscreen of tutorial shader, not full version)  
+before calculate smooth normal (printscreen of tutorial shader, not NiloToonURP)  
 ![screenshot](https://i.imgur.com/uTJ3gxB.png)  
-after calculate smooth normal  (printscreen of tutorial shader, not full version)
+after calculate smooth normal  (printscreen of tutorial shader, not NiloToonURP)
 ![screenshot](https://i.imgur.com/9Jnnigf.png)
 
-*The full and lite version project will contain a few editor C# scripts, which can help the shader to produce correct lighting and perfect outline together.
+*NiloToonURP contains a few editor C# scripts, which can help the shader to produce correct lighting and perfect outline together.
 
 What is NOT included in this simplified example shader?
 -------------------
-For simplicity reason, I removed most of the features from the full / lite version shader (deleted 90% of the original shader), else this example shader will be way too complex for reading & learning. The removed features are:
+For simplicity reason, I removed most of the features from the NiloToonURP (deleted 90% of the original shader), else this example shader will be way too complex for reading & learning. The removed features are:
 - face anime lighting (auto-fix face ugly lighting due to vertex normal without modifying .fbx, very important)
 - smooth outline normal auto baking (fix ugly outlines without modifying .fbx once you attach a script on character, very important)
 - auto 2D hair shadow on face (very important, it is very difficult to produce good looking shadow result using shadowmap)
