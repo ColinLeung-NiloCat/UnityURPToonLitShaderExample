@@ -39,7 +39,7 @@ please contact: nilotoon@gmail.com
 
 ----------------------------------------------------------------
 
-Screenshots from the NiloToonURP (not yet released):
+Screenshots of NiloToonURP:
 -------------------
 shader ON
 ![screenshot](https://i.imgur.com/xJSzAMZ.png)
