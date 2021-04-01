@@ -35,9 +35,10 @@ NiloToonURP's preview image:
 If your company needs the 
 - latest source code (with all detail comments and notes)
 - complete 2020.3LTS demo project (include everything you see in the downloadable demo)
-- perpetual royalty free commercial license
+- perpetual royalty-free commercial license
 - (optional) future update and support
-- (optional) project specific customization  
+- (optional) project specific customization and support 
+
 of NiloToonURP for your URP project, please contact: nilotoon@gmail.com  
 
 If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future.  
