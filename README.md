@@ -18,6 +18,17 @@ NiloToonURP's runtime video:
 - https://youtu.be/q7VloWbkSaA
 - https://youtu.be/hBNs-7tyrU4
 
+If you/your company needs 
+- latest source code of NiloToonURP (with all detail comments and notes)
+- complete 2020.3LTS demo project of NiloToonURP (include everything you see in the downloadable demo)
+- perpetual royalty-free commercial license
+- every future update
+- (optional) project specific customization and support 
+
+of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
+- name (your name or your company's name)
+- a google account email for gaining permission to access NiloToonURP in google drive 
+
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
 ![screenshot](https://i.imgur.com/pbBcur0.png)
@@ -30,18 +41,7 @@ NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/sBpX10Y.png)
 ![screenshot](https://i.imgur.com/EyiMbKP.png)
 ![screenshot](https://i.imgur.com/McKrRYW.png)
-![screenshot](https://i.imgur.com/2fOhV13.png)
-
-If you/your company needs 
-- latest source code of NiloToonURP (with all detail comments and notes)
-- complete 2020.3LTS demo project of NiloToonURP (include everything you see in the downloadable demo)
-- perpetual royalty-free commercial license
-- every future update
-- (optional) project specific customization and support 
-
-of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
-- name (your name or your company's name)
-- a google account email for gaining permission to access NiloToonURP in google drive  
+![screenshot](https://i.imgur.com/2fOhV13.png) 
 
 If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future.  
 
