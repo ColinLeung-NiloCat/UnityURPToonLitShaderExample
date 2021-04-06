@@ -15,7 +15,7 @@ Download NiloToonURP PC, Mac, and Linux standalone demo (2020.3LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
 NiloToonURP's runtime video: 
-- https://youtu.be/VFFjMpmJ7WQ
+- https://youtu.be/q7VloWbkSaA
 - https://youtu.be/hBNs-7tyrU4
 
 NiloToonURP's preview image:
@@ -32,14 +32,16 @@ NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/McKrRYW.png)
 ![screenshot](https://i.imgur.com/2fOhV13.png)
 
-If your company needs the 
-- latest source code (with all detail comments and notes)
-- complete 2020.3LTS demo project (include everything you see in the downloadable demo)
+If you/your company needs 
+- latest source code of NiloToonURP (with all detail comments and notes)
+- complete 2020.3LTS demo project of NiloToonURP (include everything you see in the downloadable demo)
 - perpetual royalty-free commercial license
-- (optional) future update and support
+- every future update
 - (optional) project specific customization and support 
 
-of NiloToonURP for your URP project, please contact: nilotoon@gmail.com  
+of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
+- name (your name or your company's name)
+- a google account email for gaining permission to access NiloToonURP in google drive  
 
 If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future.  
 
