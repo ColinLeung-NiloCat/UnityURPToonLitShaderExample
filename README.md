@@ -28,13 +28,14 @@ If you/your company needs
 of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
 - name (your name or your company's name)
 - a google account email for gaining permission to access NiloToonURP in google drive 
+* due to extremely large amount of requests, we may not be able to response to all free requests.
 
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
 ![screenshot](https://i.imgur.com/pbBcur0.png)
-![screenshot](https://i.imgur.com/iBuPldz.png)
-![screenshot](https://i.imgur.com/HuOMLYn.png)
 ![screenshot](https://i.imgur.com/RqsPfvf.png)
+![screenshot](https://i.imgur.com/HuOMLYn.png)
+![screenshot](https://i.imgur.com/iBuPldz.png)
 ![screenshot](https://i.imgur.com/5F5x82u.png)
 ![screenshot](https://i.imgur.com/azlQ8KO.png)
 ![screenshot](https://i.imgur.com/LUwoSiY.png)
@@ -377,3 +378,4 @@ model's creator in shader demo image/video:
 - miHoYo - Genshin Impact
 - 【セール中】【オリジナル3Dモデル】ドラゴニュート・シェンナ by rokota https://rokota.booth.pm/items/2661189
 - Cygames - Uma Musume
+- Cygames/Arc System Works - Granblue Fantasy Versus
