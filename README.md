@@ -33,7 +33,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
 ![screenshot](https://i.imgur.com/pbBcur0.png)
-![screenshot](https://i.imgur.com/RqsPfvf.png)
+![screenshot](https://i.imgur.com/Hz4wBmf.png)
 ![screenshot](https://i.imgur.com/HuOMLYn.png)
 ![screenshot](https://i.imgur.com/iBuPldz.png)
 ![screenshot](https://i.imgur.com/5F5x82u.png)
