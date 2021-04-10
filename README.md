@@ -27,8 +27,10 @@ If you/your company needs
 
 of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
 - name (your name or your company's name)
-- a google account email for gaining permission to access NiloToonURP in google drive 
-* due to extremely large amount of requests, we may not be able to response to all free requests.
+- a google account email for gaining permission to access NiloToonURP in google drive  
+
+
+(due to extremely large amount of requests, we may not be able to response to all free requests)
 
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
