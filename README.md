@@ -1,9 +1,9 @@
 # Unity URP Simplified Toon Lit Shader Example (for you to learn writing custom lit shader in URP)
 
-This repository is NOT the full version shader, the full version shader is still WIP and not yet released.
-Currently, this repository is still a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
-
-We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" toon shader package - NiloToonURP,
+This repository is NOT the full version shader.
+Currently, this repository is just a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
+-----------------------------------------
+We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
 
 NiloToonURP is tested and working correctly on 2019.4LTS and 2020.3LTS (confirmed on 2021-3-11).  
@@ -28,9 +28,6 @@ If you/your company needs
 of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
 - name (your name or your company's name)
 - a google account email for gaining permission to access NiloToonURP in google drive  
-
-
-(due to extremely large amount of requests, we may not be able to response to all free requests)
 
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
