@@ -33,6 +33,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
 ![screenshot](https://i.imgur.com/pbBcur0.png)
+![screenshot](https://i.imgur.com/Rtft0od.png)
 ![screenshot](https://i.imgur.com/EMRp14N.png)
 ![screenshot](https://i.imgur.com/sN5n9bc.png)
 ![screenshot](https://i.imgur.com/qlNMncE.png)
@@ -47,7 +48,8 @@ NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/sBpX10Y.png)
 ![screenshot](https://i.imgur.com/EyiMbKP.png)
 ![screenshot](https://i.imgur.com/McKrRYW.png)
-![screenshot](https://i.imgur.com/2fOhV13.png) 
+![screenshot](https://i.imgur.com/2fOhV13.png)
+![screenshot](https://i.imgur.com/DaRpLLX.png)
 
 If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future.  
 
