@@ -20,15 +20,17 @@ NiloToonURP's runtime video:
 - https://youtu.be/NI-n-cmTJHM
 
 If you/your company needs 
-- latest source code of NiloToonURP (with all detail comments and notes)
-- complete 2020.3LTS demo project of NiloToonURP (include everything you see in the downloadable demo)
+- latest source code (with all detail comments and notes)
+- latest user document
+- latest complete 2020.3LTS demo project (the exact same full project that built the .exe & .apk demos)
 - perpetual royalty-free commercial license
 - every future update
 - (optional) project specific customization and support 
 
 of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
 - name (your name or your company's name)
-- a google account email for gaining permission to access NiloToonURP in google drive  
+- a google account email for gaining permission to access NiloToonURP in google drive
+- any public website that shows your/your company's work or public media  
 
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
