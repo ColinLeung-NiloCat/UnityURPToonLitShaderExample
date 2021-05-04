@@ -33,6 +33,8 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - any public website that shows your/your company's work or public media  
 
 NiloToonURP's preview image:
+![screenshot](https://i.imgur.com/xptIKZy.png)
+![screenshot](https://i.imgur.com/8M07v4F.png)
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
 ![screenshot](https://i.imgur.com/pbBcur0.png)
 ![screenshot](https://i.imgur.com/Rtft0od.png)
@@ -384,3 +386,4 @@ model's creator in shader demo image/video:
 - 【セール中】【オリジナル3Dモデル】ドラゴニュート・シェンナ by rokota https://rokota.booth.pm/items/2661189
 - Cygames - Uma Musume
 - Cygames/Arc System Works - Granblue Fantasy Versus
+- 魔使マオ by 百舌谷@mozuya_
