@@ -38,6 +38,8 @@ NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/f8EEr3o.png)
 ![screenshot](https://i.imgur.com/Hxc7U5M.png)
 ![screenshot](https://i.imgur.com/pbBcur0.png)
+![screenshot](https://i.imgur.com/BMyOEl9.png)
+![screenshot](https://i.imgur.com/JF4iDhM.png)
 ![screenshot](https://i.imgur.com/Rtft0od.png)
 ![screenshot](https://i.imgur.com/EMRp14N.png)
 ![screenshot](https://i.imgur.com/sN5n9bc.png)
