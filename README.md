@@ -8,10 +8,10 @@ to meet the toon shading needs of most URP's user.
 
 NiloToonURP is tested and working correctly on Unity 2019.4(URP 7.4.1 or above) and Unity 2020.3LTS(URP 10.4.0 or above).  
 
-Download NiloToonURP PC, Mac, and Linux standalone demo (2020.3LTS build):
+Download NiloToonURP PC .exe demo (2020.3LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
-Download NiloToonURP android .apk demo (2020.3LTS build):
+Download NiloToonURP Android .apk demo (2020.3LTS build):
 - https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
 
 NiloToonURP's runtime video: 
