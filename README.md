@@ -6,13 +6,13 @@ Currently, this repository is just a very simple and short shader example, only 
 We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
 
-NiloToonURP is tested and working correctly on 2020.3LTS (confirmed on 2021-3-11).  
-
-Download NiloToonURP android .apk demo (2020.3LTS build):
-- https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
+NiloToonURP is tested and working correctly on Unity 2019.4(URP 7.4.1 or above) and Unity 2020.3LTS(URP 10.4.0 or above).  
 
 Download NiloToonURP PC, Mac, and Linux standalone demo (2020.3LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
+
+Download NiloToonURP android .apk demo (2020.3LTS build):
+- https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
 
 NiloToonURP's runtime video: 
 - https://youtu.be/q7VloWbkSaA
@@ -22,17 +22,19 @@ NiloToonURP's runtime video:
 - https://youtu.be/dq4g0K1jbGM
 - https://www.bilibili.com/video/BV1pp4y1s7Up?from=search&seid=7853367419842130632
 
-If you/your company needs 
+If you or your company/organization/team needs: 
 - latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
 - latest user document
 - perpetual royalty-free commercial license
 - every future update
-- (optional) your project's specific customization and support 
+- (optional) we set up your character models's rendering in the best way possible for you, using NiloToonURP
+- (optional) tech support
+- (optional) your project-specific customization and support 
 
 of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
-- name (your name or your company's name)
-- a google account email for gaining permission to access NiloToonURP in google drive
-- any public website that shows your/your company's work or public media  
+- name (your personal name or your company/organization/team's name)
+- a google account email for gaining permission to download all NiloToonURP files in google drive
+- any public website that shows your/your company/organization/team's work or public media  
 
 NiloToonURP's preview image:
 
