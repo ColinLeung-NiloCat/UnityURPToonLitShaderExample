@@ -22,7 +22,8 @@ NiloToonURP's runtime video:
 - https://youtu.be/dq4g0K1jbGM
 - https://youtu.be/nZhxKYcgFaY
 - https://youtu.be/yNc0C_q_z30
-- https://www.bilibili.com/video/BV1pp4y1s7Up?from=search&seid=7853367419842130632
+- https://www.bilibili.com/video/BV1pp4y1s7Up
+- https://www.bilibili.com/video/BV19K4y1u7tC
 
 If you or your company/organization/team needs: 
 - latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
