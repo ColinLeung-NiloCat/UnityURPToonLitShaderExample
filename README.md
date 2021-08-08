@@ -41,6 +41,9 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - any public website that shows your/your company/organization/team's work or public media  
 
 NiloToonURP's preview image:
+![screenshot](https://i.imgur.com/mwZb9xZ.png)
+![screenshot](https://i.imgur.com/O7eMz5Q.png)
+![screenshot](https://i.imgur.com/bUn3f0q.png)
 ![screenshot](https://i.imgur.com/MCqHtlQ.png)
 ![screenshot](https://i.imgur.com/yu37Jr0.png)
 ![screenshot](https://i.imgur.com/1CZ2XJa.png)
@@ -403,3 +406,4 @@ model's creator in shader demo image/video:
 - Cygames - Uma Musume
 - Cygames/Arc System Works - Granblue Fantasy Versus
 - 魔使マオ by 百舌谷@mozuya_
+- QuQu - https://sonovr.booth.pm/
