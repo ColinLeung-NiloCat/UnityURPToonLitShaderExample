@@ -409,3 +409,4 @@ model's creator in shader demo image/video:
 - Cygames/Arc System Works - Granblue Fantasy Versus
 - 魔使マオ by 百舌谷@mozuya_
 - QuQu - https://sonovr.booth.pm/
+- nero -ネロ- by KM3 Doll - https://booth.pm/en/items/3167314
