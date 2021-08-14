@@ -25,6 +25,7 @@ NiloToonURP's runtime video:
 - https://www.bilibili.com/video/BV1pp4y1s7Up
 - https://www.bilibili.com/video/BV19K4y1u7tC
 - https://youtu.be/A9MJ73C0f-M
+- https://youtu.be/2CTSe6Q5-xI (Kureiji Ollie model / environment / postprocess)
 
 If you or your company/organization/team needs: 
 - latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
