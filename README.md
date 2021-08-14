@@ -25,7 +25,7 @@ NiloToonURP's runtime video:
 - https://www.bilibili.com/video/BV1pp4y1s7Up
 - https://www.bilibili.com/video/BV19K4y1u7tC
 - https://youtu.be/A9MJ73C0f-M
-- https://youtu.be/2CTSe6Q5-xI (shader of Kureiji Ollie model, environment, postprocess)
+- https://youtu.be/2CTSe6Q5-xI (shader of Kureiji Ollie model+environment+postprocess)
 
 If you or your company/organization/team needs: 
 - latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
@@ -43,6 +43,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/7wCeSic.png)
+![screenshot](https://i.imgur.com/Uqz5wcD.png)
 ![screenshot](https://i.imgur.com/mwZb9xZ.png)
 ![screenshot](https://i.imgur.com/O7eMz5Q.png)
 ![screenshot](https://i.imgur.com/bUn3f0q.png)
