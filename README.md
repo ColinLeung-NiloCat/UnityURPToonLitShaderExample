@@ -42,6 +42,10 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - any public website that shows your/your company/organization/team's work or public media  
 
 NiloToonURP's preview image:
+![screenshot](https://i.imgur.com/jSdwLoH.png)
+![screenshot](https://i.imgur.com/GFB8adF.png)
+![screenshot](https://i.imgur.com/yFJkawp.png)
+![screenshot](https://i.imgur.com/guH4Ara.png)
 ![screenshot](https://i.imgur.com/7wCeSic.png)
 ![screenshot](https://i.imgur.com/Uqz5wcD.png)
 ![screenshot](https://i.imgur.com/xcT9kqY.png)
@@ -417,3 +421,5 @@ model's creator in shader demo image/video:
 - QuQu - https://sonovr.booth.pm/
 - nero -ネロ- by KM3 Doll - https://booth.pm/en/items/3167314
 - Kanauru's credit list - https://youtu.be/2CTSe6Q5-xI
+- YOYOGIMORI (【VRC / VRM 対応3Dモデル】imiut ver3.03) - https://yoyogi-mori.booth.pm/items/2040691
+- YOYOGIMORI (【VRC / VRM 対応3Dモデル】白鳥 -Shiratori- ver3.03) - https://yoyogi-mori.booth.pm/items/2482022
