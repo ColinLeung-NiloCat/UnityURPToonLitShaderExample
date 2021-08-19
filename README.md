@@ -42,8 +42,8 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - any public website that shows your/your company/organization/team's work or public media  
 
 NiloToonURP's preview image:
-![screenshot](https://i.imgur.com/jSdwLoH.png)
-![screenshot](https://i.imgur.com/GFB8adF.png)
+![screenshot](https://i.imgur.com/rqz7u3H.png)
+![screenshot](https://i.imgur.com/HgpZRAM.png)
 ![screenshot](https://i.imgur.com/yFJkawp.png)
 ![screenshot](https://i.imgur.com/guH4Ara.png)
 ![screenshot](https://i.imgur.com/7wCeSic.png)
