@@ -129,7 +129,7 @@ struct ToonSurfaceData
     half3   emission;
     half    occlusion;
 };
-struct LightingData
+struct ToonLightingData
 {
     half3   normalWS;
     float3  positionWS;
@@ -271,9 +271,9 @@ ToonSurfaceData InitializeSurfaceData(Varyings input)
 
     return output;
 }
-LightingData InitializeLightingData(Varyings input)
+ToonLightingData InitializeLightingData(Varyings input)
 {
-    LightingData lightingData;
+    ToonLightingData lightingData;
     lightingData.positionWS = input.positionWSAndFogFactor.xyz;
     lightingData.viewDirectionWS = SafeNormalize(GetCameraPositionWS() - lightingData.positionWS);  
     lightingData.normalWS = normalize(input.normalWS); //interpolated normal is NOT unit vector, we need to normalize it
@@ -291,7 +291,7 @@ LightingData InitializeLightingData(Varyings input)
 
 // this function contains no lighting logic, it just pass lighting results data around
 // the job done in this function is "do shadow mapping depth test positionWS offset"
-half3 ShadeAllLights(ToonSurfaceData surfaceData, LightingData lightingData)
+half3 ShadeAllLights(ToonSurfaceData surfaceData, ToonLightingData lightingData)
 {
     // Indirect lighting
     half3 indirectResult = ShadeGI(surfaceData, lightingData);
@@ -387,8 +387,8 @@ half4 ShadeFinalColor(Varyings input) : SV_TARGET
     // fillin ToonSurfaceData struct:
     ToonSurfaceData surfaceData = InitializeSurfaceData(input);
 
-    // fillin LightingData struct:
-    LightingData lightingData = InitializeLightingData(input);
+    // fillin ToonLightingData struct:
+    ToonLightingData lightingData = InitializeLightingData(input);
  
     // apply all lighting calculation
     half3 color = ShadeAllLights(surfaceData, lightingData);
