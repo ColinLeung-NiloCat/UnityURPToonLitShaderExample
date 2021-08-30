@@ -27,7 +27,7 @@ NiloToonURP is tested and working correctly on
 - https://youtu.be/nZhxKYcgFaY
 - https://youtu.be/A9MJ73C0f-M
 
-# User-generated content using NiloToonURP
+# User-generated content using NiloToonURP (public media)
 (we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
 
 ### Nijisanji & bilibili - VirtuaReal:
