@@ -32,6 +32,7 @@ NiloToonURP is tested and working correctly on
 
 Nijisanji & bilibili - VirtuaReal:
 ![screenshot](https://i.imgur.com/Kc8eY4U.png)
+![screenshot](https://i.imgur.com/AbyN2xA.png)
 - https://www.bilibili.com/video/BV1jy4y1G7Rb?share_source=copy_web
 - https://www.bilibili.com/video/BV1jy4y1G7Rb?p=2&share_source=copy_web
 - https://www.bilibili.com/video/BV1ef4y1H7h9?share_source=copy_web
@@ -47,6 +48,9 @@ Nijisanji & bilibili - VirtuaReal:
 
 Kanauru:
 ![screenshot](https://i.imgur.com/7wCeSic.png)
+![screenshot](https://i.imgur.com/Uqz5wcD.png)
+![screenshot](https://i.imgur.com/xcT9kqY.png)
+![screenshot](https://i.imgur.com/xlBaBjt.png)
 - https://youtu.be/2CTSe6Q5-xI (shader of Kureiji Ollie model + environment + postprocess)
 
 # How to get NiloToonURP full source code
@@ -71,10 +75,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/T0QBUFP.png)
 ![screenshot](https://i.imgur.com/LDa6JC9.png)
 ![screenshot](https://i.imgur.com/3EoqpF0.png)
-![screenshot](https://i.imgur.com/7wCeSic.png)
-![screenshot](https://i.imgur.com/Uqz5wcD.png)
-![screenshot](https://i.imgur.com/xcT9kqY.png)
-![screenshot](https://i.imgur.com/xlBaBjt.png)
 ![screenshot](https://i.imgur.com/mwZb9xZ.png)
 ![screenshot](https://i.imgur.com/O7eMz5Q.png)
 ![screenshot](https://i.imgur.com/bUn3f0q.png)
