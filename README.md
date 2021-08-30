@@ -2,31 +2,54 @@
 
 This repository is NOT the full version shader.
 Currently, this repository is just a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
+If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future. 
 -----------------------------------------
 We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
 
-NiloToonURP is tested and working correctly on Unity 2019.4(URP 7.4.1 or above) and Unity 2020.3LTS(URP 10.4.0 or above).  
+NiloToonURP is tested and working correctly on 
+- Unity 2019.4LTS(URP 7.4.1 or above)
+- Unity 2020.3LTS(URP 10.4.0 or above)
+- Unity 2021.1.18f1(URP 11.0.0)
 
-Download NiloToonURP PC .exe demo (2020.3LTS build):
+# Download NiloToonURP PC .exe demo (2020.3LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
-Download NiloToonURP Android .apk demo (2020.3LTS build):
+# Download NiloToonURP Android .apk demo (2020.3LTS build):
 - https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
 
-NiloToonURP's runtime video: 
+# NiloToonURP's demo runtime video: 
 - https://youtu.be/q7VloWbkSaA
 - https://youtu.be/hBNs-7tyrU4
 - https://youtu.be/NI-n-cmTJHM
 - https://youtu.be/k1RMw_OogyM
 - https://youtu.be/dq4g0K1jbGM
 - https://youtu.be/nZhxKYcgFaY
-- https://youtu.be/yNc0C_q_z30
+- https://youtu.be/A9MJ73C0f-M
+
+# User-generated content using NiloToonURP
+(we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
+
+Nijisanji & bilibili - VirtuaReal:
+![screenshot](https://i.imgur.com/Kc8eY4U.png)
+- https://www.bilibili.com/video/BV1jy4y1G7Rb?share_source=copy_web
+- https://www.bilibili.com/video/BV1jy4y1G7Rb?p=2&share_source=copy_web
+- https://www.bilibili.com/video/BV1ef4y1H7h9?share_source=copy_web
+- https://www.bilibili.com/video/BV1Jh411W7RQ?share_source=copy_web
+- https://www.bilibili.com/video/BV1q3411B74t?share_source=copy_web
+- https://www.bilibili.com/video/BV19b4y1m79f?share_source=copy_web
+- https://www.bilibili.com/video/BV19b4y1m79f?p=2&share_source=copy_web
+- https://www.bilibili.com/video/BV1By4y1G7bP?share_source=copy_web
+- https://www.bilibili.com/video/BV1X64y1a7go?share_source=copy_web
+- https://www.bilibili.com/video/BV1pf4y1H7aH?share_source=copy_web
 - https://www.bilibili.com/video/BV1pp4y1s7Up
 - https://www.bilibili.com/video/BV19K4y1u7tC
-- https://youtu.be/A9MJ73C0f-M
-- https://youtu.be/2CTSe6Q5-xI (shader of Kureiji Ollie model+environment+postprocess)
 
+Kanauru:
+![screenshot](https://i.imgur.com/7wCeSic.png)
+- https://youtu.be/2CTSe6Q5-xI (shader of Kureiji Ollie model + environment + postprocess)
+
+# How to get NiloToonURP full source code
 If you or your company/organization/team needs: 
 - latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
 - latest user document
@@ -41,7 +64,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - a google account email for gaining permission to download all NiloToonURP files in google drive
 - any public website that shows your/your company/organization/team's work or public media  
 
-NiloToonURP's preview image:
+# Other NiloToonURP's images (gallery)
 ![screenshot](https://i.imgur.com/rqz7u3H.png)
 ![screenshot](https://i.imgur.com/HgpZRAM.png)
 ![screenshot](https://i.imgur.com/YuYkbG7.png)
@@ -87,11 +110,7 @@ NiloToonURP's preview image:
 ![screenshot](https://i.imgur.com/N02piW3.jpg)
 ![screenshot](https://i.imgur.com/AYxixBx.jpg)
 ![screenshot](https://i.imgur.com/iWPa7aN.jpg)
-If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future.  
 
-----------------------------------------------------------------
-
-Screenshots of NiloToonURP:
 -------------------
 shader ON
 ![screenshot](https://i.imgur.com/xJSzAMZ.png)
