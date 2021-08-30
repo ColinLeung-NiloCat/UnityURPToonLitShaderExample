@@ -27,7 +27,7 @@ NiloToonURP is tested and working correctly on
 - https://youtu.be/nZhxKYcgFaY
 - https://youtu.be/A9MJ73C0f-M
 
-# User-generated content using NiloToonURP (public media)
+# NiloToonURP user's creations (public media, not NDA contents)
 (we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/members?filter=VirtuaReal):
@@ -57,7 +57,7 @@ NiloToonURP is tested and working correctly on
 ![screenshot](https://i.imgur.com/xlBaBjt.png)
 - https://youtu.be/2CTSe6Q5-xI (shader of Kureiji Ollie model + environment + postprocess)
 
-# How to get NiloToonURP full source code
+# How to get NiloToonURP full source code?
 If you or your company/organization/team needs: 
 - latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
 - latest user document
