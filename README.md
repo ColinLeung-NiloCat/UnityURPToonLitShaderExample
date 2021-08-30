@@ -32,8 +32,10 @@ NiloToonURP is tested and working correctly on
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/members?filter=VirtuaReal):
 ![screenshot](https://i.imgur.com/Kc8eY4U.png)
+![screenshot](https://i.imgur.com/ZUkyhwn.png)
 ![screenshot](https://i.imgur.com/AbyN2xA.png)
 ![screenshot](https://i.imgur.com/ofaLUcV.png)
+![screenshot](https://i.imgur.com/8h1zOj6.png)
 - https://www.bilibili.com/video/BV1jy4y1G7Rb?share_source=copy_web
 - https://www.bilibili.com/video/BV1jy4y1G7Rb?p=2&share_source=copy_web
 - https://www.bilibili.com/video/BV1ef4y1H7h9?share_source=copy_web
