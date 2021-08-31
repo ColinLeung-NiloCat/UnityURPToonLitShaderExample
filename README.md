@@ -37,16 +37,12 @@ NiloToonURP is tested and working correctly on
 ![screenshot](https://i.imgur.com/AbyN2xA.png)
 ![screenshot](https://i.imgur.com/ofaLUcV.png)
 ![screenshot](https://i.imgur.com/8h1zOj6.png)
-- https://www.bilibili.com/video/BV1jy4y1G7Rb?share_source=copy_web
-- https://www.bilibili.com/video/BV1jy4y1G7Rb?p=2&share_source=copy_web
 - https://www.bilibili.com/video/BV1ef4y1H7h9?share_source=copy_web
 - https://www.bilibili.com/video/BV1Jh411W7RQ?share_source=copy_web
 - https://www.bilibili.com/video/BV1q3411B74t?share_source=copy_web
-- https://www.bilibili.com/video/BV19b4y1m79f?share_source=copy_web
-- https://www.bilibili.com/video/BV19b4y1m79f?p=2&share_source=copy_web
-- https://www.bilibili.com/video/BV1By4y1G7bP?share_source=copy_web
+- https://www.bilibili.com/video/BV1764y1Y7MD?share_source=copy_web
+- https://www.bilibili.com/video/BV1764y1Y7MD?p=2&share_source=copy_web
 - https://www.bilibili.com/video/BV1X64y1a7go?share_source=copy_web
-- https://www.bilibili.com/video/BV1pf4y1H7aH?share_source=copy_web
 - https://www.bilibili.com/video/BV19K4y1u7tC
 
 ![screenshot](https://i.imgur.com/olwcbyZ.png)
