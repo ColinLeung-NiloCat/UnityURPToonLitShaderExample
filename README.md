@@ -43,6 +43,7 @@ NiloToonURP is tested and working correctly on
 ![screenshot](https://i.imgur.com/Kc8eY4U.png)
 ![screenshot](https://i.imgur.com/X4pwihA.png)
 ![screenshot](https://i.imgur.com/9MnBkd8.png)
+![screenshot](https://i.imgur.com/dsEyIiS.png)
 ![screenshot](https://i.imgur.com/miBD4bJ.png)
 ![screenshot](https://i.imgur.com/8h1zOj6.png)
 ![screenshot](https://i.imgur.com/ijnpbB8.png)
