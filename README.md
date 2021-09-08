@@ -50,6 +50,9 @@ NiloToonURP is tested and working correctly on
 ![screenshot](https://i.imgur.com/miBD4bJ.png)
 ![screenshot](https://i.imgur.com/8h1zOj6.png)
 ![screenshot](https://i.imgur.com/ijnpbB8.png)
+![screenshot](https://i.imgur.com/1mWyO6f.png)
+![screenshot](https://i.imgur.com/4VMsweO.png)
+![screenshot](https://i.imgur.com/ARYtp78.png)
 - https://www.bilibili.com/video/BV1Sg411V7HU?share_source=copy_web
 - https://www.bilibili.com/video/BV1X64y1a7go?share_source=copy_web
 
