@@ -89,7 +89,8 @@ NiloToonURP is tested and working correctly on
 ![screenshot](https://i.imgur.com/Uqz5wcD.png)
 ![screenshot](https://i.imgur.com/xcT9kqY.png)
 ![screenshot](https://i.imgur.com/xlBaBjt.png)
-- https://youtu.be/2CTSe6Q5-xI (shader of Kureiji Ollie model + environment + postprocess)
+- https://youtu.be/2CTSe6Q5-xI (shader of "Kureiji Ollie model + environment + postprocess")
+- https://youtu.be/m_LT957vLeY (shader of "characters + environment + postprocess")
 
 # How to get NiloToonURP full source code?
 If you or your company/organization/team needs: 
