@@ -111,7 +111,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/yes0O4Y.png)
 ![screenshot](https://i.imgur.com/eo19SgQ.png)
 ![screenshot](https://i.imgur.com/fzs2du9.png)
-![screenshot](https://i.imgur.com/rqz7u3H.png)
 ![screenshot](https://i.imgur.com/HgpZRAM.png)
 ![screenshot](https://i.imgur.com/YuYkbG7.png)
 ![screenshot](https://i.imgur.com/T0QBUFP.png)
