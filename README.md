@@ -12,7 +12,7 @@ shader ON
 ![screenshot](https://i.imgur.com/KGvkY3m.png)
 shader OFF
 ![screenshot](https://i.imgur.com/0JiRa7k.png)
-![screenshot](https://i.imgur.com/6vm3FNh.png)
+![screenshot](https://i.imgur.com/vdKEieO.png)
 
 We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
