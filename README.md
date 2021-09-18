@@ -42,6 +42,7 @@ NiloToonURP is tested and working correctly on
 - https://youtu.be/dq4g0K1jbGM
 - https://youtu.be/nZhxKYcgFaY
 - https://youtu.be/A9MJ73C0f-M
+- https://youtu.be/Pkj6tpPThvg
 
 # NiloToonURP user's creations (public media, not NDA contents)
 (we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
