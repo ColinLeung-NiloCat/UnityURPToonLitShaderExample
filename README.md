@@ -96,6 +96,7 @@ NiloToonURP is tested and working correctly on
 ![screenshot](https://i.imgur.com/VLSuCvJ.png)
 ![screenshot](https://i.imgur.com/MVnFoRy.png)
 ![screenshot](https://i.imgur.com/F5ZVuMP.png)
+![screenshot](https://i.imgur.com/wX4iNSL.png)
 ![screenshot](https://i.imgur.com/QTfrQCJ.png)
 - https://www.bilibili.com/video/BV1Z64y1b7BW?share_source=copy_web
 
