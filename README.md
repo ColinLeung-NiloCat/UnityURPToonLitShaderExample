@@ -95,7 +95,7 @@ NiloToonURP is tested and working correctly on
 ### 【崩坏学园2】「启晨之星」菲米莉丝印象曲 (https://space.bilibili.com/133934):
 ![screenshot](https://i.imgur.com/VLSuCvJ.png)
 ![screenshot](https://i.imgur.com/MVnFoRy.png)
-![screenshot](https://i.imgur.com/haEZwXi.png)
+![screenshot](https://i.imgur.com/F5ZVuMP.png)
 ![screenshot](https://i.imgur.com/QTfrQCJ.png)
 - https://www.bilibili.com/video/BV1Z64y1b7BW?share_source=copy_web
 
