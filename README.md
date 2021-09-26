@@ -44,6 +44,21 @@ NiloToonURP is tested and working correctly on
 - https://youtu.be/A9MJ73C0f-M
 - https://youtu.be/Pkj6tpPThvg
 
+# How to get NiloToonURP full source code?
+If you or your company/organization/team needs: 
+- latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
+- latest user document
+- perpetual royalty-free commercial license
+- every future update
+- (optional) we set up your character models's rendering in the best way possible for you, using NiloToonURP
+- (optional) tech support
+- (optional) your project-specific customization and support 
+
+of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
+- name (your personal name or your company/organization/team's name)
+- a google account email for gaining permission to download all NiloToonURP files in google drive
+- any public website that shows your/your company/organization/team's work or public media  
+
 # NiloToonURP user's creations (public media, not NDA contents)
 (we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
 
@@ -113,21 +128,6 @@ NiloToonURP is tested and working correctly on
 ![screenshot](https://i.imgur.com/7HeWKF9.png)
 ![screenshot](https://i.imgur.com/Lf7X8r5.png)
 - https://youtu.be/m_LT957vLeY (shader of "characters + environment + postprocess")
-
-# How to get NiloToonURP full source code?
-If you or your company/organization/team needs: 
-- latest full source code (with all detail comments and notes, NOT Obfuscated code, NOT .dll)
-- latest user document
-- perpetual royalty-free commercial license
-- every future update
-- (optional) we set up your character models's rendering in the best way possible for you, using NiloToonURP
-- (optional) tech support
-- (optional) your project-specific customization and support 
-
-of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
-- name (your personal name or your company/organization/team's name)
-- a google account email for gaining permission to download all NiloToonURP files in google drive
-- any public website that shows your/your company/organization/team's work or public media  
 
 # Other NiloToonURP's images (gallery)
 ![screenshot](https://i.imgur.com/HgpZRAM.png)
