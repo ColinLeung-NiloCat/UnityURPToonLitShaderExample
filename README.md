@@ -63,48 +63,48 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 (we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/members?filter=VirtuaReal):
-![screenshot](https://i.imgur.com/Kc8eY4U.png)
-![screenshot](https://i.imgur.com/X4pwihA.png)
-![screenshot](https://i.imgur.com/9MnBkd8.png)
-![screenshot](https://i.imgur.com/dsEyIiS.png)
+![screenshot](https://i.imgur.com/GPi2ahM.jpg)
+![screenshot](https://i.imgur.com/k0etAYv.jpg)
+![screenshot](https://i.imgur.com/oGXzquC.jpg)
+![screenshot](https://i.imgur.com/vwwjgVI.jpg)
 - https://www.bilibili.com/video/BV1G3411q7un?share_source=copy_web
 - https://www.bilibili.com/video/BV1QL411b78T?share_source=copy_web
 
-![screenshot](https://i.imgur.com/miBD4bJ.png)
-![screenshot](https://i.imgur.com/1mWyO6f.png)
-![screenshot](https://i.imgur.com/ijnpbB8.png)
-![screenshot](https://i.imgur.com/8h1zOj6.png)
-![screenshot](https://i.imgur.com/4VMsweO.png)
-![screenshot](https://i.imgur.com/ARYtp78.png)
+![screenshot](https://i.imgur.com/e65IfZH.jpg)
+![screenshot](https://i.imgur.com/xIBhYck.jpg)
+![screenshot](https://i.imgur.com/jbxWnli.jpg)
+![screenshot](https://i.imgur.com/DypAxQR.jpg)
+![screenshot](https://i.imgur.com/cERhwTq.jpg)
+![screenshot](https://i.imgur.com/tB0hJuv.jpg)
 - https://www.bilibili.com/video/BV1Sg411V7HU?share_source=copy_web
 - https://www.bilibili.com/video/BV1X64y1a7go?share_source=copy_web
 
-![screenshot](https://i.imgur.com/91vxFpt.png)
-![screenshot](https://i.imgur.com/WRXNoA5.png)
+![screenshot](https://i.imgur.com/vJGTDR8.jpg)
+![screenshot](https://i.imgur.com/lyrUH3X.jpg)
 - https://www.bilibili.com/video/BV18f4y1P7Vr?share_source=copy_web
 
-![screenshot](https://i.imgur.com/AbyN2xA.png)
-![screenshot](https://i.imgur.com/Fnj9lz6.png)
-![screenshot](https://i.imgur.com/azVktoM.png)
+![screenshot](https://i.imgur.com/kPShSKQ.jpg)
+![screenshot](https://i.imgur.com/Ma8oU7M.jpg)
+![screenshot](https://i.imgur.com/Pvtxr0h.jpg)
 - https://www.bilibili.com/video/BV12h411W7Sm?share_source=copy_web
 - https://www.bilibili.com/video/BV1764y1Y7MD?p=2&share_source=copy_web
 
-![screenshot](https://i.imgur.com/ZSBMNa5.png)
-![screenshot](https://i.imgur.com/sNegkYz.png)
-![screenshot](https://i.imgur.com/xw1wPJq.png)
+![screenshot](https://i.imgur.com/stWRga3.jpg)
+![screenshot](https://i.imgur.com/qEiRTR9.jpg)
+![screenshot](https://i.imgur.com/mEB7MuT.jpg)
 - https://www.bilibili.com/video/BV12h411W7ff?share_source=copy_web
 
-![screenshot](https://i.imgur.com/jtkiZeM.png)
+![screenshot](https://i.imgur.com/GSGmNEs.jpg)
 - https://www.bilibili.com/video/BV1nQ4y1a7ht?share_source=copy_web
 
-![screenshot](https://i.imgur.com/XL0Mjec.png)
+![screenshot](https://i.imgur.com/PGSN8ed.jpg)
 - https://www.bilibili.com/video/BV1Cg411V7qm?share_source=copy_web
 
 - https://www.bilibili.com/video/BV1ef4y1H7h9?share_source=copy_web
 - https://www.bilibili.com/video/BV1Jh411W7RQ?share_source=copy_web
 - https://www.bilibili.com/video/BV1q3411B74t?share_source=copy_web
 
-![screenshot](https://i.imgur.com/olwcbyZ.png)
+![screenshot](https://i.imgur.com/l2HZGeE.jpg)
 - https://www.bilibili.com/video/BV1pp4y1s7Up
 
 ### 【崩坏学园2】「启晨之星」菲米莉丝印象曲 (https://space.bilibili.com/133934):
