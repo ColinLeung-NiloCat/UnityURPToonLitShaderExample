@@ -5,20 +5,20 @@ Currently, this repository is just a very simple and short shader example, only 
 If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future. 
 -----------------------------------------
 shader ON
-![screenshot](https://i.imgur.com/xJSzAMZ.png)
+![screenshot](https://i.imgur.com/fSpM9zM.jpg)
 shader OFF
-![screenshot](https://i.imgur.com/xqMkSKe.png)
+![screenshot](https://i.imgur.com/91vkMJk.jpg)
 shader ON
-![screenshot](https://i.imgur.com/KGvkY3m.png)
+![screenshot](https://i.imgur.com/N7J2A28.jpg)
 shader OFF
-![screenshot](https://i.imgur.com/0JiRa7k.png)
+![screenshot](https://i.imgur.com/9tiHehF.jpg)
 shader ON
-![screenshot](https://i.imgur.com/A2NA1Po.png)
+![screenshot](https://i.imgur.com/vXcIGQ0.jpg)
 shader OFF
-![screenshot](https://i.imgur.com/t9OqASe.png)
-![screenshot](https://i.imgur.com/Rtft0od.png)
-![screenshot](https://i.imgur.com/HuOMLYn.png)
-![screenshot](https://i.imgur.com/7TUNTq8.png)
+![screenshot](https://i.imgur.com/tx643sR.jpg)
+![screenshot](https://i.imgur.com/UcJZzbo.jpg)
+![screenshot](https://i.imgur.com/zFk6dHl.jpg)
+![screenshot](https://i.imgur.com/kPiktkr.jpg)
 
 We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
