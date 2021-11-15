@@ -501,3 +501,4 @@ model's creator in shader demo image/video:
 - Kanauru's credit list - https://youtu.be/2CTSe6Q5-xI
 - YOYOGIMORI (【VRC / VRM 対応3Dモデル】imiut ver3.03) - https://yoyogi-mori.booth.pm/items/2040691
 - YOYOGIMORI (【VRC / VRM 対応3Dモデル】白鳥 -Shiratori- ver3.03) - https://yoyogi-mori.booth.pm/items/2482022
+- アイドリープライド，IDOLY PRIDE
