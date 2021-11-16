@@ -118,17 +118,17 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
-![screenshot](https://i.imgur.com/7wCeSic.png)
-![screenshot](https://i.imgur.com/Uqz5wcD.png)
-![screenshot](https://i.imgur.com/xcT9kqY.png)
-![screenshot](https://i.imgur.com/xlBaBjt.png)
+![screenshot](https://i.imgur.com/vH3X61I.jpg)
+![screenshot](https://i.imgur.com/pXcQT0g.jpg)
+![screenshot](https://i.imgur.com/b6Elupz.jpg)
+![screenshot](https://i.imgur.com/6yR1Y0l.jpg)
 - https://youtu.be/2CTSe6Q5-xI (shader of "Kureiji Ollie model + environment + postprocess")
 
-![screenshot](https://i.imgur.com/UaDMFqc.png)
-![screenshot](https://i.imgur.com/TaYCkYZ.png)
-![screenshot](https://i.imgur.com/Vf4udhS.png)
-![screenshot](https://i.imgur.com/7HeWKF9.png)
-![screenshot](https://i.imgur.com/Lf7X8r5.png)
+![screenshot](https://i.imgur.com/BIjpGAp.jpg)
+![screenshot](https://i.imgur.com/9KcIdQD.jpg)
+![screenshot](https://i.imgur.com/vSvp02D.jpg)
+![screenshot](https://i.imgur.com/lmQWiMp.jpg)
+![screenshot](https://i.imgur.com/d0JkDTk.jpg)
 - https://youtu.be/m_LT957vLeY (shader of "characters + environment + postprocess")
 
 # Other NiloToonURP's images (gallery)
