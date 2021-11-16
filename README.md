@@ -43,6 +43,8 @@ NiloToonURP is tested and working correctly on
 - https://youtu.be/nZhxKYcgFaY
 - https://youtu.be/A9MJ73C0f-M
 - https://youtu.be/Pkj6tpPThvg
+- https://youtu.be/SCOA3rmGz_A
+- https://youtu.be/cAeEKdYN7-Q
 
 # How to get NiloToonURP full source code?
 If you or your company/organization/team needs: 
