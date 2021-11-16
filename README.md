@@ -108,13 +108,12 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1pp4y1s7Up
 
 ### 【崩坏学园2】「启晨之星」菲米莉丝印象曲 (https://space.bilibili.com/133934):
-![screenshot](https://i.imgur.com/VLSuCvJ.png)
-![screenshot](https://i.imgur.com/MVnFoRy.png)
-![screenshot](https://i.imgur.com/wX4iNSL.png)
-![screenshot](https://i.imgur.com/m8zQ2HC.png)
-![screenshot](https://i.imgur.com/QTfrQCJ.png)
-![screenshot](https://i.imgur.com/X944cFx.png)
-![screenshot](https://i.imgur.com/SMIN2Pq.png)
+![screenshot](https://i.imgur.com/skF1BUf.jpg)
+![screenshot](https://i.imgur.com/KDFk3ex.jpg)
+![screenshot](https://i.imgur.com/f2AVHl6.jpg)
+![screenshot](https://i.imgur.com/iY2ZX80.jpg)
+![screenshot](https://i.imgur.com/ZdhRFu8.jpg)
+![screenshot](https://i.imgur.com/KjR34KQ.jpg)
 - https://www.bilibili.com/video/BV1Z64y1b7BW?share_source=copy_web
 - https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
 
