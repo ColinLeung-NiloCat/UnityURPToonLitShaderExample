@@ -109,6 +109,9 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/l2HZGeE.jpg)
 - https://www.bilibili.com/video/BV1pp4y1s7Up
 
+### (4K画质)hanser个人演唱会《海上油菜花》
+- https://www.bilibili.com/video/BV1Bq4y1r7bn
+
 ### 【崩坏学园2】「启晨之星」菲米莉丝印象曲 (https://space.bilibili.com/133934):
 ![screenshot](https://i.imgur.com/u8igVrL.jpg)
 ![screenshot](https://i.imgur.com/cM07F1y.jpg)
