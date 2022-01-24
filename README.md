@@ -106,11 +106,16 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1Jh411W7RQ?share_source=copy_web
 - https://www.bilibili.com/video/BV1q3411B74t?share_source=copy_web
 
+### VirtuaReal Star成员 - hanser (https://space.bilibili.com/11073)
 ![screenshot](https://i.imgur.com/l2HZGeE.jpg)
 - https://www.bilibili.com/video/BV1pp4y1s7Up
 
+![screenshot](https://i.imgur.com/vPlJSKP.jpg)
+![screenshot](https://i.imgur.com/aCJQOt7.jpg)
+- https://www.bilibili.com/video/BV1pF411v7gu
+
 ### (4K画质)hanser个人演唱会《海上油菜花》
-- https://www.bilibili.com/video/BV1Bq4y1r7bn
+- https://www.bilibili.com/video/BV1Bq4y1r7bn (part of the rendering is NiloToonURP)
 
 ### 【崩坏学园2】「启晨之星」菲米莉丝印象曲 (https://space.bilibili.com/133934):
 ![screenshot](https://i.imgur.com/u8igVrL.jpg)
