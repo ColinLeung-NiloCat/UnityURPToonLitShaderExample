@@ -106,6 +106,10 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1Jh411W7RQ?share_source=copy_web
 - https://www.bilibili.com/video/BV1q3411B74t?share_source=copy_web
 
+![screenshot](https://i.imgur.com/mBD4ued.jpg)
+- https://www.bilibili.com/video/BV1ha411q7dY?share_source=copy_web
+- https://www.bilibili.com/video/BV1SZ4y1677A?share_source=copy_web
+
 ### VirtuaReal Star成员 - hanser (https://space.bilibili.com/11073)
 ![screenshot](https://i.imgur.com/nfVckVo.jpg)
 ![screenshot](https://i.imgur.com/Ij7zvhz.jpg)
@@ -134,6 +138,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1Z64y1b7BW?share_source=copy_web
 - https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
 
+### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=myth):
+![screenshot](https://i.imgur.com/ahpwnk3.jpg)
+- https://youtu.be/vjBZzYN3aAs
+
+![screenshot](https://i.imgur.com/moVfqce.jpg)
+- https://youtu.be/ZyuAdljyvoc
+
 ### Kanauru (https://www.youtube.com/user/kanauru):
 ![screenshot](https://i.imgur.com/vH3X61I.jpg)
 ![screenshot](https://i.imgur.com/pXcQT0g.jpg)
@@ -148,10 +159,12 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/d0JkDTk.jpg)
 - https://youtu.be/m_LT957vLeY (shader of "characters + environment + postprocess")
 
+
+
 # Other NiloToonURP's images (gallery)
+![screenshot](https://i.imgur.com/4J2AExL.jpg)
 ![screenshot](https://i.imgur.com/AieVmMb.jpg)
 ![screenshot](https://i.imgur.com/jHrb3Gb.jpg)
-
 ![screenshot](https://i.imgur.com/BcyWUKz.jpg)
 ![screenshot](https://i.imgur.com/Pj7sETw.jpg)
 ![screenshot](https://i.imgur.com/G9Eo2eb.jpg)
