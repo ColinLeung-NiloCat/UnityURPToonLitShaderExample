@@ -140,10 +140,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=myth):
 ![screenshot](https://i.imgur.com/ahpwnk3.jpg)
+![screenshot](https://i.imgur.com/vyutd2p.jpg)
 - https://youtu.be/vjBZzYN3aAs
 
 ![screenshot](https://i.imgur.com/moVfqce.jpg)
 ![screenshot](https://i.imgur.com/UU1Isvv.jpg)
+![screenshot](https://i.imgur.com/gp1X9Gj.jpg)
+![screenshot](https://i.imgur.com/9SG2p9U.jpg)
 - https://youtu.be/ZyuAdljyvoc
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
