@@ -32,7 +32,8 @@ NiloToonURP is tested and working correctly on
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
 # Download NiloToonURP Android .apk demo (2020.3LTS build):
-- https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
+- (Vulkan+GLES 2022-3)https://drive.google.com/file/d/1CBSYiniHTAaNtlkd5X7TUxjAsQ7eBNxK/view?usp=sharing
+- (GLES 2021-10)https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
 
 # NiloToonURP's demo runtime video: 
 - https://youtu.be/q7VloWbkSaA
