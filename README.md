@@ -46,6 +46,8 @@ NiloToonURP is tested and working correctly on
 - https://youtu.be/Pkj6tpPThvg
 - https://youtu.be/SCOA3rmGz_A
 - https://youtu.be/cAeEKdYN7-Q
+- https://youtu.be/RgzoFCn_ceQ
+- https://youtu.be/W-BSVmNwPGk
 
 # How to get NiloToonURP full source code?
 If you or your company/organization/team needs: 
@@ -111,6 +113,16 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1ha411q7dY?share_source=copy_web
 - https://www.bilibili.com/video/BV1SZ4y1677A?share_source=copy_web
 
+![screenshot](https://i.imgur.com/RA67Yjw.jpg)
+![screenshot](https://i.imgur.com/xEZpxnl.jpg)
+- https://www.bilibili.com/video/BV1jP4y1K76s?share_source=copy_web
+
+![screenshot](https://i.imgur.com/v6Cxuru.jpg)
+![screenshot](https://i.imgur.com/yD5SRt1.jpg)
+![screenshot](https://i.imgur.com/qEVtgI8.jpg)
+![screenshot](https://i.imgur.com/w40M6v9.jpg)
+- https://www.bilibili.com/video/BV1eY411g78R?share_source=copy_web
+
 ### VirtuaReal Star成员 - hanser (https://space.bilibili.com/11073)
 ![screenshot](https://i.imgur.com/nfVckVo.jpg)
 ![screenshot](https://i.imgur.com/Ij7zvhz.jpg)
@@ -139,7 +151,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1Z64y1b7BW?share_source=copy_web
 - https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
 
-### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=myth):
+### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=english):
 ![screenshot](https://i.imgur.com/ahpwnk3.jpg)
 ![screenshot](https://i.imgur.com/vyutd2p.jpg)
 - https://youtu.be/vjBZzYN3aAs
@@ -167,6 +179,9 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 
 # Other NiloToonURP's images (gallery)
+![screenshot](https://i.imgur.com/1F9GxjT.jpg)
+![screenshot](https://i.imgur.com/ndXKvjt.jpg)
+![screenshot](https://i.imgur.com/wXNlCNq.jpg)
 ![screenshot](https://i.imgur.com/Pbs5LAf.jpg)
 ![screenshot](https://i.imgur.com/4J2AExL.jpg)
 ![screenshot](https://i.imgur.com/AieVmMb.jpg)
