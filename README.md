@@ -115,13 +115,15 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ![screenshot](https://i.imgur.com/RA67Yjw.jpg)
 ![screenshot](https://i.imgur.com/xEZpxnl.jpg)
+![screenshot](https://i.imgur.com/8pU5fhg.jpg)
+![screenshot](https://i.imgur.com/mVe4ezo.jpg)
 - https://www.bilibili.com/video/BV1jP4y1K76s?share_source=copy_web
 
 ![screenshot](https://i.imgur.com/v6Cxuru.jpg)
 ![screenshot](https://i.imgur.com/yD5SRt1.jpg)
 ![screenshot](https://i.imgur.com/qEVtgI8.jpg)
 ![screenshot](https://i.imgur.com/w40M6v9.jpg)
-- https://www.bilibili.com/video/BV1eY411g78R?share_source=copy_web
+- https://www.bilibili.com/video/BV1eY411g78R?share_source=copy_web (you need to enter the link to the browser again in order to play it)
 
 ![screenshot](https://i.imgur.com/WJXyInf.jpg)
 ![screenshot](https://i.imgur.com/ASsqU7A.jpg)
