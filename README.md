@@ -145,8 +145,11 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/xJ78uRL.jpg)
 - https://www.bilibili.com/video/BV1Bq4y1r7bn (part of the rendering is NiloToonURP)
 
-![screenshot](https://i.imgur.com/l2HZGeE.jpg)
-- https://www.bilibili.com/video/BV1pp4y1s7Up
+### VirtuaReal Star成员 - 泠鸢yousa (https://space.bilibili.com/282994)
+![screenshot](https://i.imgur.com/BP00DAs.jpg)
+![screenshot](https://i.imgur.com/sNwSKtf.jpg)
+![screenshot](https://i.imgur.com/chjXtFC.jpg)
+- https://www.bilibili.com/video/BV1e44y137BL (you need to enter the link to the browser again in order to play it)
 
 ### 【崩坏学园2】「启晨之星」菲米莉丝印象曲 (https://space.bilibili.com/133934):
 ![screenshot](https://i.imgur.com/u8igVrL.jpg)
