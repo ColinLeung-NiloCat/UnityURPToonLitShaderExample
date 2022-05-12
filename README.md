@@ -1,9 +1,11 @@
-# Unity URP Simplified Toon Lit Shader Example (for you to learn writing custom lit shader in URP)
+# About this repository
 
-This repository is NOT the full version shader.
-Currently, this repository is just a very simple and short shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
+This repository is NOT the full version NiloToonURP.
+This repository only contains a very simple and short URP toon shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
 If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future. 
 -----------------------------------------
+# NiloToonURP(full version)'s rendering
+
 shader ON
 ![screenshot](https://i.imgur.com/fSpM9zM.jpg)
 shader OFF
@@ -16,17 +18,21 @@ shader ON
 ![screenshot](https://i.imgur.com/vXcIGQ0.jpg)
 shader OFF
 ![screenshot](https://i.imgur.com/tx643sR.jpg)
-![screenshot](https://i.imgur.com/UcJZzbo.jpg)
+shader ON
+![screenshot](https://i.imgur.com/195Mzq7.jpg)
+shader OFF
 ![screenshot](https://i.imgur.com/zFk6dHl.jpg)
 ![screenshot](https://i.imgur.com/kPiktkr.jpg)
+![screenshot](https://i.imgur.com/EIq6z9B.jpg)
+![screenshot](https://i.imgur.com/wUrVD7n.jpg)
 
-We are now developing a "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
+We are now developing an "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
 
-NiloToonURP is tested and working correctly on 
-- Unity 2019.4LTS(URP 7.4.1 or above)
-- Unity 2020.3LTS(URP 10.4.0 or above)
-- Unity 2021.1.18f1(URP 11.0.0)
+NiloToonURP is supporting: 
+- Unity 2020.3LTS(URP 10.x)
+- Unity 2021.3LTS(URP 12.x)
+- Unity 2022.1.0f1(URP 13.x)
 
 # Download NiloToonURP PC .exe demo (2020.3LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
@@ -36,18 +42,7 @@ NiloToonURP is tested and working correctly on
 - (GLES 2021-10)https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
 
 # NiloToonURP's demo runtime video: 
-- https://youtu.be/q7VloWbkSaA
-- https://youtu.be/hBNs-7tyrU4
-- https://youtu.be/NI-n-cmTJHM
-- https://youtu.be/k1RMw_OogyM
-- https://youtu.be/dq4g0K1jbGM
-- https://youtu.be/nZhxKYcgFaY
-- https://youtu.be/A9MJ73C0f-M
-- https://youtu.be/Pkj6tpPThvg
-- https://youtu.be/SCOA3rmGz_A
-- https://youtu.be/cAeEKdYN7-Q
-- https://youtu.be/RgzoFCn_ceQ
-- https://youtu.be/W-BSVmNwPGk
+- https://www.youtube.com/c/colinleungNiloCat/videos
 
 # How to get NiloToonURP full source code?
 If you or your company/organization/team needs: 
@@ -80,7 +75,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/jbxWnli.jpg)
 ![screenshot](https://i.imgur.com/DypAxQR.jpg)
 ![screenshot](https://i.imgur.com/cERhwTq.jpg)
-![screenshot](https://i.imgur.com/tB0hJuv.jpg)
 - https://www.bilibili.com/video/BV1Sg411V7HU?share_source=copy_web
 - https://www.bilibili.com/video/BV1X64y1a7go?share_source=copy_web
 
@@ -147,8 +141,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ### VirtuaReal Star成员 - 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/BP00DAs.jpg)
-![screenshot](https://i.imgur.com/sNwSKtf.jpg)
-![screenshot](https://i.imgur.com/chjXtFC.jpg)
 - https://www.bilibili.com/video/BV1e44y137BL (you need to enter the link to the browser again in order to play it)
 
 ![screenshot](https://i.imgur.com/ENqYsBN.jpg)
@@ -160,7 +152,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/iGxEgFP.jpg)
 ![screenshot](https://i.imgur.com/eZ5xByR.jpg)
 ![screenshot](https://i.imgur.com/y9BQsXg.jpg)
-![screenshot](https://i.imgur.com/YGCzN8i.jpg)
 
 ### 【崩坏学园2】「启晨之星」菲米莉丝印象曲 (https://space.bilibili.com/133934):
 ![screenshot](https://i.imgur.com/u8igVrL.jpg)
