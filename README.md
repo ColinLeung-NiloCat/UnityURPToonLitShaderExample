@@ -141,6 +141,12 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ### VirtuaReal Star成员 - 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/BP00DAs.jpg)
+![screenshot](https://i.imgur.com/PrysNHy.jpg)
+![screenshot](https://i.imgur.com/WGBwnJX.jpg)
+![screenshot](https://i.imgur.com/XPhB5pp.jpg)
+![screenshot](https://i.imgur.com/0G60MWp.jpg)
+- https://www.bilibili.com/video/BV1BF41177Wa?share_source=copy_web
+- https://www.bilibili.com/video/BV11Z4y1h7hA?share_source=copy_web
 - https://www.bilibili.com/video/BV1e44y137BL (you need to enter the link to the browser again in order to play it)
 
 ![screenshot](https://i.imgur.com/ENqYsBN.jpg)
