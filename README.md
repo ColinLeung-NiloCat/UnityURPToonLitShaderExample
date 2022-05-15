@@ -25,6 +25,8 @@ shader OFF
 ![screenshot](https://i.imgur.com/kPiktkr.jpg)
 ![screenshot](https://i.imgur.com/EIq6z9B.jpg)
 ![screenshot](https://i.imgur.com/wUrVD7n.jpg)
+![screenshot](https://i.imgur.com/qZWo4wN.jpg)
+![screenshot](https://i.imgur.com/RayvhGE.jpg)
 
 We are now developing an "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
@@ -197,6 +199,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 
 # Other NiloToonURP's images (gallery)
+![screenshot](https://i.imgur.com/fXgArpo.jpg)
 ![screenshot](https://i.imgur.com/1F9GxjT.jpg)
 ![screenshot](https://i.imgur.com/ndXKvjt.jpg)
 ![screenshot](https://i.imgur.com/wXNlCNq.jpg)
@@ -548,7 +551,7 @@ different Background image TEST
 ![screenshot](https://i.imgur.com/GYPoNWT.png)
 ![screenshot](https://i.imgur.com/fZw0Wzt.png)
 
-credits
+Credits
 ------------------------
 model's creator in shader demo image/video: 
 - https://i-fox.club/pcr/
@@ -572,5 +575,7 @@ model's creator in shader demo image/video:
 - Kanauru's credit list - https://youtu.be/2CTSe6Q5-xI
 - YOYOGIMORI (【VRC / VRM 対応3Dモデル】imiut ver3.03) - https://yoyogi-mori.booth.pm/items/2040691
 - YOYOGIMORI (【VRC / VRM 対応3Dモデル】白鳥 -Shiratori- ver3.03) - https://yoyogi-mori.booth.pm/items/2482022
-- Blue Archive Shun
-- アイドリープライド，IDOLY PRIDE
+- Blue Archive Shun - https://bluearchive.jp/
+- アイドリープライド，IDOLY PRIDE - https://idolypride.jp/
+- Little Witch Nobeta - https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/
+- オリジナル3Dモデル「桔梗」by ぽんでろ - https://booth.pm/en/items/3681787
