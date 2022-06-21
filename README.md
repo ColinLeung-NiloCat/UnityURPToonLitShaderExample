@@ -144,13 +144,16 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ### VirtuaReal Star成员 - 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/BP00DAs.jpg)
+![screenshot](https://i.imgur.com/ge6Jray.jpg)
 ![screenshot](https://i.imgur.com/PrysNHy.jpg)
 ![screenshot](https://i.imgur.com/WGBwnJX.jpg)
 ![screenshot](https://i.imgur.com/XPhB5pp.jpg)
 ![screenshot](https://i.imgur.com/0G60MWp.jpg)
 - https://www.bilibili.com/video/BV1BF41177Wa?share_source=copy_web
 - https://www.bilibili.com/video/BV11Z4y1h7hA?share_source=copy_web
+- https://www.bilibili.com/video/BV16v4y1N7wy?share_source=copy_web
 - https://www.bilibili.com/video/BV1e44y137BL (you need to enter the link to the browser again in order to play it)
+- https://www.bilibili.com/video/BV1Ng411X7e8?share_source=copy_web (you need to enter the link to the browser again in order to play it)
 
 ![screenshot](https://i.imgur.com/ENqYsBN.jpg)
 ![screenshot](https://i.imgur.com/tUfB3hf.jpg)
@@ -173,6 +176,18 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
 
 ### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=english):
+![screenshot](https://i.imgur.com/cp5VTI1.jpg)
+![screenshot](https://i.imgur.com/9CloXLw.jpg)
+![screenshot](https://i.imgur.com/eVTmJT7.jpg)
+![screenshot](https://i.imgur.com/bc46ZRF.jpg)
+![screenshot](https://i.imgur.com/Ls2lt02.jpg)
+![screenshot](https://i.imgur.com/wfzBTfb.jpg)
+![screenshot](https://i.imgur.com/CLNxKnu.jpg)
+![screenshot](https://i.imgur.com/DcfrNdL.jpg)
+![screenshot](https://i.imgur.com/2ZggtS7.jpg)
+
+- https://youtu.be/lsFr7NzVVM8?t=2040
+
 ![screenshot](https://i.imgur.com/ahpwnk3.jpg)
 ![screenshot](https://i.imgur.com/vyutd2p.jpg)
 - https://youtu.be/vjBZzYN3aAs
@@ -190,6 +205,9 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/6yR1Y0l.jpg)
 - https://youtu.be/2CTSe6Q5-xI (shader of "Kureiji Ollie model + environment + postprocess")
 
+![screenshot](https://i.imgur.com/fo9h7YR.jpg)
+- https://youtu.be/4uss_EDzT_M
+
 ![screenshot](https://i.imgur.com/BIjpGAp.jpg)
 ![screenshot](https://i.imgur.com/9KcIdQD.jpg)
 ![screenshot](https://i.imgur.com/vSvp02D.jpg)
@@ -200,6 +218,8 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 
 # Other NiloToonURP's images (gallery)
+![screenshot](https://i.imgur.com/JWbp20K.jpg)
+![screenshot](https://i.imgur.com/183MzTr.jpg)
 ![screenshot](https://i.imgur.com/fXgArpo.jpg)
 ![screenshot](https://i.imgur.com/1F9GxjT.jpg)
 ![screenshot](https://i.imgur.com/ndXKvjt.jpg)
