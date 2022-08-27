@@ -87,13 +87,26 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://youtube.com/shorts/dU-t123n7q8?feature=share
 - https://youtu.be/R3qM8CwUED8
 
-### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/members?filter=VirtuaReal):
+### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal&orderKey=debut_at&order=asc):
 ![screenshot](https://i.imgur.com/GPi2ahM.jpg)
 ![screenshot](https://i.imgur.com/k0etAYv.jpg)
 ![screenshot](https://i.imgur.com/oGXzquC.jpg)
 ![screenshot](https://i.imgur.com/vwwjgVI.jpg)
 - https://www.bilibili.com/video/BV1G3411q7un?share_source=copy_web
 - https://www.bilibili.com/video/BV1QL411b78T?share_source=copy_web
+
+![screenshot](https://i.imgur.com/IygURSJ.jpg)
+![screenshot](https://i.imgur.com/OJskVEW.jpg)
+![screenshot](https://i.imgur.com/tq7sd8C.jpg)
+![screenshot](https://i.imgur.com/CLyb3Od.jpg)
+![screenshot](https://i.imgur.com/TDkGyLs.jpg)
+(after clicking the link below, it will require you to press enter on the link again in your browser)
+- https://www.bilibili.com/video/BV1Ba411d7dc?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
+- https://www.bilibili.com/video/BV18T411c7XM?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
+
+![screenshot](https://i.imgur.com/JMhgyGz.jpg)
+(after clicking the link below, it will require you to press enter on the link again in your browser)
+- https://www.bilibili.com/video/BV14Y4y1j7LL?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
 
 ![screenshot](https://i.imgur.com/e65IfZH.jpg)
 ![screenshot](https://i.imgur.com/xIBhYck.jpg)
