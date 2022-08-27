@@ -37,10 +37,10 @@ NiloToonURP is supporting:
 - Unity 2021.3LTS(URP 12.x)
 - Unity 2022.1.0f1(URP 13.x)
 
-# Download NiloToonURP PC .exe demo (2020.3LTS build):
+# Download NiloToonURP PC .exe demo (2020.3.38LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
 
-# Download NiloToonURP Android .apk demo (2020.3LTS build):
+# Download NiloToonURP Android .apk demo (2020.3.38LTS build):
 - (Vulkan+GLES 2022-3)https://drive.google.com/file/d/1CBSYiniHTAaNtlkd5X7TUxjAsQ7eBNxK/view?usp=sharing
 - (GLES 2021-10)https://drive.google.com/file/d/13DdRKXZpugnK-rTeXTDcAHWLeiLzbKH_/view?usp=sharing
 
@@ -64,6 +64,28 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 # NiloToonURP user's creations (public media, not NDA contents)
 (we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
+
+### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
+![screenshot](https://i.imgur.com/VXjRjME.jpg)
+![screenshot](https://i.imgur.com/kJAV5MD.jpg)
+![screenshot](https://i.imgur.com/VQAGeIY.jpg)
+![screenshot](https://i.imgur.com/diy3FOZ.jpg)
+![screenshot](https://i.imgur.com/PXA8toS.jpg)
+![screenshot](https://i.imgur.com/NF0d6tN.jpg)
+![screenshot](https://i.imgur.com/bWnkbcB.jpg)
+![screenshot](https://i.imgur.com/SP2HkMA.jpg)
+![screenshot](https://i.imgur.com/LQrF8MD.jpg)
+![screenshot](https://i.imgur.com/zioRmpu.jpg)
+![screenshot](https://i.imgur.com/JAdtEAO.jpg)
+![screenshot](https://i.imgur.com/oCcqtIS.jpg)
+![screenshot](https://i.imgur.com/iPa9wZ8.jpg)
+![screenshot](https://i.imgur.com/JopBcUs.jpg)
+- https://youtu.be/Zlef92wDMnA
+- https://youtu.be/ugTNvBA3-So
+- https://youtu.be/X1T4tqdlrZQ
+- https://youtu.be/10TDfSzRnp8
+- https://youtube.com/shorts/dU-t123n7q8?feature=share
+- https://youtu.be/R3qM8CwUED8
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/members?filter=VirtuaReal):
 ![screenshot](https://i.imgur.com/GPi2ahM.jpg)
