@@ -46,6 +46,7 @@ NiloToonURP is supporting:
 
 # NiloToonURP's demo runtime video: 
 - https://www.youtube.com/c/colinleungNiloCat/videos
+- https://space.bilibili.com/325873
 
 # How to get NiloToonURP full source code?
 If you or your company/organization/team needs: 
@@ -65,7 +66,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 # NiloToonURP user's creations (public media, not NDA contents)
 (we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
 
-### Genshin Impact MV - When The Stars Align
+### Genshin Impact MV - When The Stars Align (Genshin Impact website -> http://genshin.hoyoverse.com)
 ![screenshot](https://i.imgur.com/RermmVG.jpg)
 ![screenshot](https://i.imgur.com/8VtUVoe.jpg)
 ![screenshot](https://i.imgur.com/sQeT2h9.jpg)
@@ -78,7 +79,20 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/xCbVHYf.jpg)
 ![screenshot](https://i.imgur.com/AxOlQ1V.jpg)
 ![screenshot](https://i.imgur.com/N9DfuWO.jpg)
-- https://www.bilibili.com/video/BV1vT411T79n
+- 【原神生日会】When The Stars Align https://www.bilibili.com/video/BV1vT411T79n
+
+### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
+![screenshot](https://i.imgur.com/Y5ZqAQR.jpg)
+![screenshot](https://i.imgur.com/S14efCf.jpg)
+![screenshot](https://i.imgur.com/Jx2hWbF.jpg)
+![screenshot](https://i.imgur.com/lWlwyQj.jpg)
+![screenshot](https://i.imgur.com/42ZWOk4.jpg)
+![screenshot](https://i.imgur.com/SBuq9fg.jpg)
+![screenshot](https://i.imgur.com/JxshOYt.jpg)
+![screenshot](https://i.imgur.com/N87LdKE.jpg)
+![screenshot](https://i.imgur.com/eKaaJS2.jpg)
+![screenshot](https://i.imgur.com/7Cab1UP.jpg)
+- 《我的故事未写完》【原创曲-泠鸢词曲】https://www.bilibili.com/video/BV1JG4y1W7ub?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
 
 ### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
 ![screenshot](https://i.imgur.com/VXjRjME.jpg)
@@ -192,7 +206,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/xJ78uRL.jpg)
 - https://www.bilibili.com/video/BV1Bq4y1r7bn (part of the rendering is NiloToonURP)
 
-### VirtuaReal Star成员 - 泠鸢yousa (https://space.bilibili.com/282994)
+### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/BP00DAs.jpg)
 ![screenshot](https://i.imgur.com/ge6Jray.jpg)
 ![screenshot](https://i.imgur.com/PrysNHy.jpg)
