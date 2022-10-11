@@ -65,6 +65,21 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 # NiloToonURP user's creations (public media, not NDA contents)
 (we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
 
+### Genshin Impact MV - When The Stars Align
+![screenshot](https://i.imgur.com/RermmVG.jpg)
+![screenshot](https://i.imgur.com/8VtUVoe.jpg)
+![screenshot](https://i.imgur.com/sQeT2h9.jpg)
+![screenshot](https://i.imgur.com/xIY8OjB.jpg)
+![screenshot](https://i.imgur.com/Cw9ZkkA.jpg)
+![screenshot](https://i.imgur.com/dSsZo49.jpg)
+![screenshot](https://i.imgur.com/pKciABD.jpg)
+![screenshot](https://i.imgur.com/pUGytbt.jpg)
+![screenshot](https://i.imgur.com/WXCPzCj.jpg)
+![screenshot](https://i.imgur.com/xCbVHYf.jpg)
+![screenshot](https://i.imgur.com/AxOlQ1V.jpg)
+![screenshot](https://i.imgur.com/N9DfuWO.jpg)
+- https://www.bilibili.com/video/BV1vT411T79n
+
 ### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
 ![screenshot](https://i.imgur.com/VXjRjME.jpg)
 ![screenshot](https://i.imgur.com/kJAV5MD.jpg)
