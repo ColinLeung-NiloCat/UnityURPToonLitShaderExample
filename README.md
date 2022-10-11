@@ -79,7 +79,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/xCbVHYf.jpg)
 ![screenshot](https://i.imgur.com/AxOlQ1V.jpg)
 ![screenshot](https://i.imgur.com/N9DfuWO.jpg)
-- 【原神生日会】When The Stars Align https://www.bilibili.com/video/BV1vT411T79n
+- 【原神生日会】When The Stars Align -> https://www.bilibili.com/video/BV1vT411T79n
 
 ### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/Y5ZqAQR.jpg)
@@ -92,7 +92,27 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/N87LdKE.jpg)
 ![screenshot](https://i.imgur.com/eKaaJS2.jpg)
 ![screenshot](https://i.imgur.com/7Cab1UP.jpg)
-- 《我的故事未写完》【原创曲-泠鸢词曲】https://www.bilibili.com/video/BV1JG4y1W7ub?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
+- 《我的故事未写完》【原创曲-泠鸢词曲】-> https://www.bilibili.com/video/BV1JG4y1W7ub?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
+
+### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=english):
+![screenshot](https://i.imgur.com/cp5VTI1.jpg)
+![screenshot](https://i.imgur.com/9CloXLw.jpg)
+![screenshot](https://i.imgur.com/eVTmJT7.jpg)
+![screenshot](https://i.imgur.com/bc46ZRF.jpg)
+![screenshot](https://i.imgur.com/Ls2lt02.jpg)
+![screenshot](https://i.imgur.com/wfzBTfb.jpg)
+![screenshot](https://i.imgur.com/CLNxKnu.jpg)
+![screenshot](https://i.imgur.com/DcfrNdL.jpg)
+![screenshot](https://i.imgur.com/2ZggtS7.jpg)
+- 【3D BIRTHDAY】PARTY TIME! 🌊 #gawrgura -> https://youtu.be/lsFr7NzVVM8?t=2040
+
+![screenshot](https://i.imgur.com/o0odd68.jpg)
+![screenshot](https://i.imgur.com/VdMLFQP.jpg)
+![screenshot](https://i.imgur.com/CuSZibZ.jpg)
+![screenshot](https://i.imgur.com/YYniZNH.jpg)
+![screenshot](https://i.imgur.com/ffqoZzq.jpg)
+![screenshot](https://i.imgur.com/CsxyZcY.jpg)
+- DO U - Takanashi Kiara (Official Music Video) -> https://youtu.be/QI96hnhcr2E
 
 ### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
 ![screenshot](https://i.imgur.com/VXjRjME.jpg)
@@ -109,7 +129,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/oCcqtIS.jpg)
 ![screenshot](https://i.imgur.com/iPa9wZ8.jpg)
 ![screenshot](https://i.imgur.com/JopBcUs.jpg)
-- https://youtu.be/Zlef92wDMnA
+- 【#Rumi3D】3D首次亮相✨生日LIVE🍰🎤｜Rumi/懶貓子 -> https://youtu.be/Zlef92wDMnA
 - https://youtu.be/ugTNvBA3-So
 - https://youtu.be/X1T4tqdlrZQ
 - https://youtu.be/10TDfSzRnp8
@@ -240,18 +260,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
 
 ### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=english):
-![screenshot](https://i.imgur.com/cp5VTI1.jpg)
-![screenshot](https://i.imgur.com/9CloXLw.jpg)
-![screenshot](https://i.imgur.com/eVTmJT7.jpg)
-![screenshot](https://i.imgur.com/bc46ZRF.jpg)
-![screenshot](https://i.imgur.com/Ls2lt02.jpg)
-![screenshot](https://i.imgur.com/wfzBTfb.jpg)
-![screenshot](https://i.imgur.com/CLNxKnu.jpg)
-![screenshot](https://i.imgur.com/DcfrNdL.jpg)
-![screenshot](https://i.imgur.com/2ZggtS7.jpg)
-
-- https://youtu.be/lsFr7NzVVM8?t=2040
-
 ![screenshot](https://i.imgur.com/ahpwnk3.jpg)
 ![screenshot](https://i.imgur.com/vyutd2p.jpg)
 - https://youtu.be/vjBZzYN3aAs
@@ -275,7 +283,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/pXcQT0g.jpg)
 ![screenshot](https://i.imgur.com/b6Elupz.jpg)
 ![screenshot](https://i.imgur.com/6yR1Y0l.jpg)
-- https://youtu.be/2CTSe6Q5-xI (shader of "Kureiji Ollie model + environment + postprocess")
+- https://youtu.be/2CTSe6Q5-xI
 
 ![screenshot](https://i.imgur.com/fo9h7YR.jpg)
 - https://youtu.be/4uss_EDzT_M
@@ -285,8 +293,12 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/vSvp02D.jpg)
 ![screenshot](https://i.imgur.com/lmQWiMp.jpg)
 ![screenshot](https://i.imgur.com/d0JkDTk.jpg)
-- https://youtu.be/m_LT957vLeY (shader of "characters + environment + postprocess")
+- https://youtu.be/m_LT957vLeY
 
+![screenshot](https://i.imgur.com/TzekRQa.jpg)
+![screenshot](https://i.imgur.com/J5wRsE0.jpg)
+![screenshot](https://i.imgur.com/3ALDYo5.jpg)
+- Ninomae Ina'nis - VIOLET | Kanauru MV -> https://youtu.be/vpS0Or-PHqs
 
 
 # Other NiloToonURP's images (gallery)
