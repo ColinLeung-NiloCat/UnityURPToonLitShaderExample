@@ -68,7 +68,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ### Genshin Impact MV - When The Stars Align (Genshin Impact website -> http://genshin.hoyoverse.com)
 ![screenshot](https://i.imgur.com/RermmVG.jpg)
-![screenshot](https://i.imgur.com/8VtUVoe.jpg)
+![screenshot](https://i.imgur.com/VD7K3zX.jpg)
 ![screenshot](https://i.imgur.com/sQeT2h9.jpg)
 ![screenshot](https://i.imgur.com/xIY8OjB.jpg)
 ![screenshot](https://i.imgur.com/Cw9ZkkA.jpg)
@@ -79,6 +79,8 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/xCbVHYf.jpg)
 ![screenshot](https://i.imgur.com/AxOlQ1V.jpg)
 ![screenshot](https://i.imgur.com/N9DfuWO.jpg)
+![screenshot](https://i.imgur.com/ozunRqI.jpg)
+![screenshot](https://i.imgur.com/bEjNiOj.jpg)
 - 【原神生日会】When The Stars Align -> https://www.bilibili.com/video/BV1vT411T79n
 
 ### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
