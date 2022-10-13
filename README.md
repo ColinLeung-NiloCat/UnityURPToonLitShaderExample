@@ -116,6 +116,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/CsxyZcY.jpg)
 - DO U - Takanashi Kiara (Official Music Video) -> https://youtu.be/QI96hnhcr2E
 
+### VirtuaReal Star - hanser (https://space.bilibili.com/11073)
+![screenshot](https://i.imgur.com/nfVckVo.jpg)
+![screenshot](https://i.imgur.com/Ij7zvhz.jpg)
+![screenshot](https://i.imgur.com/ooybJus.jpg)
+![screenshot](https://i.imgur.com/LtziYj5.jpg)
+- 感谢300关注 跳个舞 -> https://www.bilibili.com/video/BV1CR4y1j7bY?share_source=copy_web
+
 ### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
 ![screenshot](https://i.imgur.com/VXjRjME.jpg)
 ![screenshot](https://i.imgur.com/kJAV5MD.jpg)
@@ -137,6 +144,25 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://youtu.be/10TDfSzRnp8
 - https://youtube.com/shorts/dU-t123n7q8?feature=share
 - https://youtu.be/R3qM8CwUED8
+
+### 崩坏学园2-灵依娘desu (https://space.bilibili.com/133934):
+![screenshot](https://i.imgur.com/u8igVrL.jpg)
+![screenshot](https://i.imgur.com/cM07F1y.jpg)
+![screenshot](https://i.imgur.com/a1z5kJL.jpg)
+![screenshot](https://i.imgur.com/ABCUJ9R.jpg)
+![screenshot](https://i.imgur.com/Z5AI8oh.jpg)
+![screenshot](https://i.imgur.com/AdvMZa8.jpg)
+- 【崩坏学园2】「启晨之星」菲米莉丝印象曲 -> https://www.bilibili.com/video/BV1Z64y1b7BW?share_source=copy_web
+- 「始まりの星」 PV制作花絮 - 角色篇 -> https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
+
+### Kanauru (https://www.youtube.com/user/kanauru):
+![screenshot](https://i.imgur.com/xQOdZz8.jpg)
+![screenshot](https://i.imgur.com/cvEciNf.jpg)
+![screenshot](https://i.imgur.com/kfZocG4.jpg)
+![screenshot](https://i.imgur.com/nMlQRiU.jpg)
+![screenshot](https://i.imgur.com/WAW4kph.jpg)
+![screenshot](https://i.imgur.com/uwqMRaM.jpg)
+- Laplus - 濁雨 Cover | Kanauru Dance -> https://youtu.be/psrZ-l8ZWOE
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal&orderKey=debut_at&order=asc):
 ![screenshot](https://i.imgur.com/GPi2ahM.jpg)
@@ -213,34 +239,15 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/aLIQO3q.jpg)
 - https://www.bilibili.com/video/BV1eS4y1372a?share_source=copy_web
 
-### VirtuaReal Star成员 - hanser (https://space.bilibili.com/11073)
-![screenshot](https://i.imgur.com/nfVckVo.jpg)
-![screenshot](https://i.imgur.com/Ij7zvhz.jpg)
-![screenshot](https://i.imgur.com/ooybJus.jpg)
-![screenshot](https://i.imgur.com/LtziYj5.jpg)
-- https://www.bilibili.com/video/BV1CR4y1j7bY?share_source=copy_web
-
+### VirtuaReal Star - hanser (https://space.bilibili.com/11073)
 ![screenshot](https://i.imgur.com/vPlJSKP.jpg)
 ![screenshot](https://i.imgur.com/aCJQOt7.jpg)
-- https://www.bilibili.com/video/BV1pF411v7gu
+- 是小天使2021年百大up主的获奖感言呀~ -> https://www.bilibili.com/video/BV1pF411v7gu
 
-(4K画质)hanser个人演唱会《海上油菜花》
 ![screenshot](https://i.imgur.com/xJ78uRL.jpg)
-- https://www.bilibili.com/video/BV1Bq4y1r7bn (part of the rendering is NiloToonURP)
+- (4K画质)hanser个人演唱会《海上油菜花》-> https://www.bilibili.com/video/BV1Bq4y1r7bn (part of the rendering is NiloToonURP)
 
 ### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
-![screenshot](https://i.imgur.com/BP00DAs.jpg)
-![screenshot](https://i.imgur.com/ge6Jray.jpg)
-![screenshot](https://i.imgur.com/PrysNHy.jpg)
-![screenshot](https://i.imgur.com/WGBwnJX.jpg)
-![screenshot](https://i.imgur.com/XPhB5pp.jpg)
-![screenshot](https://i.imgur.com/0G60MWp.jpg)
-- https://www.bilibili.com/video/BV1BF41177Wa?share_source=copy_web
-- https://www.bilibili.com/video/BV11Z4y1h7hA?share_source=copy_web
-- https://www.bilibili.com/video/BV16v4y1N7wy?share_source=copy_web
-- https://www.bilibili.com/video/BV1e44y137BL (you need to enter the link to the browser again in order to play it)
-- https://www.bilibili.com/video/BV1Ng411X7e8?share_source=copy_web (you need to enter the link to the browser again in order to play it)
-
 ![screenshot](https://i.imgur.com/ENqYsBN.jpg)
 ![screenshot](https://i.imgur.com/tUfB3hf.jpg)
 ![screenshot](https://i.imgur.com/DaNt9rE.jpg)
@@ -251,15 +258,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/eZ5xByR.jpg)
 ![screenshot](https://i.imgur.com/y9BQsXg.jpg)
 
-### 【崩坏学园2】「启晨之星」菲米莉丝印象曲 (https://space.bilibili.com/133934):
-![screenshot](https://i.imgur.com/u8igVrL.jpg)
-![screenshot](https://i.imgur.com/cM07F1y.jpg)
-![screenshot](https://i.imgur.com/a1z5kJL.jpg)
-![screenshot](https://i.imgur.com/ABCUJ9R.jpg)
-![screenshot](https://i.imgur.com/Z5AI8oh.jpg)
-![screenshot](https://i.imgur.com/AdvMZa8.jpg)
-- https://www.bilibili.com/video/BV1Z64y1b7BW?share_source=copy_web
-- https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
+![screenshot](https://i.imgur.com/BP00DAs.jpg)
+![screenshot](https://i.imgur.com/ge6Jray.jpg)
+![screenshot](https://i.imgur.com/XPhB5pp.jpg)
+- https://www.bilibili.com/video/BV1BF41177Wa?share_source=copy_web
+- https://www.bilibili.com/video/BV11Z4y1h7hA?share_source=copy_web
+- https://www.bilibili.com/video/BV16v4y1N7wy?share_source=copy_web
+- https://www.bilibili.com/video/BV1e44y137BL (you need to enter the link to the browser again in order to play it)
+- https://www.bilibili.com/video/BV1Ng411X7e8?share_source=copy_web (you need to enter the link to the browser again in order to play it)
 
 ### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=english):
 ![screenshot](https://i.imgur.com/ahpwnk3.jpg)
