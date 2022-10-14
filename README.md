@@ -145,6 +145,32 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://youtube.com/shorts/dU-t123n7q8?feature=share
 - https://youtu.be/R3qM8CwUED8
 
+### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal&orderKey=debut_at&order=asc):
+![screenshot](https://i.imgur.com/IKpdkTI.jpg)
+![screenshot](https://i.imgur.com/ixS8EQW.jpg)
+![screenshot](https://i.imgur.com/6k1D6ag.jpg)
+![screenshot](https://i.imgur.com/oAvEF7g.jpg)
+![screenshot](https://i.imgur.com/HVL9Ysa.jpg)
+![screenshot](https://i.imgur.com/aAy01vv.jpg)
+![screenshot](https://i.imgur.com/RA86RGL.jpg)
+![screenshot](https://i.imgur.com/NgdtQJ8.jpg)
+![screenshot](https://i.imgur.com/Fkx2mnn.jpg)
+![screenshot](https://i.imgur.com/wyZgbaq.jpg)
+![screenshot](https://i.imgur.com/qdbruDW.jpg)
+![screenshot](https://i.imgur.com/PHFtPXc.jpg)
+![screenshot](https://i.imgur.com/7wTiBrh.jpg)
+![screenshot](https://i.imgur.com/aUQHF1m.jpg)
+![screenshot](https://i.imgur.com/N3nCelq.jpg)
+![screenshot](https://i.imgur.com/d250aAg.jpg)
+![screenshot](https://i.imgur.com/qF6N0qG.jpg)
+![screenshot](https://i.imgur.com/Rrhv8zc.jpg)
+![screenshot](https://i.imgur.com/WWbyhD7.jpg)
+![screenshot](https://i.imgur.com/5L8rOAm.jpg)
+![screenshot](https://i.imgur.com/VLOGmBY.jpg)
+![screenshot](https://i.imgur.com/9sV2qkn.jpg)
+![screenshot](https://i.imgur.com/biEL7ZZ.jpg)
+- VirtuaReal 夏日合唱(2022) -> https://www.bilibili.com/festival/VRSummerSuper
+
 ### 崩坏学园2-灵依娘desu (https://space.bilibili.com/133934):
 ![screenshot](https://i.imgur.com/u8igVrL.jpg)
 ![screenshot](https://i.imgur.com/cM07F1y.jpg)
