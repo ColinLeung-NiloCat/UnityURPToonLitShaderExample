@@ -29,11 +29,9 @@ shader OFF
 ![screenshot](https://i.imgur.com/qZWo4wN.jpg)
 ![screenshot](https://i.imgur.com/RayvhGE.jpg)
 shader ON
-![screenshot](https://i.imgur.com/BgiZbfa.png)
-normal debug
-![screenshot](https://i.imgur.com/d1tqNLd.png)
+![screenshot](https://i.imgur.com/5pVMWVN.png)
 shader OFF
-![screenshot](https://i.imgur.com/Beu4mGP.png)
+![screenshot](https://i.imgur.com/ds7LfLo.png)
 
 We are now developing an "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
@@ -195,12 +193,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 「始まりの星」 PV制作花絮 - 角色篇 -> https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
+![screenshot](https://i.imgur.com/7TRdfHh.jpg)
 ![screenshot](https://i.imgur.com/xQOdZz8.jpg)
 ![screenshot](https://i.imgur.com/cvEciNf.jpg)
 ![screenshot](https://i.imgur.com/kfZocG4.jpg)
 ![screenshot](https://i.imgur.com/nMlQRiU.jpg)
 ![screenshot](https://i.imgur.com/WAW4kph.jpg)
 ![screenshot](https://i.imgur.com/uwqMRaM.jpg)
+- Takane Lui - Overd ( オーバード ) | Kanauru Dance -> https://youtu.be/9qHbGbK8YnU
 - Laplus - 濁雨 Cover | Kanauru Dance -> https://youtu.be/psrZ-l8ZWOE
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal&orderKey=debut_at&order=asc):
@@ -349,6 +349,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 
 # Other NiloToonURP's images (gallery)
+
+shader ON
+![screenshot](https://i.imgur.com/BgiZbfa.png)
+normal debug
+![screenshot](https://i.imgur.com/d1tqNLd.png)
+shader OFF
+![screenshot](https://i.imgur.com/Beu4mGP.png)
+
 ![screenshot](https://i.imgur.com/JWbp20K.jpg)
 ![screenshot](https://i.imgur.com/183MzTr.jpg)
 ![screenshot](https://i.imgur.com/fXgArpo.jpg)
