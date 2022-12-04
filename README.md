@@ -28,6 +28,12 @@ shader OFF
 ![screenshot](https://i.imgur.com/aP3YmYV.jpg)
 ![screenshot](https://i.imgur.com/qZWo4wN.jpg)
 ![screenshot](https://i.imgur.com/RayvhGE.jpg)
+shader ON
+![screenshot](https://i.imgur.com/BgiZbfa.png)
+normal debug
+![screenshot](https://i.imgur.com/d1tqNLd.png)
+shader OFF
+![screenshot](https://i.imgur.com/Beu4mGP.png)
 
 We are now developing an "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of most URP's user.  
@@ -144,6 +150,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://youtu.be/10TDfSzRnp8
 - https://youtube.com/shorts/dU-t123n7q8?feature=share
 - https://youtu.be/R3qM8CwUED8
+
+### 穆小泠Official (https://space.bilibili.com/43272050)
+![screenshot](https://i.imgur.com/QF7t3x2.jpg)
+![screenshot](https://i.imgur.com/K2YAc33.jpg)
+![screenshot](https://i.imgur.com/nfSngMl.jpg)
+![screenshot](https://i.imgur.com/MwkNyDt.jpg)
+-【【国风原创曲】弹指醉｜精美歌舞MMD【穆小泠】】 -> https://www.bilibili.com/video/BV1WG4y1t7o1
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal&orderKey=debut_at&order=asc):
 ![screenshot](https://i.imgur.com/IKpdkTI.jpg)
@@ -718,3 +731,4 @@ model's creator in shader demo image/video:
 - アイドリープライド，IDOLY PRIDE - https://idolypride.jp/
 - Little Witch Nobeta - https://store.steampowered.com/app/1049890/Little_Witch_Nobeta/
 - オリジナル3Dモデル「桔梗」by ぽんでろ - https://booth.pm/en/items/3681787
+- 千反田える 3Dモデル(3ds Max) by @itou_nko - https://twitter.com/itou_nko (https://itou-nko.fanbox.cc/)
