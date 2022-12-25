@@ -130,6 +130,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/LtziYj5.jpg)
 - 感谢300关注 跳个舞 -> https://www.bilibili.com/video/BV1CR4y1j7bY?share_source=copy_web
 
+### Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
+![screenshot](https://i.imgur.com/qjVT4M7.jpg)
+![screenshot](https://i.imgur.com/i050aGy.jpg)
+![screenshot](https://i.imgur.com/pOOn3wn.jpg)
+![screenshot](https://i.imgur.com/p33Rr9U.jpg)
+- 【holo*27 MV】紫咲シオン x ラプラス・ダークネス - リップシンク【ホロライブ x DECO*27】-> https://youtu.be/NjtIAuZQN_E
+
 ### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
 ![screenshot](https://i.imgur.com/VXjRjME.jpg)
 ![screenshot](https://i.imgur.com/kJAV5MD.jpg)
