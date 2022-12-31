@@ -159,6 +159,10 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://youtube.com/shorts/dU-t123n7q8?feature=share
 - https://youtu.be/R3qM8CwUED8
 
+### 杏仁ミル (https://www.youtube.com/@AnninMiru):
+![screenshot](https://i.imgur.com/tQ5y5Dd.jpg)
+- 【3D Live】ニャタタリズム - 杏仁ミル【#杏仁ミル3D】-> https://youtu.be/vICHoj4d_jE
+
 ### 穆小泠Official (https://space.bilibili.com/43272050)
 ![screenshot](https://i.imgur.com/QF7t3x2.jpg)
 ![screenshot](https://i.imgur.com/K2YAc33.jpg)
