@@ -117,12 +117,9 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ![screenshot](https://i.imgur.com/QT0acUh.jpg)
 ![screenshot](https://i.imgur.com/TW8QBwh.jpg)
-![screenshot](https://i.imgur.com/hfVqBK1.jpg)
-![screenshot](https://i.imgur.com/YnbFL48.jpg)
-![screenshot](https://i.imgur.com/pS7qRwM.jpg)
 ![screenshot](https://i.imgur.com/eA1YPzW.jpg)
+![screenshot](https://i.imgur.com/pS7qRwM.jpg)
 ![screenshot](https://i.imgur.com/8hh4MU0.jpg)
-![screenshot](https://i.imgur.com/4Hkd2Ww.jpg)
 ![screenshot](https://i.imgur.com/AzE873T.jpg)
 ![screenshot](https://i.imgur.com/burEUOf.jpg)
 - DO U - Takanashi Kiara (Official Music Video) -> https://youtu.be/QI96hnhcr2E
@@ -156,6 +153,8 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/oCcqtIS.jpg)
 ![screenshot](https://i.imgur.com/iPa9wZ8.jpg)
 ![screenshot](https://i.imgur.com/JopBcUs.jpg)
+![screenshot](https://i.imgur.com/zaUh3Ql.jpg)
+![screenshot](https://i.imgur.com/BGVkmF2.jpg)
 - 【#Rumi3D】3D首次亮相✨生日LIVE🍰🎤｜Rumi/懶貓子 -> https://youtu.be/Zlef92wDMnA
 - 【3Ddance ver.】笑顔はここにある【#Rumi3D】 -> https://youtu.be/ugTNvBA3-So
 - 【3D cover】未知未踏アルスハイル【#Rumi3D】 -> https://youtu.be/X1T4tqdlrZQ
