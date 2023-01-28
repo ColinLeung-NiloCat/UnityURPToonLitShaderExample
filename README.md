@@ -92,8 +92,8 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/Y5ZqAQR.jpg)
-![screenshot](https://i.imgur.com/S14efCf.jpg)
 ![screenshot](https://i.imgur.com/Jx2hWbF.jpg)
+![screenshot](https://i.imgur.com/S14efCf.jpg)
 ![screenshot](https://i.imgur.com/lWlwyQj.jpg)
 ![screenshot](https://i.imgur.com/42ZWOk4.jpg)
 ![screenshot](https://i.imgur.com/SBuq9fg.jpg)
@@ -153,15 +153,24 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/iPa9wZ8.jpg)
 ![screenshot](https://i.imgur.com/JopBcUs.jpg)
 - 【#Rumi3D】3D首次亮相✨生日LIVE🍰🎤｜Rumi/懶貓子 -> https://youtu.be/Zlef92wDMnA
-- https://youtu.be/ugTNvBA3-So
-- https://youtu.be/X1T4tqdlrZQ
-- https://youtu.be/10TDfSzRnp8
-- https://youtube.com/shorts/dU-t123n7q8?feature=share
-- https://youtu.be/R3qM8CwUED8
+- 【3Ddance ver.】笑顔はここにある【#Rumi3D】 -> https://youtu.be/ugTNvBA3-So
+- 【3D cover】未知未踏アルスハイル【#Rumi3D】 -> https://youtu.be/X1T4tqdlrZQ
+- 【3Ddance ver.】NON STOP SOUL!!!【#Rumi3D】 -> https://youtu.be/10TDfSzRnp8
+- 【#Rumi3D】Jugemu Jugemu dance！ -> https://youtube.com/shorts/dU-t123n7q8?feature=share
+- 【#原神】#提納里 #柯萊 登場！抽卡PK！！！ft.BOSS #１９ -> https://youtu.be/R3qM8CwUED8
+- 歌ってみた】トウキョウ・シャンディ・ランデヴ - MAISONdes feat. 花譜, ツミキ -> https://youtu.be/XK10jQIaA7s
 
 ### 杏仁ミル (https://www.youtube.com/@AnninMiru):
 ![screenshot](https://i.imgur.com/tQ5y5Dd.jpg)
+![screenshot](https://i.imgur.com/h16ZKW3.jpg)
+![screenshot](https://i.imgur.com/pSFZ5uM.jpg)
+![screenshot](https://i.imgur.com/bcAjy0e.jpg)
+![screenshot](https://i.imgur.com/lIYfaRV.jpg)
+![screenshot](https://i.imgur.com/HD7YE8U.jpg)
+![screenshot](https://i.imgur.com/GS7MMU2.jpg)
+![screenshot](https://i.imgur.com/W0SsYoz.jpg)
 - 【3D Live】ニャタタリズム - 杏仁ミル【#杏仁ミル3D】-> https://youtu.be/vICHoj4d_jE
+- 【3D動補試跳】I’m Your Treasure Box / マリ箱ダンス #マリ箱チャレンジ -> https://youtube.com/shorts/dvjXjd_RSRs?feature=share
 
 ### 穆小泠Official (https://space.bilibili.com/43272050)
 ![screenshot](https://i.imgur.com/QF7t3x2.jpg)
@@ -170,7 +179,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/MwkNyDt.jpg)
 -【【国风原创曲】弹指醉｜精美歌舞MMD【穆小泠】】 -> https://www.bilibili.com/video/BV1WG4y1t7o1
 
-### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal&orderKey=debut_at&order=asc):
+### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal):
 ![screenshot](https://i.imgur.com/IKpdkTI.jpg)
 ![screenshot](https://i.imgur.com/ixS8EQW.jpg)
 ![screenshot](https://i.imgur.com/6k1D6ag.jpg)
@@ -217,7 +226,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - Takane Lui - Overd ( オーバード ) | Kanauru Dance -> https://youtu.be/9qHbGbK8YnU
 - Laplus - 濁雨 Cover | Kanauru Dance -> https://youtu.be/psrZ-l8ZWOE
 
-### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal&orderKey=debut_at&order=asc):
+### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal):
 ![screenshot](https://i.imgur.com/GPi2ahM.jpg)
 ![screenshot](https://i.imgur.com/k0etAYv.jpg)
 ![screenshot](https://i.imgur.com/oGXzquC.jpg)
