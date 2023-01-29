@@ -220,14 +220,23 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
 ![screenshot](https://i.imgur.com/7TRdfHh.jpg)
+- Takane Lui - Overd ( オーバード ) | Kanauru Dance -> https://youtu.be/9qHbGbK8YnU
+
 ![screenshot](https://i.imgur.com/xQOdZz8.jpg)
 ![screenshot](https://i.imgur.com/cvEciNf.jpg)
 ![screenshot](https://i.imgur.com/kfZocG4.jpg)
 ![screenshot](https://i.imgur.com/nMlQRiU.jpg)
 ![screenshot](https://i.imgur.com/WAW4kph.jpg)
 ![screenshot](https://i.imgur.com/uwqMRaM.jpg)
-- Takane Lui - Overd ( オーバード ) | Kanauru Dance -> https://youtu.be/9qHbGbK8YnU
 - Laplus - 濁雨 Cover | Kanauru Dance -> https://youtu.be/psrZ-l8ZWOE
+
+![screenshot](https://i.imgur.com/lW1w46W.jpg)
+![screenshot](https://i.imgur.com/OBRN3uk.jpg)
+![screenshot](https://i.imgur.com/f5Rlbvn.jpg)
+- Nanashi Mumei - The Forgotten Song | Kanauru MV -> https://youtu.be/nHUqPZfaXyI
+
+![screenshot](https://i.imgur.com/fyPlgr4.jpg)
+- Pastel Tea Time by Omaru Polka | Kanauru Dance -> https://youtu.be/fri5IKzKDf4
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal):
 ![screenshot](https://i.imgur.com/GPi2ahM.jpg)
@@ -352,27 +361,27 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1pN4y1V7KU?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
+
 ![screenshot](https://i.imgur.com/vH3X61I.jpg)
 ![screenshot](https://i.imgur.com/pXcQT0g.jpg)
 ![screenshot](https://i.imgur.com/b6Elupz.jpg)
 ![screenshot](https://i.imgur.com/6yR1Y0l.jpg)
-- https://youtu.be/2CTSe6Q5-xI
+- Kureiji Ollie Boba Shop Rap MV | Avilon - Speed | Kanauru Original -> https://youtu.be/2CTSe6Q5-xI
 
 ![screenshot](https://i.imgur.com/fo9h7YR.jpg)
-- https://youtu.be/4uss_EDzT_M
-
-![screenshot](https://i.imgur.com/BIjpGAp.jpg)
-![screenshot](https://i.imgur.com/9KcIdQD.jpg)
-![screenshot](https://i.imgur.com/vSvp02D.jpg)
-![screenshot](https://i.imgur.com/lmQWiMp.jpg)
-![screenshot](https://i.imgur.com/d0JkDTk.jpg)
-- https://youtu.be/m_LT957vLeY
+- Kanauru MV | CapSule - Mori Calliope x Hoshimachi Suisei -> https://youtu.be/4uss_EDzT_M
 
 ![screenshot](https://i.imgur.com/TzekRQa.jpg)
 ![screenshot](https://i.imgur.com/J5wRsE0.jpg)
 ![screenshot](https://i.imgur.com/3ALDYo5.jpg)
 - Ninomae Ina'nis - VIOLET | Kanauru MV -> https://youtu.be/vpS0Or-PHqs
 
+![screenshot](https://i.imgur.com/nbZ69KC.jpg)
+![screenshot](https://i.imgur.com/BIjpGAp.jpg)
+![screenshot](https://i.imgur.com/9KcIdQD.jpg)
+![screenshot](https://i.imgur.com/vSvp02D.jpg)
+![screenshot](https://i.imgur.com/lmQWiMp.jpg)
+![screenshot](https://i.imgur.com/d0JkDTk.jpg)
 
 # Other NiloToonURP's images (gallery)
 
