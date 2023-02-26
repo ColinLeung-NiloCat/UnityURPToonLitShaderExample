@@ -143,6 +143,20 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/p33Rr9U.jpg)
 - 【holo*27 MV】紫咲シオン x ラプラス・ダークネス - リップシンク【ホロライブ x DECO*27】-> https://youtu.be/NjtIAuZQN_E
 
+### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
+![screenshot](https://i.imgur.com/SVWHinD.jpg)
+![screenshot](https://i.imgur.com/NKlm7QI.jpg)
+![screenshot](https://i.imgur.com/fHIsbYi.jpg)
+![screenshot](https://i.imgur.com/krowLnM.jpg)
+![screenshot](https://i.imgur.com/IEHSsvf.jpg)
+![screenshot](https://i.imgur.com/0dfC7BB.jpg)
+![screenshot](https://i.imgur.com/2vTqHqb.jpg)
+![screenshot](https://i.imgur.com/47TXt3q.jpg)
+![screenshot](https://i.imgur.com/EslbmcQ.jpg)
+![screenshot](https://i.imgur.com/QKidTrM.jpg)
+- 【高清回放】泠鸢个人演唱会【时光标记】十周年纪念-高清全程回放 -> https://www.bilibili.com/video/BV1D24y1B7FA
+- 【泠鸢时光标记演唱会】 一镜到底4K纯享版】-> https://space.bilibili.com/434021034/channel/collectiondetail?sid=1082531
+
 ### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
 ![screenshot](https://i.imgur.com/VXjRjME.jpg)
 ![screenshot](https://i.imgur.com/kJAV5MD.jpg)
@@ -177,7 +191,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/HD7YE8U.jpg)
 ![screenshot](https://i.imgur.com/GS7MMU2.jpg)
 ![screenshot](https://i.imgur.com/W0SsYoz.jpg)
+![screenshot](https://i.imgur.com/mzXHdU6.jpg)
+![screenshot](https://i.imgur.com/nYw45Ax.jpg)
+![screenshot](https://i.imgur.com/RfQCpVK.jpg)
+![screenshot](https://i.imgur.com/kDh9aI1.jpg)
+![screenshot](https://i.imgur.com/IswkuJg.jpg)
+![screenshot](https://i.imgur.com/zqFjdNW.jpg)
 - 【3D Live】ニャタタリズム - 杏仁ミル【#杏仁ミル3D】-> https://youtu.be/vICHoj4d_jE
+- 【3D Live】アスミルキミヘ - 杏仁ミル【#杏仁ミル3D】-> https://youtu.be/ujcUdrf7YBg
 - 【3D動補試跳】I’m Your Treasure Box / マリ箱ダンス #マリ箱チャレンジ -> https://youtube.com/shorts/dvjXjd_RSRs?feature=share
 
 ### 穆小泠Official (https://space.bilibili.com/43272050)
@@ -201,7 +222,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/9ClFTst.jpg)
 ![screenshot](https://i.imgur.com/8PNIXUo.jpg)
 
-### 米亞 Mya
+### 米亞 Mya (https://www.youtube.com/@mya./featured)
 ![screenshot](https://i.imgur.com/QzISOsI.jpg)
 ![screenshot](https://i.imgur.com/P4ErH0x.png)
 ![screenshot](https://i.imgur.com/W4UI45S.jpg)
