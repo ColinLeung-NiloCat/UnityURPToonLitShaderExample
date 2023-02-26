@@ -173,6 +173,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/iPa9wZ8.jpg)
 ![screenshot](https://i.imgur.com/JopBcUs.jpg)
 ![screenshot](https://i.imgur.com/zaUh3Ql.jpg)
+![screenshot](https://i.imgur.com/tvnep6K.jpg)
 ![screenshot](https://i.imgur.com/BGVkmF2.jpg)
 - 【#Rumi3D】3D首次亮相✨生日LIVE🍰🎤｜Rumi/懶貓子 -> https://youtu.be/Zlef92wDMnA
 - 【3Ddance ver.】笑顔はここにある【#Rumi3D】 -> https://youtu.be/ugTNvBA3-So
@@ -258,6 +259,15 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/9sV2qkn.jpg)
 ![screenshot](https://i.imgur.com/biEL7ZZ.jpg)
 - VirtuaReal 夏日合唱(2022) -> https://www.bilibili.com/festival/VRSummerSuper
+
+### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
+![screenshot](https://i.imgur.com/fsAc12K.jpg)
+![screenshot](https://i.imgur.com/lnkV7Io.jpg)
+![screenshot](https://i.imgur.com/IJZiIYD.jpg)
+![screenshot](https://i.imgur.com/11C2mJK.jpg)
+![screenshot](https://i.imgur.com/8n8ZKt4.jpg)
+![screenshot](https://i.imgur.com/mfRS2d7.jpg)
+![screenshot](https://i.imgur.com/VpySKDt.jpg)
 
 ### 崩坏学园2-灵依娘desu (https://space.bilibili.com/133934):
 ![screenshot](https://i.imgur.com/u8igVrL.jpg)
