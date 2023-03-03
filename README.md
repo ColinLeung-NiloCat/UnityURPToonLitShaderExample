@@ -76,7 +76,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - any public website that shows your/your company/organization/team's work or public media  
 
 # NiloToonURP user's creations (public media, not NDA contents)
-(we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly)
+*we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly
 
 ### Genshin Impact MV - When The Stars Align (Genshin Impact website -> http://genshin.hoyoverse.com)
 ![screenshot](https://i.imgur.com/RermmVG.jpg)
@@ -108,6 +108,15 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/7Cab1UP.jpg)
 - 《我的故事未写完》【原创曲-泠鸢词曲】-> https://www.bilibili.com/video/BV1JG4y1W7ub?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
 
+### VirtuaReal - 七海Nana7mi (https://space.bilibili.com/434334701)
+![screenshot](https://i.imgur.com/Tp29cyb.jpg)
+![screenshot](https://i.imgur.com/9OsMvwh.jpg)
+![screenshot](https://i.imgur.com/HTBHcYg.jpg)
+![screenshot](https://i.imgur.com/PvSWEwl.jpg)
+- 【恋愛偏差値上昇中！】 https://www.bilibili.com/video/BV1v84y1K74A
+- 【情人节当一天恋爱脑也可以吧！】 https://www.bilibili.com/video/BV1wv4y1x7NZ
+- 【这次是全身版！！】 https://www.bilibili.com/video/BV1QM411b7pe
+
 ### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=english):
 ![screenshot](https://i.imgur.com/cp5VTI1.jpg)
 ![screenshot](https://i.imgur.com/9CloXLw.jpg)
@@ -136,7 +145,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/LtziYj5.jpg)
 - 感谢300关注 跳个舞 -> https://www.bilibili.com/video/BV1CR4y1j7bY?share_source=copy_web
 
-### Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
+### hololive - Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
 ![screenshot](https://i.imgur.com/qjVT4M7.jpg)
 ![screenshot](https://i.imgur.com/i050aGy.jpg)
 ![screenshot](https://i.imgur.com/pOOn3wn.jpg)
@@ -209,20 +218,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/MwkNyDt.jpg)
 - 【【国风原创曲】弹指醉｜精美歌舞MMD【穆小泠】】 -> https://www.bilibili.com/video/BV1WG4y1t7o1
 
-### myer gugu(崩坏的栗子_108番) (https://www.artstation.com/myergugu)
-![screenshot](https://i.imgur.com/VZPTL1E.jpg)
-![screenshot](https://i.imgur.com/1VNCjuo.jpg)
-![screenshot](https://i.imgur.com/cTFqrJx.jpg)
-![screenshot](https://i.imgur.com/q8Yxfpu.jpg)
-![screenshot](https://i.imgur.com/35iWFiR.jpg)
-![screenshot](https://i.imgur.com/diLy0kf.jpg)
-![screenshot](https://i.imgur.com/7HRTU3X.jpg)
-![screenshot](https://i.imgur.com/1gVV5ca.jpg)
-![screenshot](https://i.imgur.com/Hu26qqI.jpg)
-![screenshot](https://i.imgur.com/yhCtWsh.jpg)
-![screenshot](https://i.imgur.com/9ClFTst.jpg)
-![screenshot](https://i.imgur.com/8PNIXUo.jpg)
-
 ### 米亞 Mya (https://www.youtube.com/@mya./featured)
 ![screenshot](https://i.imgur.com/QzISOsI.jpg)
 ![screenshot](https://i.imgur.com/P4ErH0x.png)
@@ -260,6 +255,20 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/biEL7ZZ.jpg)
 - VirtuaReal 夏日合唱(2022) -> https://www.bilibili.com/festival/VRSummerSuper
 
+### myer gugu(崩坏的栗子_108番) (https://www.artstation.com/myergugu)
+![screenshot](https://i.imgur.com/VZPTL1E.jpg)
+![screenshot](https://i.imgur.com/1VNCjuo.jpg)
+![screenshot](https://i.imgur.com/cTFqrJx.jpg)
+![screenshot](https://i.imgur.com/q8Yxfpu.jpg)
+![screenshot](https://i.imgur.com/35iWFiR.jpg)
+![screenshot](https://i.imgur.com/diLy0kf.jpg)
+![screenshot](https://i.imgur.com/7HRTU3X.jpg)
+![screenshot](https://i.imgur.com/1gVV5ca.jpg)
+![screenshot](https://i.imgur.com/Hu26qqI.jpg)
+![screenshot](https://i.imgur.com/yhCtWsh.jpg)
+![screenshot](https://i.imgur.com/9ClFTst.jpg)
+![screenshot](https://i.imgur.com/8PNIXUo.jpg)
+
 ### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/fsAc12K.jpg)
 ![screenshot](https://i.imgur.com/lnkV7Io.jpg)
@@ -296,8 +305,11 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/f5Rlbvn.jpg)
 - Nanashi Mumei - The Forgotten Song | Kanauru MV -> https://youtu.be/nHUqPZfaXyI
 
-![screenshot](https://i.imgur.com/fyPlgr4.jpg)
-- Pastel Tea Time by Omaru Polka | Kanauru Dance -> https://youtu.be/fri5IKzKDf4
+![screenshot](https://i.imgur.com/vH3X61I.jpg)
+![screenshot](https://i.imgur.com/pXcQT0g.jpg)
+![screenshot](https://i.imgur.com/b6Elupz.jpg)
+![screenshot](https://i.imgur.com/6yR1Y0l.jpg)
+- Kureiji Ollie Boba Shop Rap MV | Avilon - Speed | Kanauru Original -> https://youtu.be/2CTSe6Q5-xI
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal):
 ![screenshot](https://i.imgur.com/GPi2ahM.jpg)
@@ -374,6 +386,28 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/aLIQO3q.jpg)
 - https://www.bilibili.com/video/BV1eS4y1372a?share_source=copy_web
 
+### Kanauru (https://www.youtube.com/user/kanauru):
+![screenshot](https://i.imgur.com/fo9h7YR.jpg)
+- Kanauru MV | CapSule - Mori Calliope x Hoshimachi Suisei -> https://youtu.be/4uss_EDzT_M
+
+![screenshot](https://i.imgur.com/TzekRQa.jpg)
+![screenshot](https://i.imgur.com/J5wRsE0.jpg)
+![screenshot](https://i.imgur.com/3ALDYo5.jpg)
+- Ninomae Ina'nis - VIOLET | Kanauru MV -> https://youtu.be/vpS0Or-PHqs
+
+![screenshot](https://i.imgur.com/SSMqmlR.jpg)
+- Suisei humming and playing Tetris at the train station -> https://youtu.be/qZn2qtov6Bo
+
+![screenshot](https://i.imgur.com/fyPlgr4.jpg)
+- Pastel Tea Time by Omaru Polka | Kanauru Dance -> https://youtu.be/fri5IKzKDf4
+
+![screenshot](https://i.imgur.com/nbZ69KC.jpg)
+![screenshot](https://i.imgur.com/BIjpGAp.jpg)
+![screenshot](https://i.imgur.com/9KcIdQD.jpg)
+![screenshot](https://i.imgur.com/vSvp02D.jpg)
+![screenshot](https://i.imgur.com/lmQWiMp.jpg)
+![screenshot](https://i.imgur.com/d0JkDTk.jpg)
+
 ### VirtuaReal Star - hanser (https://space.bilibili.com/11073)
 ![screenshot](https://i.imgur.com/vPlJSKP.jpg)
 ![screenshot](https://i.imgur.com/aCJQOt7.jpg)
@@ -420,32 +454,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 (you need to enter the link to the browser again in order to play it)
 - https://www.bilibili.com/video/BV1Ya411X7sZ?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
 - https://www.bilibili.com/video/BV1pN4y1V7KU?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
-
-### Kanauru (https://www.youtube.com/user/kanauru):
-
-![screenshot](https://i.imgur.com/vH3X61I.jpg)
-![screenshot](https://i.imgur.com/pXcQT0g.jpg)
-![screenshot](https://i.imgur.com/b6Elupz.jpg)
-![screenshot](https://i.imgur.com/6yR1Y0l.jpg)
-- Kureiji Ollie Boba Shop Rap MV | Avilon - Speed | Kanauru Original -> https://youtu.be/2CTSe6Q5-xI
-
-![screenshot](https://i.imgur.com/fo9h7YR.jpg)
-- Kanauru MV | CapSule - Mori Calliope x Hoshimachi Suisei -> https://youtu.be/4uss_EDzT_M
-
-![screenshot](https://i.imgur.com/TzekRQa.jpg)
-![screenshot](https://i.imgur.com/J5wRsE0.jpg)
-![screenshot](https://i.imgur.com/3ALDYo5.jpg)
-- Ninomae Ina'nis - VIOLET | Kanauru MV -> https://youtu.be/vpS0Or-PHqs
-
-![screenshot](https://i.imgur.com/SSMqmlR.jpg)
-- Suisei humming and playing Tetris at the train station -> https://youtu.be/qZn2qtov6Bo
-
-![screenshot](https://i.imgur.com/nbZ69KC.jpg)
-![screenshot](https://i.imgur.com/BIjpGAp.jpg)
-![screenshot](https://i.imgur.com/9KcIdQD.jpg)
-![screenshot](https://i.imgur.com/vSvp02D.jpg)
-![screenshot](https://i.imgur.com/lmQWiMp.jpg)
-![screenshot](https://i.imgur.com/d0JkDTk.jpg)
 
 # Other NiloToonURP's images (gallery)
 
