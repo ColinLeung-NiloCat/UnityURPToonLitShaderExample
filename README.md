@@ -166,6 +166,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【高清回放】泠鸢个人演唱会【时光标记】十周年纪念-高清全程回放 -> https://www.bilibili.com/video/BV1D24y1B7FA
 - 【泠鸢时光标记演唱会】 一镜到底4K纯享版】-> https://space.bilibili.com/434021034/channel/collectiondetail?sid=1082531
 
+### ISEGYE IDOL (이세계아이돌) - 비챤 VIichan (https://www.youtube.com/@viichan116)
+![screenshot](https://i.imgur.com/HUpf5p3.jpg)
+![screenshot](https://i.imgur.com/TCciYcn.jpg)
+![screenshot](https://i.imgur.com/feMsCFg.jpg)
+![screenshot](https://i.imgur.com/a2xB9Ts.jpg)
+- Tot Musica - Cover by 비챤 | MV Teaser -> https://youtu.be/OrXUERKzILg
+
 ### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
 ![screenshot](https://i.imgur.com/VXjRjME.jpg)
 ![screenshot](https://i.imgur.com/kJAV5MD.jpg)
