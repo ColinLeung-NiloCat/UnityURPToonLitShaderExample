@@ -173,6 +173,11 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/a2xB9Ts.jpg)
 - Tot Musica - Cover by 비챤 | MV Teaser -> https://youtu.be/OrXUERKzILg
 
+### 懶貓子 & 杏仁ミル
+![screenshot](https://i.imgur.com/xEHHKrE.jpg)
+![screenshot](https://i.imgur.com/OO7EeR1.jpg)
+- 【Cute Dance】一起跳了超可愛的體操！！ #shorts #さくゆいたいそう -> https://youtube.com/shorts/c4bXwAXbv1o?feature=share
+
 ### Rumi ch. 懶貓子 (https://youtu.be/Zlef92wDMnA):
 ![screenshot](https://i.imgur.com/VXjRjME.jpg)
 ![screenshot](https://i.imgur.com/kJAV5MD.jpg)
@@ -384,12 +389,9 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ![screenshot](https://i.imgur.com/v6Cxuru.jpg)
 ![screenshot](https://i.imgur.com/yD5SRt1.jpg)
-![screenshot](https://i.imgur.com/qEVtgI8.jpg)
 ![screenshot](https://i.imgur.com/w40M6v9.jpg)
 - https://www.bilibili.com/video/BV1eY411g78R?share_source=copy_web (you need to enter the link to the browser again in order to play it)
 
-![screenshot](https://i.imgur.com/WJXyInf.jpg)
-![screenshot](https://i.imgur.com/ASsqU7A.jpg)
 ![screenshot](https://i.imgur.com/aLIQO3q.jpg)
 - https://www.bilibili.com/video/BV1eS4y1372a?share_source=copy_web
 
@@ -407,6 +409,9 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ![screenshot](https://i.imgur.com/fyPlgr4.jpg)
 - Pastel Tea Time by Omaru Polka | Kanauru Dance -> https://youtu.be/fri5IKzKDf4
+
+![screenshot](https://i.imgur.com/wPxsf1G.jpg)
+- Mumei and Kronii walking in the rain -> https://youtube.com/shorts/X3kQZ85N-hE?feature=share
 
 ![screenshot](https://i.imgur.com/nbZ69KC.jpg)
 ![screenshot](https://i.imgur.com/BIjpGAp.jpg)
