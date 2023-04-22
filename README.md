@@ -166,6 +166,16 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【高清回放】泠鸢个人演唱会【时光标记】十周年纪念-高清全程回放 -> https://www.bilibili.com/video/BV1D24y1B7FA
 - 【泠鸢时光标记演唱会】 一镜到底4K纯享版】-> https://space.bilibili.com/434021034/channel/collectiondetail?sid=1082531
 
+### AIChannel中国绊爱 (https://space.bilibili.com/484322035)
+![screenshot](https://i.imgur.com/xEyCBXZ.jpg)
+![screenshot](https://i.imgur.com/cRAhEE4.jpg)
+![screenshot](https://i.imgur.com/6FZiC00.jpg)
+![screenshot](https://i.imgur.com/5gzCGpn.jpg)
+![screenshot](https://i.imgur.com/hhSrW74.jpg)
+![screenshot](https://i.imgur.com/Us8tEer.jpg)
+![screenshot](https://i.imgur.com/uAYhE8V.jpg)
+- 小 看 我 了 吧✨【BDF2023聚光】-> https://www.bilibili.com/video/BV1FL411Y7Zc
+
 ### ISEGYE IDOL (이세계아이돌) - 비챤 VIichan (https://www.youtube.com/@viichan116)
 ![screenshot](https://i.imgur.com/HUpf5p3.jpg)
 ![screenshot](https://i.imgur.com/TCciYcn.jpg)
