@@ -183,6 +183,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/a2xB9Ts.jpg)
 - Tot Musica - Cover by 비챤 | MV Teaser -> https://youtu.be/OrXUERKzILg
 
+![screenshot](https://i.imgur.com/UFVxyAp.jpg)
+![screenshot](https://i.imgur.com/6lS0bmP.jpg)
+![screenshot](https://i.imgur.com/AYJmxGD.jpg)
+![screenshot](https://i.imgur.com/v6UOoNf.jpg)
+![screenshot](https://i.imgur.com/qQQo47d.jpg)
+![screenshot](https://i.imgur.com/zURXH2G.jpg)
+- [MV] Tot Musica - Cover by 비챤 -> https://youtu.be/sP0E6y0gWxA
+
 ### 懶貓子 & 杏仁ミル
 ![screenshot](https://i.imgur.com/xEHHKrE.jpg)
 ![screenshot](https://i.imgur.com/OO7EeR1.jpg)
@@ -239,6 +247,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/nfSngMl.jpg)
 ![screenshot](https://i.imgur.com/MwkNyDt.jpg)
 - 【【国风原创曲】弹指醉｜精美歌舞MMD【穆小泠】】 -> https://www.bilibili.com/video/BV1WG4y1t7o1
+
+### VShojo Highlights (https://www.youtube.com/@VShojoHighlights)
+![screenshot](https://i.imgur.com/gPQc1Ls.jpg)
+![screenshot](https://i.imgur.com/91a36og.jpg)
+![screenshot](https://i.imgur.com/c8UJW1u.jpg)
+![screenshot](https://i.imgur.com/N6WRNiJ.jpg)
+![screenshot](https://i.imgur.com/VAyfegx.jpg)
+- Celebrating 2 Years of VShojo -> https://youtu.be/QxvTqRzwmW4
 
 ### 米亞 Mya (https://www.youtube.com/@mya./featured)
 ![screenshot](https://i.imgur.com/QzISOsI.jpg)
@@ -332,6 +348,10 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/b6Elupz.jpg)
 ![screenshot](https://i.imgur.com/6yR1Y0l.jpg)
 - Kureiji Ollie Boba Shop Rap MV | Avilon - Speed | Kanauru Original -> https://youtu.be/2CTSe6Q5-xI
+
+![screenshot](https://i.imgur.com/1x3NXLg.jpg)
+![screenshot](https://i.imgur.com/kfnccw6.jpg)
+- VSHOJO Mahou Idols - Nyanners Ironmouse Silvervale | VILLS -> https://youtu.be/-OultaM3TMg
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal):
 ![screenshot](https://i.imgur.com/GPi2ahM.jpg)
