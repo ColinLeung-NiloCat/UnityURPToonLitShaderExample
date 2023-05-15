@@ -22,6 +22,8 @@ shader ON
 ![screenshot](https://i.imgur.com/195Mzq7.jpg)
 shader OFF
 ![screenshot](https://i.imgur.com/zFk6dHl.jpg)
+Outline options(1/2/3)  
+![screenshot](https://i.imgur.com/Vkx0oN9.gif)
 ![screenshot](https://i.imgur.com/EIq6z9B.jpg)
 ![screenshot](https://i.imgur.com/wUrVD7n.jpg)
 ![screenshot](https://i.imgur.com/aP3YmYV.jpg)
@@ -917,4 +919,5 @@ model's creator in shader demo image/video:
 - 千反田える 3Dモデル(3ds Max) by @itou_nko - https://twitter.com/itou_nko (https://itou-nko.fanbox.cc/)
 - HoYoverse - Zenless Zone Zero - zenless.hoyoverse.com
 - アイドリープライド，IDOLY PRIDE - https://idolypride.jp/
+- Honkai: Star Rail - https://hsr.hoyoverse.com/
 
