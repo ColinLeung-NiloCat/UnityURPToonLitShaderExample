@@ -253,6 +253,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【崩坏学园2】「启晨之星」菲米莉丝印象曲 -> https://www.bilibili.com/video/BV1Z64y1b7BW?share_source=copy_web
 - 「始まりの星」 PV制作花絮 - 角色篇 -> https://www.bilibili.com/video/BV1kU4y1c7AG?share_source=copy_web
 
+### VSPO!(ぶいすぽっ！) - 八雲べに (https://www.youtube.com/@yakumo_beni)
+![screenshot](https://i.imgur.com/TpMR0Sa.jpg)
+![screenshot](https://i.imgur.com/2zWQ7pf.jpg)
+![screenshot](https://i.imgur.com/m74CdfV.jpg)
+![screenshot](https://i.imgur.com/eNPQhVi.jpg)
+![screenshot](https://i.imgur.com/ooIHqsB.jpg)
+- 【#八雲べに3D】ついにキタ！耐えろYouTube！【ぶいすぽ/八雲べに】 -> https://www.youtube.com/live/WZ2zvy_gxtM?feature=share
+
 ### 懶貓子 & 杏仁ミル
 ![screenshot](https://i.imgur.com/xEHHKrE.jpg)
 ![screenshot](https://i.imgur.com/OO7EeR1.jpg)
@@ -311,6 +319,11 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【【国风原创曲】弹指醉｜精美歌舞MMD【穆小泠】】 -> https://www.bilibili.com/video/BV1WG4y1t7o1
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
+![screenshot](https://i.imgur.com/iVbJHQo.jpg)
+![screenshot](https://i.imgur.com/x8WdatG.jpg)
+![screenshot](https://i.imgur.com/OUXsMzI.jpg)
+- Hoshimachi Suisei - TRUE GIRL SHOW | Kanauru PV -> https://youtu.be/FhtabnK3kso
+
 ![screenshot](https://i.imgur.com/7TRdfHh.jpg)
 - Takane Lui - Overd ( オーバード ) | Kanauru Dance -> https://youtu.be/9qHbGbK8YnU
 
