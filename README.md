@@ -165,6 +165,23 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/LtziYj5.jpg)
 - 感谢300关注 跳个舞 -> https://www.bilibili.com/video/BV1CR4y1j7bY?share_source=copy_web
 
+### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
+![screenshot](https://i.imgur.com/4LV7Sv3.jpg)
+![screenshot](https://i.imgur.com/NfBeCOG.jpg)
+![screenshot](https://i.imgur.com/2JPu8AB.jpg)
+![screenshot](https://i.imgur.com/PBRMIDn.jpg)
+![screenshot](https://i.imgur.com/cWntQRN.jpg)
+![screenshot](https://i.imgur.com/RUUPu2E.jpg)
+![screenshot](https://i.imgur.com/9KeaeqO.jpg)
+![screenshot](https://i.imgur.com/BqvLFq4.jpg)
+![screenshot](https://i.imgur.com/ZDh6cpT.jpg)
+![screenshot](https://i.imgur.com/8wJCcs3.jpg)
+![screenshot](https://i.imgur.com/m1X2Odj.jpg)
+![screenshot](https://i.imgur.com/y1BvqRe.jpg)
+![screenshot](https://i.imgur.com/CET2UlW.jpg)
+![screenshot](https://i.imgur.com/IAEDyfl.jpg)
+- 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」【#ぶいすぽ３D】-> https://www.youtube.com/live/9GaGcoDiULw?feature=share
+
 ### hololive - Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
 ![screenshot](https://i.imgur.com/qjVT4M7.jpg)
 ![screenshot](https://i.imgur.com/i050aGy.jpg)
@@ -235,13 +252,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/9sV2qkn.jpg)
 ![screenshot](https://i.imgur.com/biEL7ZZ.jpg)
 - VirtuaReal 夏日合唱(2022) -> https://www.bilibili.com/festival/VRSummerSuper
-
-### VSPO!(ぶいすぽっ！) - 英リサ.Hanabusa Lisa (https://www.youtube.com/@lisahanabusa)
-![screenshot](https://i.imgur.com/ZM8qq51.jpg)
-![screenshot](https://i.imgur.com/d0gEvDD.jpg)
-![screenshot](https://i.imgur.com/tRrRM9G.jpg)
-![screenshot](https://i.imgur.com/f7jFXrL.jpg)
-- 【#英リサ3Dお披露目】3次元、お邪魔します【ぶいすぽっ！/英リサ】 -> https://www.youtube.com/live/ey9KCNzSALQ?feature=share
 
 ### ISEGYE IDOL (이세계아이돌) - 비챤 VIichan (https://www.youtube.com/@viichan116)
 ![screenshot](https://i.imgur.com/HUpf5p3.jpg)
@@ -329,7 +339,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/7TRdfHh.jpg)
 - Takane Lui - Overd ( オーバード ) | Kanauru Dance -> https://youtu.be/9qHbGbK8YnU
 
-![screenshot](https://i.imgur.com/xQOdZz8.jpg)
 ![screenshot](https://i.imgur.com/cvEciNf.jpg)
 ![screenshot](https://i.imgur.com/kfZocG4.jpg)
 ![screenshot](https://i.imgur.com/nMlQRiU.jpg)
@@ -360,6 +369,18 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/VAyfegx.jpg)
 - Celebrating 2 Years of VShojo -> https://youtu.be/QxvTqRzwmW4
 
+### Kanauru (https://www.youtube.com/user/kanauru):
+![screenshot](https://i.imgur.com/fo9h7YR.jpg)
+- Kanauru MV | CapSule - Mori Calliope x Hoshimachi Suisei -> https://youtu.be/4uss_EDzT_M
+
+![screenshot](https://i.imgur.com/TzekRQa.jpg)
+![screenshot](https://i.imgur.com/J5wRsE0.jpg)
+![screenshot](https://i.imgur.com/3ALDYo5.jpg)
+- Ninomae Ina'nis - VIOLET | Kanauru MV -> https://youtu.be/vpS0Or-PHqs
+
+![screenshot](https://i.imgur.com/SSMqmlR.jpg)
+- Suisei humming and playing Tetris at the train station -> https://youtu.be/qZn2qtov6Bo
+
 ### 米亞 Mya (https://www.youtube.com/@mya./featured)
 ![screenshot](https://i.imgur.com/QzISOsI.jpg)
 ![screenshot](https://i.imgur.com/P4ErH0x.png)
@@ -371,9 +392,15 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 🔴讀觀眾投稿的爛GAG…笑場即懲罰?!🎃 -> https://youtu.be/-p4KDJC9Xeg
 - 🔴週年活動來入坑！玩玩彈射世界🐼＜有好多免費抽抽喔...我能抽到好東西嗎✨！ -> https://youtu.be/z3pQR7wgCdc
 
+### VSPO!(ぶいすぽっ！) - 英リサ.Hanabusa Lisa (https://www.youtube.com/@lisahanabusa)
+![screenshot](https://i.imgur.com/ZM8qq51.jpg)
+![screenshot](https://i.imgur.com/d0gEvDD.jpg)
+![screenshot](https://i.imgur.com/tRrRM9G.jpg)
+![screenshot](https://i.imgur.com/f7jFXrL.jpg)
+- 【#英リサ3Dお披露目】3次元、お邪魔します【ぶいすぽっ！/英リサ】 -> https://www.youtube.com/live/ey9KCNzSALQ?feature=share
+
 ### VSPO!(ぶいすぽっ！) - 胡桃のあ (https://www.youtube.com/@963Noah)
 ![screenshot](https://i.imgur.com/xdTiGo8.jpg)
-![screenshot](https://i.imgur.com/wwySi6u.jpg)
 ![screenshot](https://i.imgur.com/4WPOKJS.jpg)
 ![screenshot](https://i.imgur.com/A8PKDEx.jpg)
 - #胡桃のあ3D✨あざとい女は3Dになってもあざといのか❓ -> https://www.youtube.com/live/ZpAJBxTsuTE?feature=share
@@ -474,17 +501,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1eS4y1372a?share_source=copy_web
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
-![screenshot](https://i.imgur.com/fo9h7YR.jpg)
-- Kanauru MV | CapSule - Mori Calliope x Hoshimachi Suisei -> https://youtu.be/4uss_EDzT_M
-
-![screenshot](https://i.imgur.com/TzekRQa.jpg)
-![screenshot](https://i.imgur.com/J5wRsE0.jpg)
-![screenshot](https://i.imgur.com/3ALDYo5.jpg)
-- Ninomae Ina'nis - VIOLET | Kanauru MV -> https://youtu.be/vpS0Or-PHqs
-
-![screenshot](https://i.imgur.com/SSMqmlR.jpg)
-- Suisei humming and playing Tetris at the train station -> https://youtu.be/qZn2qtov6Bo
-
 ![screenshot](https://i.imgur.com/fyPlgr4.jpg)
 - Pastel Tea Time by Omaru Polka | Kanauru Dance -> https://youtu.be/fri5IKzKDf4
 
