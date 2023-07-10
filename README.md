@@ -182,6 +182,21 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/IAEDyfl.jpg)
 - 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」【#ぶいすぽ３D】-> https://www.youtube.com/live/9GaGcoDiULw?feature=share
 
+### hololive ホロライブ - VTuber Group (https://www.youtube.com/@hololive)
+![screenshot](https://i.imgur.com/Qrexl3d.jpg)
+![screenshot](https://i.imgur.com/BnvXUik.jpg)
+![screenshot](https://i.imgur.com/JGOzDqK.jpg)
+![screenshot](https://i.imgur.com/OOqILCu.jpg)
+![screenshot](https://i.imgur.com/ngu3bM3.jpg)
+![screenshot](https://i.imgur.com/txbqSyH.jpg)
+![screenshot](https://i.imgur.com/Io4Mjcf.jpg)
+![screenshot](https://i.imgur.com/oMlV5Kk.jpg)
+![screenshot](https://i.imgur.com/qyxZXew.jpg)
+![screenshot](https://i.imgur.com/eFNnSlt.jpg)
+![screenshot](https://i.imgur.com/riHY7nk.jpg)
+![screenshot](https://i.imgur.com/nZiNMOL.jpg)
+- 『ホロライブ・サマー2023 3DLIVE Splash Party!』ティザーPV【#hololivesummer2023】-> https://youtu.be/8aKFN2YbGLQ
+
 ### hololive - Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
 ![screenshot](https://i.imgur.com/qjVT4M7.jpg)
 ![screenshot](https://i.imgur.com/i050aGy.jpg)
