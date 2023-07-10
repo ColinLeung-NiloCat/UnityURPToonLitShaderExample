@@ -203,6 +203,17 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/OUXsMzI.jpg)
 - Hoshimachi Suisei - TRUE GIRL SHOW | Kanauru PV -> https://youtu.be/FhtabnK3kso
 
+### Moona Hoshinova hololive-ID (https://www.youtube.com/@MoonaHoshinova):
+![screenshot](https://i.imgur.com/CJGhfxo.jpg)
+![screenshot](https://i.imgur.com/F5vRtLR.jpg)
+![screenshot](https://i.imgur.com/vJjAac3.jpg)
+![screenshot](https://i.imgur.com/LGWJVnc.jpg)
+![screenshot](https://i.imgur.com/DuxCEVM.jpg)
+![screenshot](https://i.imgur.com/5PtoW1R.jpg)
+![screenshot](https://i.imgur.com/cCxz82L.jpg)
+![screenshot](https://i.imgur.com/skcjPAy.jpg)
+- 【Original Song】Who’s Toxic ? It’s You! - Moona Hoshinova【3DMV】-> https://youtu.be/PFoGNZ05CJw
+
 ### AIChannel中国绊爱 (https://space.bilibili.com/484322035)
 ![screenshot](https://i.imgur.com/xEyCBXZ.jpg)
 ![screenshot](https://i.imgur.com/cRAhEE4.jpg)
