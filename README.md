@@ -22,9 +22,10 @@ shader ON
 ![screenshot](https://i.imgur.com/195Mzq7.jpg)
 shader OFF
 ![screenshot](https://i.imgur.com/zFk6dHl.jpg)
+
+![screenshot](https://i.imgur.com/EIq6z9B.jpg)
 Outline options(1/2/3)  
 ![screenshot](https://i.imgur.com/Vkx0oN9.gif)
-![screenshot](https://i.imgur.com/EIq6z9B.jpg)
 ![screenshot](https://i.imgur.com/wUrVD7n.jpg)
 ![screenshot](https://i.imgur.com/aP3YmYV.jpg)
 ![screenshot](https://i.imgur.com/qZWo4wN.jpg)
@@ -93,14 +94,17 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/bEjNiOj.jpg)
 - 【原神生日会】When The Stars Align -> https://www.bilibili.com/video/BV1vT411T79n
 
-### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
-![screenshot](https://i.imgur.com/3uQmdm9.jpg)
-![screenshot](https://i.imgur.com/FpGxHDL.jpg)
-![screenshot](https://i.imgur.com/GsOj7iO.jpg)
-![screenshot](https://i.imgur.com/iG0KCMX.jpg)
-![screenshot](https://i.imgur.com/UH6y3yb.jpg)
-![screenshot](https://i.imgur.com/sMX9DJq.jpg)
-- 【協力脱出】ぶいすぽデスゲーム【#ぶいすぽ３D】 -> https://www.youtube.com/live/nMTQyZ70TCQ?feature=share
+### VSPO!(ぶいすぽっ！) - 花芽すみれ (https://www.youtube.com/@KagaSumire)
+![screenshot](https://i.imgur.com/zk7AsTW.jpg)
+![screenshot](https://i.imgur.com/Asq0arH.jpg)
+![screenshot](https://i.imgur.com/GeX49uo.jpg)
+![screenshot](https://i.imgur.com/kLlSAgm.jpg)
+![screenshot](https://i.imgur.com/kCPEPt0.jpg)
+![screenshot](https://i.imgur.com/bSb3PY6.jpg)
+![screenshot](https://i.imgur.com/pLPpfKY.jpg)
+![screenshot](https://i.imgur.com/LV0zGNF.jpg)
+![screenshot](https://i.imgur.com/h9PCXAh.jpg)
+- #花芽すみれ3D うおおおおお！！【 ぶいすぽ / 花芽すみれ 】 -> https://www.youtube.com/live/g-bN6gisi3g?feature=share
 
 ### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/Y5ZqAQR.jpg)
@@ -115,18 +119,22 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/7Cab1UP.jpg)
 - 《我的故事未写完》【原创曲-泠鸢词曲】-> https://www.bilibili.com/video/BV1JG4y1W7ub?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
 
-### VSPO!(ぶいすぽっ！) - 花芽すみれ (https://www.youtube.com/@KagaSumire)
-![screenshot](https://i.imgur.com/UYSliHq.jpg)
-![screenshot](https://i.imgur.com/zk7AsTW.jpg)
-![screenshot](https://i.imgur.com/Asq0arH.jpg)
-![screenshot](https://i.imgur.com/GeX49uo.jpg)
-![screenshot](https://i.imgur.com/kLlSAgm.jpg)
-![screenshot](https://i.imgur.com/kCPEPt0.jpg)
-![screenshot](https://i.imgur.com/bSb3PY6.jpg)
-![screenshot](https://i.imgur.com/pLPpfKY.jpg)
-![screenshot](https://i.imgur.com/LV0zGNF.jpg)
-![screenshot](https://i.imgur.com/h9PCXAh.jpg)
-- #花芽すみれ3D うおおおおお！！【 ぶいすぽ / 花芽すみれ 】 -> https://www.youtube.com/live/g-bN6gisi3g?feature=share
+### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
+![screenshot](https://i.imgur.com/4LV7Sv3.jpg)
+![screenshot](https://i.imgur.com/NfBeCOG.jpg)
+![screenshot](https://i.imgur.com/2JPu8AB.jpg)
+![screenshot](https://i.imgur.com/PBRMIDn.jpg)
+![screenshot](https://i.imgur.com/cWntQRN.jpg)
+![screenshot](https://i.imgur.com/RUUPu2E.jpg)
+![screenshot](https://i.imgur.com/9KeaeqO.jpg)
+![screenshot](https://i.imgur.com/BqvLFq4.jpg)
+![screenshot](https://i.imgur.com/ZDh6cpT.jpg)
+![screenshot](https://i.imgur.com/8wJCcs3.jpg)
+![screenshot](https://i.imgur.com/m1X2Odj.jpg)
+![screenshot](https://i.imgur.com/y1BvqRe.jpg)
+![screenshot](https://i.imgur.com/CET2UlW.jpg)
+![screenshot](https://i.imgur.com/IAEDyfl.jpg)
+- 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」【#ぶいすぽ３D】-> https://www.youtube.com/live/9GaGcoDiULw?feature=share
 
 ### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
 ![screenshot](https://i.imgur.com/Tp29cyb.jpg)
@@ -166,21 +174,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 感谢300关注 跳个舞 -> https://www.bilibili.com/video/BV1CR4y1j7bY?share_source=copy_web
 
 ### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
-![screenshot](https://i.imgur.com/4LV7Sv3.jpg)
-![screenshot](https://i.imgur.com/NfBeCOG.jpg)
-![screenshot](https://i.imgur.com/2JPu8AB.jpg)
-![screenshot](https://i.imgur.com/PBRMIDn.jpg)
-![screenshot](https://i.imgur.com/cWntQRN.jpg)
-![screenshot](https://i.imgur.com/RUUPu2E.jpg)
-![screenshot](https://i.imgur.com/9KeaeqO.jpg)
-![screenshot](https://i.imgur.com/BqvLFq4.jpg)
-![screenshot](https://i.imgur.com/ZDh6cpT.jpg)
-![screenshot](https://i.imgur.com/8wJCcs3.jpg)
-![screenshot](https://i.imgur.com/m1X2Odj.jpg)
-![screenshot](https://i.imgur.com/y1BvqRe.jpg)
-![screenshot](https://i.imgur.com/CET2UlW.jpg)
-![screenshot](https://i.imgur.com/IAEDyfl.jpg)
-- 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」【#ぶいすぽ３D】-> https://www.youtube.com/live/9GaGcoDiULw?feature=share
+![screenshot](https://i.imgur.com/3uQmdm9.jpg)
+![screenshot](https://i.imgur.com/FpGxHDL.jpg)
+![screenshot](https://i.imgur.com/GsOj7iO.jpg)
+![screenshot](https://i.imgur.com/iG0KCMX.jpg)
+![screenshot](https://i.imgur.com/UH6y3yb.jpg)
+![screenshot](https://i.imgur.com/sMX9DJq.jpg)
+- 【協力脱出】ぶいすぽデスゲーム【#ぶいすぽ３D】 -> https://www.youtube.com/live/nMTQyZ70TCQ?feature=share
 
 ### hololive ホロライブ - VTuber Group (https://www.youtube.com/@hololive)
 ![screenshot](https://i.imgur.com/Qrexl3d.jpg)
@@ -196,6 +196,20 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/riHY7nk.jpg)
 ![screenshot](https://i.imgur.com/nZiNMOL.jpg)
 - 『ホロライブ・サマー2023 3DLIVE Splash Party!』ティザーPV【#hololivesummer2023】-> https://youtu.be/8aKFN2YbGLQ
+
+### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
+![screenshot](https://i.imgur.com/gbCCiSL.jpg)
+![screenshot](https://i.imgur.com/OQk9nOn.jpg)
+![screenshot](https://i.imgur.com/3HcUwDK.jpg)
+![screenshot](https://i.imgur.com/V1FPVDM.jpg)
+![screenshot](https://i.imgur.com/7JGTBzZ.jpg)
+![screenshot](https://i.imgur.com/hEwWEhA.jpg)
+![screenshot](https://i.imgur.com/iOmmMpW.jpg)
+![screenshot](https://i.imgur.com/sm316MD.jpg)
+![screenshot](https://i.imgur.com/DGiiKKK.jpg)
+![screenshot](https://i.imgur.com/uM0JEzg.jpg)
+![screenshot](https://i.imgur.com/y3yRORf.jpg)
+- 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」第２弾【#ぶいすぽ３D】-> https://www.youtube.com/live/97_o-WI4ihc?feature=share
 
 ### hololive - Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
 ![screenshot](https://i.imgur.com/qjVT4M7.jpg)
@@ -602,7 +616,6 @@ shader OFF
 ![screenshot](https://i.imgur.com/183MzTr.jpg)
 ![screenshot](https://i.imgur.com/fXgArpo.jpg)
 ![screenshot](https://i.imgur.com/1F9GxjT.jpg)
-![screenshot](https://i.imgur.com/ndXKvjt.jpg)
 ![screenshot](https://i.imgur.com/wXNlCNq.jpg)
 ![screenshot](https://i.imgur.com/Pbs5LAf.jpg)
 ![screenshot](https://i.imgur.com/4J2AExL.jpg)
@@ -633,29 +646,16 @@ shader OFF
 ![screenshot](https://i.imgur.com/BMyOEl9.png)
 ![screenshot](https://i.imgur.com/JF4iDhM.png)
 ![screenshot](https://i.imgur.com/Rtft0od.png)
-![screenshot](https://i.imgur.com/EMRp14N.png)
-![screenshot](https://i.imgur.com/sN5n9bc.png)
-![screenshot](https://i.imgur.com/qlNMncE.png)
-![screenshot](https://i.imgur.com/HuOMLYn.png)
 ![screenshot](https://i.imgur.com/xptIKZy.png)
 ![screenshot](https://i.imgur.com/f8EEr3o.png)
-![screenshot](https://i.imgur.com/5F5x82u.png)
-![screenshot](https://i.imgur.com/azlQ8KO.png)
-![screenshot](https://i.imgur.com/LUwoSiY.png)
-![screenshot](https://i.imgur.com/rGBAu13.png)
-![screenshot](https://i.imgur.com/GTfwbV0.png)
 ![screenshot](https://i.imgur.com/nFPy1KS.png)
 ![screenshot](https://i.imgur.com/sBpX10Y.png)
 ![screenshot](https://i.imgur.com/EyiMbKP.png)
 ![screenshot](https://i.imgur.com/McKrRYW.png)
-![screenshot](https://i.imgur.com/4WWkujV.png)
 ![screenshot](https://i.imgur.com/DaRpLLX.png)
 ![screenshot](https://i.imgur.com/N02piW3.jpg)
-![screenshot](https://i.imgur.com/AYxixBx.jpg)
-![screenshot](https://i.imgur.com/iWPa7aN.jpg)
 
 -------------------
-
 
 SHADER ON
 ![screenshot](https://i.imgur.com/utXF8Qq.png)
@@ -834,25 +834,22 @@ AFTER
 ![screenshot](https://i.imgur.com/GvxXtva.png)
 
 
-
-
-
-What is included in this "simplified version" toon lit shader repository?
+What is included in this simplified tutorial example toon-lit shader repository?
 -------------------
-This repository contains a very simple toon lit shader example, to help people writing their first custom toon lit shader in URP.
+This repository only contains a very simple toon-lit URP tutorial shader example, to help people write their first custom toon-lit shader in URP.
 
 This example shader's default result(without editing material params) = the following picture
 ![screenshot](https://i.imgur.com/mbUnvsA.png)
 
-Because this example toon lit shader aims to help people learning shader writing in URP, it is an extremely simplified version of the full version one. This repository only contains ~10% of the full version shader, which only contains the most useful & easy to understand sections, to make sure everyone can understand the shader code easily.
+Because this example toon lit shader aims to help people learn shader writing in URP, it is an extremely simplified version. This repository only contains ~3% of the NiloToonURP(full version)'s code, which only contains the most basic & easily understandable sections, to make sure everyone can understand the shader code easily.
 
-It is actually a "How to write your first custom lit shader in URP" example, instead of a good-looking toon lit shader example (lots of toon lit tricks are not included in this example shader, for tutorial reason).
+It is actually a "How to write your first custom toon-lit shader in URP?" example, instead of a good-looking toon-lit shader (lots of toon-lit tricks are not included in this example shader, for tutorial reasons).
 
-Why creating this "simplified version" toon lit shader?
+Why create this "simplified version" toon lit shader?
 -------------------
-Lots of my shader friends are looking for a toon lit example shader in URP (not Shader Graph), I want them to switch to URP with me (instead of still staying in built-in RP), so I decided to provide a simple enough URP toon lit shader example. 
+Lots of my shader friends are looking for a toon-lit example shader in URP (not Shader Graph), I want them to switch to URP(instead of still staying in built-in RP), so I decided to provide a simple enough URP toon-lit shader example in URP. 
 
-How to try this simplified toon lit example shader in my URP project?
+How to try this simplified toon-lit example shader in my URP project?
 -------------------
 1. Clone all .shader & .hlsl files into your URP project.
 2. Put these files inside the same folder.
@@ -860,13 +857,13 @@ How to try this simplified toon lit example shader in my URP project?
 4. make sure at least _BaseMap(albedo) is assigned
 5. setup DONE, you can now test your character with light probe/directional light/point light/spot light
 6. edit the material properties to see how the render result changes
-7. Most important: open these shader files, spend some time reading them, you will understand how to write custom lit shader in URP very quickly
-8. Most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, experiment with your own toon lighting equation ideas, which is the key part of toon lit shader!
+7. Most important: open these shader files, and spend some time reading them, you will understand how to write custom lit shaders in URP very quickly
+8. Most important: open "SimpleURPToonLitOutlineExample_LightingEquation.hlsl", edit it, and experiment with your own toon lighting equation ideas, which is the key part of toon lit shader!
 
 I see the shader is working now, but the outline is broken?
 -------------------
-For this tutorial shader, you can let Unity to calculate smooth normal for you, which can produce better outline, 
-but doing this will make lighting slightly incorrect.
+For this tutorial shader, you can let Unity calculate smoothed normal for you, which can produce a better outline, 
+but doing this will make the lighting slightly incorrect.
 
 1. click your character's .fbx
 2. In the model tab
@@ -874,55 +871,57 @@ but doing this will make lighting slightly incorrect.
 4. edit "Smoothing Angle" to 180  
   
 ![screenshot](https://i.imgur.com/yxDkeGP.png)  
-before calculate smooth normal (printscreen of tutorial shader, not NiloToonURP)  
+before calculating smooth normal (print screen of the tutorial shader, not NiloToonURP)  
 ![screenshot](https://i.imgur.com/uTJ3gxB.png)  
-after calculate smooth normal  (printscreen of tutorial shader, not NiloToonURP)
+after calculating smooth normal  (print screen of the tutorial shader, not NiloToonURP)
 ![screenshot](https://i.imgur.com/9Jnnigf.png)
 
-*NiloToonURP contains a few editor C# scripts, which can help the shader to produce correct lighting and perfect outline together.
+*NiloToonURP(full version) contains a few editor C# scripts, which can help the shader to produce correct lighting and perfect outline together automatically.
 
-What is NOT included in this simplified example shader?
+What is NOT included in this simplified tutorial shader?
 -------------------
-For simplicity reason, I removed most of the features from the NiloToonURP (deleted 90% of the original shader), else this example shader will be way too complex for reading & learning. The removed features are:
+For simplicity reasons, most of the features from the NiloToonURP(full version) are removed, or else for beginners, this simple tutorial example shader will be way too complex for reading & learning. Some of the removed features are:
 - face anime lighting (auto-fix face ugly lighting due to vertex normal without modifying .fbx, very important)
-- smooth outline normal auto baking (fix ugly outlines without modifying .fbx once you attach a script on character, very important)
-- auto 2D hair shadow on face (very important, it is very difficult to produce good looking shadow result using shadowmap)
-- sharp const width rim light (Blue Protocol / Genshin Impact)
-- tricks to render eye/eyebrow over hair
-- hair "angel ring" reflection
+- smooth outline normal auto baking (auto-fix ugly outlines without modifying .fbx and lighting normal, very important)
+- auto 2D hair shadow on the face (very important, it is very difficult to produce good-looking shadow results on the face using URP's shadow map)
+- constant width rim light (similar to the method of Blue Protocol / Genshin Impact)
+- tricks to render eye/eyebrow over hair (ZOffset, stencil, and renderer redraw helpers)
 - PBR specular lighting (GGX)
-- HSV control shadow & outline color
-- 2D mouth renderer
-- almost all the extra texture input options like roughness, specular, normal map, detail map...
-- LOTS of sliders to control lighting, final color & outline
-- per character "dither fadeinout / rim light / tint / lerp..." control script
-- volume override control of global "dither fadeinout / rim light / tint / lerp..."
-- anime postprocessing
-- auto phong tessellation
-- perspective removal per character 
-- ***just too much for me to write all removed feature here, the full / lite version shader is a totally different level product
+- all kinds of MatCap features(additive/multiply/shadow/replace...)
+- "HSV,tint,texture tint,texture override" shadow & outline color control
+- almost all the extra texture input options like roughness, specular, normal map, detail map, parallax, occlusion, emission...
+- LOTS of sliders to control lighting style, shadow color, final color, outline, rim light...
+- per character "dither fade inout / rim light / color control / extra outline / dissolve /  ..." control script
+- volume override control of global "rim light / shadow / color control..."
+- special bloom post-process volume that can control the param of character/non-character area separately. Usually to prevent character over-bloom, or make the character emitting bloom on allowed areas only
+- anime postprocessing volume
+- shadow control volume
+- perspective removal per character, to avoid character's 3D distorted by high FOV camera
+- shader stripping editor script, to keep runtime shader memory usage and build time lower
+- (lots of other features)
+* just too much for me to write all the removed features here, the NiloToonURP(full version) and this simple tutorial shader example are two totally different products already
 
 How to get a test character model?
 -------------------
-The easiest way to get a character model is by downloading Unity-Chan in the assetstore.
+The easiest way to get a character model is by downloading Unity-Chan in the Unity AssetStore.
 
-Also, here are some websites that can download models(If the creator allows it)
+Also, here are some websites where you can download models(If the creator allows it)
 - https://3d.nicovideo.jp/
 - https://hub.vroid.com/
 
 if you downloaded a .pmx file, use MMD4Mecanim to convert it to .fbx & prefab directly inside unity
 http://stereoarts.jp/
 
-if you downloaded a .vrm file, use UniVRM to convert it to .fbx & prefab directly inside unity
+if you downloaded a .vrm file, use UniVRM to convert it to prefab directly inside Unity
 https://github.com/vrm-c/UniVRM
 
 Editor environment requirement
 -----------------------
-- URP 10.3.2
-- Unity 2020.3
+- URP 12
+- Unity 2021.3
 
 ---------------------------
-Apply our shader to another model (2020-2 early version screen shots)
+Apply our shader to another model (2020-2 early version screenshots)
 https://youtu.be/uVI_QOioER4
 
 ![screenshot](https://i.imgur.com/LBTNZCH.png)
@@ -932,7 +931,7 @@ https://youtu.be/uVI_QOioER4
 ![screenshot](https://i.imgur.com/WpkJyFB.png)
 ![screenshot](https://i.imgur.com/3iyu3eG.png)
 
-More old screenshots from the Full version shader(not yet released):
+More old screenshots from the Full version shader:
 ---
 
 ![screenshot](https://i.imgur.com/DDr32Mu.png)
