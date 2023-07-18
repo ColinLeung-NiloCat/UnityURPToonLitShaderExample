@@ -38,6 +38,7 @@ shader OFF
 ![screenshot](https://i.imgur.com/UyXuss9.jpg)
 ![screenshot](https://i.imgur.com/tduYcFM.jpg)
 ![screenshot](https://i.imgur.com/UbtyddV.jpg)
+![screenshot](https://i.imgur.com/gMk6h66.jpg)
 
 We are now developing an "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
 to meet the toon shading needs of Unity URP user.  
@@ -994,4 +995,5 @@ model's creator in shader demo image/video:
 - HoYoverse - Zenless Zone Zero - zenless.hoyoverse.com
 - アイドリープライド，IDOLY PRIDE - https://idolypride.jp/
 - Honkai: Star Rail - https://hsr.hoyoverse.com/
+- Girls Frontline 2 Exilium
 
