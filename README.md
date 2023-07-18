@@ -401,6 +401,17 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/kfnccw6.jpg)
 - VSHOJO Mahou Idols - Nyanners Ironmouse Silvervale | VILLS -> https://youtu.be/-OultaM3TMg
 
+### Warudo on Steam(supporting NiloToonURP) (https://store.steampowered.com/app/2079120/Warudo/)
+![screenshot](https://i.imgur.com/CLq5tte.jpg)
+![screenshot](https://i.imgur.com/weIU8Ua.jpg)
+![screenshot](https://i.imgur.com/9Zzfmd5.jpg)
+![screenshot](https://i.imgur.com/aM2foCp.jpg)
+![screenshot](https://i.imgur.com/OZRHUaO.jpg)
+![screenshot](https://i.imgur.com/XVT386s.jpg)
+![screenshot](https://i.imgur.com/Rq3uqR8.jpg)
+![screenshot](https://i.imgur.com/njJBhHV.jpg)
+- 【超高可玩性！全新3D虚拟主播软件【Warudo】】-> https://www.bilibili.com/video/BV198411D7Ui/?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
+
 ### VShojo Highlights (https://www.youtube.com/@VShojoHighlights)
 ![screenshot](https://i.imgur.com/gPQc1Ls.jpg)
 ![screenshot](https://i.imgur.com/91a36og.jpg)
