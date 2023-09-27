@@ -429,7 +429,7 @@ half4 ShadeFinalColor(Varyings input) : SV_TARGET
 }
 
 //////////////////////////////////////////////////////////////////////////////////////////
-// fragment shared functions (for ShadowCaster pass & DepthOnly pass to use only)
+// fragment shared functions (for ShadowCaster, DepthOnly, DepthNormalsOnly pass to use only)
 //////////////////////////////////////////////////////////////////////////////////////////
 
 // copy and edit of ShadowCasterPass.hlsl

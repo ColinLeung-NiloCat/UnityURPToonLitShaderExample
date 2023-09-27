@@ -7,11 +7,11 @@ You can use this shader as a starting point, add/edit code to develop your own c
 Usually, just by editing "SimpleURPToonLitOutlineExample_LightingEquation.hlsl" alone can control most of the visual result.
 
 This shader includes 5 passes:
-0.ForwardLit    pass    (this pass will always render to the _CameraColorAttachment* & _CameraDepthAttachment*)
-1.Outline       pass    (this pass will always render to the _CameraColorAttachment* & _CameraDepthAttachment*)
-2.ShadowCaster  pass    (only for URP's shadow caster rendering, render to the _MainLightShadowmapTexture* and _AdditionalLightsShadowmapTexture*. This pass won't render at all if your character don't cast shadow)
-3.DepthOnly     pass    (only for URP's _CameraDepthTexture's rendering. This pass won't render at all if your project don't render URP's offscreen depth prepass)
-4.DepthNormals  pass    (only for URP's _CameraDepthTexture + _CameraNormalsTexture's rendering. This pass won't render at all if your project don't render URP's offscreen depth+normal prepass)
+0.UniversalForwardOnly  pass    (this pass will always render to the _CameraColorAttachment* & _CameraDepthAttachment*)
+1.Outline               pass    (this pass will always render to the _CameraColorAttachment* & _CameraDepthAttachment*)
+2.ShadowCaster          pass    (only for URP's shadow caster rendering, render to the _MainLightShadowmapTexture* and _AdditionalLightsShadowmapTexture*. This pass won't render at all if your character don't cast shadow)
+3.DepthOnly             pass    (only for URP's _CameraDepthTexture's rendering. This pass won't render at all if your project don't render URP's offscreen depth prepass)
+4.DepthNormalsOnly      pass    (only for URP's _CameraDepthTexture + _CameraNormalsTexture's rendering. This pass won't render at all if your project don't render URP's offscreen depth+normal prepass)
 
 - Because most of the time, you use this toon lit shader for unique dynamic characters, so all lightmap related code are removed for simplicity.
 - For batching, we only rely on SRP batching, which is the most practical batching method in URP for rendering lots of unique animated SkinnedMeshRenderer characters using the same shader
