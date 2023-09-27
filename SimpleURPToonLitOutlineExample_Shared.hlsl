@@ -50,6 +50,9 @@ struct Attributes
     half3 normalOS      : NORMAL;
     half4 tangentOS     : TANGENT;
     float2 uv           : TEXCOORD0;
+
+    // to support GPU instancing and Single Pass Stereo rendering(VR), add the following section
+    UNITY_VERTEX_INPUT_INSTANCE_ID      // For non PSSL, equals to -> uint instanceID : SV_InstanceID;
 };
 
 // all pass will share this Varyings struct (define data needed from our vertex shader to our fragment shader)
@@ -59,6 +62,10 @@ struct Varyings
     float4 positionWSAndFogFactor   : TEXCOORD1; // xyz: positionWS, w: vertex fog factor
     half3 normalWS                  : TEXCOORD2;
     float4 positionCS               : SV_POSITION;
+
+    // to support GPU instancing and Single Pass Stereo rendering(VR), add the following section
+    UNITY_VERTEX_INPUT_INSTANCE_ID  // For non PSSL, equals to -> uint instanceID : SV_InstanceID;
+    UNITY_VERTEX_OUTPUT_STEREO      // For non OpenGL and non PSSL, equals to -> uint stereoTargetEyeIndexAsRTArrayIdx : SV_RenderTargetArrayIndex; (when UNITY_STEREO_INSTANCING_ENABLED)
 };
 
 ///////////////////////////////////////////////////////////////////////////////////////
@@ -145,6 +152,11 @@ float3 TransformPositionWSToOutlinePositionWS(float3 positionWS, float positionV
 {
     //you can replace it to your own method! Here we will write a simple world space method for tutorial reason, it is not the best method!
     float outlineExpandAmount = _OutlineWidth * GetOutlineCameraFovAndDistanceFixMultiplier(positionVS_Z);
+
+    #if defined(UNITY_STEREO_INSTANCING_ENABLED) || defined(UNITY_STEREO_MULTIVIEW_ENABLED) || defined(UNITY_STEREO_DOUBLE_WIDE_ENABLED)
+    outlineExpandAmount *= 0.5;
+    #endif
+    
     return positionWS + normalWS * outlineExpandAmount; 
 }
 
@@ -154,6 +166,14 @@ Varyings VertexShaderWork(Attributes input)
 {
     Varyings output;
 
+    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    // after invalid/discard vertex, do this part asap.
+    // to support GPU instancing and Single Pass Stereo rendering(VR), add the following section
+    /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+    UNITY_SETUP_INSTANCE_ID(input);                 // will turn into this in non OpenGL and non PSSL -> UnitySetupInstanceID(input.instanceID);
+    UNITY_TRANSFER_INSTANCE_ID(input, output);      // will turn into this in non OpenGL and non PSSL -> output.instanceID = input.instanceID;
+    UNITY_INITIALIZE_VERTEX_OUTPUT_STEREO(output);  // will turn into this in non OpenGL and non PSSL -> output.stereoTargetEyeIndexAsRTArrayIdx = unity_StereoEyeIndex;
+    
     // VertexPositionInputs contains position in multiple spaces (world, view, homogeneous clip space, ndc)
     // Unity compiler will strip all unused references (say you don't use view space).
     // Therefore there is more flexibility at no additional cost with this struct.
@@ -380,6 +400,12 @@ half3 ApplyFog(half3 color, Varyings input)
 // #pragma fragment ShadeFinalColor
 half4 ShadeFinalColor(Varyings input) : SV_TARGET
 {
+    // to support GPU instancing and Single Pass Stereo rendering(VR), add the following section
+    //------------------------------------------------------------------------------------------------------------------------------
+    UNITY_SETUP_INSTANCE_ID(input);                     // in non OpenGL and non PSSL, MACRO will turn into -> UnitySetupInstanceID(input.instanceID);
+    UNITY_SETUP_STEREO_EYE_INDEX_POST_VERTEX(input);    // in non OpenGL and non PSSL, MACRO will turn into -> unity_StereoEyeIndex = input.stereoTargetEyeIndexAsRTArrayIdx;
+    //------------------------------------------------------------------------------------------------------------------------------
+    
     //////////////////////////////////////////////////////////////////////////////////////////
     // first prepare all data for lighting function
     //////////////////////////////////////////////////////////////////////////////////////////
