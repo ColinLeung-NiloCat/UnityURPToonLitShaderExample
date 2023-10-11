@@ -109,7 +109,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/h9PCXAh.jpg)
 - #花芽すみれ3D うおおおおお！！【 ぶいすぽ / 花芽すみれ 】 -> https://www.youtube.com/live/g-bN6gisi3g?feature=share
 
-### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
+### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/Y5ZqAQR.jpg)
 ![screenshot](https://i.imgur.com/Jx2hWbF.jpg)
 ![screenshot](https://i.imgur.com/S14efCf.jpg)
@@ -589,7 +589,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/xJ78uRL.jpg)
 - (4K画质)hanser个人演唱会《海上油菜花》-> https://www.bilibili.com/video/BV1Bq4y1r7bn (part of the rendering is NiloToonURP)
 
-### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
+### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/ENqYsBN.jpg)
 ![screenshot](https://i.imgur.com/tUfB3hf.jpg)
 ![screenshot](https://i.imgur.com/DaNt9rE.jpg)
