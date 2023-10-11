@@ -269,7 +269,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/uAYhE8V.jpg)
 - 小 看 我 了 吧✨【BDF2023聚光】-> https://www.bilibili.com/video/BV1FL411Y7Zc
 
-### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
+### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/SVWHinD.jpg)
 ![screenshot](https://i.imgur.com/NKlm7QI.jpg)
 ![screenshot](https://i.imgur.com/fHIsbYi.jpg)
