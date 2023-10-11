@@ -221,6 +221,25 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/p33Rr9U.jpg)
 - 【holo*27 MV】紫咲シオン x ラプラス・ダークネス - リップシンク【ホロライブ x DECO*27】-> https://youtu.be/NjtIAuZQN_E
 
+### VSPO!(ぶいすぽっ！) - 胡桃のあ (https://www.youtube.com/@963Noah)
+![screenshot](https://i.imgur.com/ThgxjXs.jpg)
+![screenshot](https://i.imgur.com/W0lL7NM.jpg)
+![screenshot](https://i.imgur.com/bRNlOWG.jpg)
+![screenshot](https://i.imgur.com/Ffuybg8.jpg)
+![screenshot](https://i.imgur.com/xewWdKO.jpg)
+![screenshot](https://i.imgur.com/TdYcCSz.jpg)
+![screenshot](https://i.imgur.com/7itrZ89.jpg)
+![screenshot](https://i.imgur.com/Ro1uw6s.jpg)
+![screenshot](https://i.imgur.com/B1zzDqV.jpg)
+![screenshot](https://i.imgur.com/lTYv5uO.jpg)
+- #胡桃のあ3Dライブ│ 星降る夜に願いを込めて 🌠-> https://www.youtube.com/live/otBLdDjhmp4?si=zHICK9le3O8STqkr
+
+### Kanauru (https://www.youtube.com/user/kanauru):
+![screenshot](https://i.imgur.com/iVbJHQo.jpg)
+![screenshot](https://i.imgur.com/x8WdatG.jpg)
+![screenshot](https://i.imgur.com/OUXsMzI.jpg)
+- Hoshimachi Suisei - TRUE GIRL SHOW | Kanauru PV -> https://youtu.be/FhtabnK3kso
+
 ### VSPO!(ぶいすぽっ！) - 八雲べに (https://www.youtube.com/@yakumo_beni)
 ![screenshot](https://i.imgur.com/TpMR0Sa.jpg)
 ![screenshot](https://i.imgur.com/2zWQ7pf.jpg)
@@ -228,12 +247,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/eNPQhVi.jpg)
 ![screenshot](https://i.imgur.com/ooIHqsB.jpg)
 - 【#八雲べに3D】ついにキタ！耐えろYouTube！【ぶいすぽ/八雲べに】 -> https://www.youtube.com/live/WZ2zvy_gxtM?feature=share
-
-### Kanauru (https://www.youtube.com/user/kanauru):
-![screenshot](https://i.imgur.com/iVbJHQo.jpg)
-![screenshot](https://i.imgur.com/x8WdatG.jpg)
-![screenshot](https://i.imgur.com/OUXsMzI.jpg)
-- Hoshimachi Suisei - TRUE GIRL SHOW | Kanauru PV -> https://youtu.be/FhtabnK3kso
 
 ### Moona Hoshinova hololive-ID (https://www.youtube.com/@MoonaHoshinova):
 ![screenshot](https://i.imgur.com/CJGhfxo.jpg)
@@ -473,7 +486,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/9ClFTst.jpg)
 ![screenshot](https://i.imgur.com/8PNIXUo.jpg)
 
-### VirtuaReal Star - 泠鸢yousa (https://space.bilibili.com/282994)
+### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/fsAc12K.jpg)
 ![screenshot](https://i.imgur.com/lnkV7Io.jpg)
 ![screenshot](https://i.imgur.com/IJZiIYD.jpg)
