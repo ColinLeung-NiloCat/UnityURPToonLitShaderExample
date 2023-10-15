@@ -426,7 +426,26 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/XVT386s.jpg)
 ![screenshot](https://i.imgur.com/Rq3uqR8.jpg)
 ![screenshot](https://i.imgur.com/njJBhHV.jpg)
-- 【超高可玩性！全新3D虚拟主播软件【Warudo】】-> https://www.bilibili.com/video/BV198411D7Ui/?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
+- 【超高可玩性！全新3D虚拟主播软件【Warudo】】-> https://www.bilibili.com/video/BV198411D7Ui
+
+### VirtuaReal (https://space.bilibili.com/413748120)
+![screenshot](https://i.imgur.com/mFYajQZ.jpg)
+![screenshot](https://i.imgur.com/ouCYYuu.jpg)
+![screenshot](https://i.imgur.com/4PIdzV0.jpg)
+![screenshot](https://i.imgur.com/SZuYnrT.jpg)
+![screenshot](https://i.imgur.com/P7vwKgc.jpg)
+![screenshot](https://i.imgur.com/UDSkD38.jpg)
+![screenshot](https://i.imgur.com/yBeVFyq.jpg)
+![screenshot](https://i.imgur.com/OU85vvo.jpg)
+![screenshot](https://i.imgur.com/VYdimOq.jpg)
+![screenshot](https://i.imgur.com/DhjXBtS.jpg)
+![screenshot](https://i.imgur.com/iVony9f.jpg)
+![screenshot](https://i.imgur.com/0IMkaM1.jpg)
+![screenshot](https://i.imgur.com/9bjvA9d.jpg)
+- 【【4K】summertime 夏日海边我们在一起】 -> https://www.bilibili.com/video/BV1XN4y1R7K9
+- 【【4K】LOVE DIVE 没想到我们跳了吧】 -> https://www.bilibili.com/video/BV1Hz4y1K7K6
+- 【【4K】泳装这么可爱真是抱歉/可愛くてごめん～】 -> https://www.bilibili.com/video/BV1xF411k7T7
+- 【想去海边 3D泳装直播】 https://www.bilibili.com/video/BV1jN411q7Qy
 
 ### VShojo Highlights (https://www.youtube.com/@VShojoHighlights)
 ![screenshot](https://i.imgur.com/gPQc1Ls.jpg)
