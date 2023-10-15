@@ -1,9 +1,10 @@
 # About this repository
 
-This repository is NOT the full version NiloToonURP.
-This repository only contains a very simple and short URP toon shader example, only for tutorial purposes, it is under MIT license so you can do whatever you want with the code.
-If you want to keep the current tutorial shader, please fork it or download a copy now since it may be removed in the future. 
------------------------------------------
+This repository does NOT contain the full version of NiloToonURP.  
+Instead, it includes a simple, short and easy-to-read URP toon shader example for Unity2022.3LTS, which is intended for shader coding tutorial purposes. The shader example is licensed under the MIT license, giving you the freedom to use the code as you wish. If you'd like to retain the current tutorial shader, we recommend forking it or downloading a copy now, as it may be removed in the future.  
+  
+*this README also shows photos and information about the NiloToonURP(full version)
+
 # NiloToonURP(full version)'s rendering
 
 ![screenshot](https://i.imgur.com/lfu2wZd.jpg)
@@ -15,10 +16,6 @@ shader ON
 ![screenshot](https://i.imgur.com/N7J2A28.jpg)
 shader OFF
 ![screenshot](https://i.imgur.com/9tiHehF.jpg)
-shader ON
-![screenshot](https://i.imgur.com/vXcIGQ0.jpg)
-shader OFF
-![screenshot](https://i.imgur.com/tx643sR.jpg)
 shader ON
 ![screenshot](https://i.imgur.com/195Mzq7.jpg)
 shader OFF
@@ -37,13 +34,12 @@ shader OFF
 ![screenshot](https://i.imgur.com/ds7LfLo.png)
 ![screenshot](https://i.imgur.com/6dtu43p.jpg)
 ![screenshot](https://i.imgur.com/UyXuss9.jpg)
-![screenshot](https://i.imgur.com/tduYcFM.jpg)
 ![screenshot](https://i.imgur.com/UbtyddV.jpg)
 ![screenshot](https://i.imgur.com/jUrwwLb.jpg)
 ![screenshot](https://i.imgur.com/i4O6m4z.jpg)
 
-We are now developing an "easy-to-use + high-performance + cross-platform(include mobile)" Closed source toon shader package - NiloToonURP,
-to meet the toon shading needs of Unity URP user.  
+We are now developing an "easy-to-use + high-performance + cross-platform(including mobile/VR/WebGL)" Closed source toon shader package - NiloToonURP,
+to assist Unity URP users in achieving high-quality anime/toon-like rendering.  
 
 NiloToonURP is supporting:
 - Unity 2021.3LTS(URP 12.x)
@@ -68,16 +64,16 @@ If you or your company/organization/team needs:
 - latest user document
 - perpetual royalty-free commercial license
 - every future update
+- NiloToon's tech support
 - (optional) we set up your character models's rendering in the best way possible for you, using NiloToonURP
-- (optional) tech support
 - (optional) your project-specific customization and support 
 
 of NiloToonURP for your URP project, please send the following info to nilotoon@gmail.com
 - name (your personal name or your company/organization/team's name)
 - a google account email for gaining permission to download all NiloToonURP files in google drive
-- any public website that shows your/your company/organization/team's work or public media  
+- any public website that shows your/your company/organization/team's work or public media (e.g. personal website/company website/youtube/bilibili/twitter...) 
 
-# NiloToonURP user's creations (public media, not NDA contents)
+# NiloToonURP user's creations (public media, not NDA content)
 *we only provided NiloToonURP's download permission + tech support, we didn't work on these creations directly
 
 ### Genshin Impact MV - When The Stars Align (Genshin Impact website -> http://genshin.hoyoverse.com)
@@ -97,22 +93,21 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/bEjNiOj.jpg)
 - 【原神生日会】When The Stars Align -> https://www.bilibili.com/video/BV1vT411T79n
 
-### VSPO!(ぶいすぽっ！) - 花芽すみれ (https://www.youtube.com/@KagaSumire)
-![screenshot](https://i.imgur.com/zk7AsTW.jpg)
-![screenshot](https://i.imgur.com/Asq0arH.jpg)
-![screenshot](https://i.imgur.com/GeX49uo.jpg)
-![screenshot](https://i.imgur.com/kLlSAgm.jpg)
-![screenshot](https://i.imgur.com/kCPEPt0.jpg)
-![screenshot](https://i.imgur.com/bSb3PY6.jpg)
-![screenshot](https://i.imgur.com/pLPpfKY.jpg)
-![screenshot](https://i.imgur.com/LV0zGNF.jpg)
-![screenshot](https://i.imgur.com/h9PCXAh.jpg)
-- #花芽すみれ3D うおおおおお！！【 ぶいすぽ / 花芽すみれ 】 -> https://www.youtube.com/live/g-bN6gisi3g?feature=share
+### VSPO!(ぶいすぽっ！) - 胡桃のあ (https://www.youtube.com/@963Noah)
+![screenshot](https://i.imgur.com/bRNlOWG.jpg)
+![screenshot](https://i.imgur.com/Ffuybg8.jpg)
+![screenshot](https://i.imgur.com/xewWdKO.jpg)
+![screenshot](https://i.imgur.com/TdYcCSz.jpg)
+![screenshot](https://i.imgur.com/7itrZ89.jpg)
+![screenshot](https://i.imgur.com/Ro1uw6s.jpg)
+![screenshot](https://i.imgur.com/B1zzDqV.jpg)
+![screenshot](https://i.imgur.com/lTYv5uO.jpg)
+![screenshot](https://i.imgur.com/ThgxjXs.jpg)
+- #胡桃のあ3Dライブ│ 星降る夜に願いを込めて 🌠 -> https://www.youtube.com/live/otBLdDjhmp4?si=4YsH2jpEedQ7UaHK&t=1875
 
 ### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/Y5ZqAQR.jpg)
 ![screenshot](https://i.imgur.com/Jx2hWbF.jpg)
-![screenshot](https://i.imgur.com/S14efCf.jpg)
 ![screenshot](https://i.imgur.com/lWlwyQj.jpg)
 ![screenshot](https://i.imgur.com/42ZWOk4.jpg)
 ![screenshot](https://i.imgur.com/SBuq9fg.jpg)
@@ -120,70 +115,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/N87LdKE.jpg)
 ![screenshot](https://i.imgur.com/eKaaJS2.jpg)
 ![screenshot](https://i.imgur.com/7Cab1UP.jpg)
-- 《我的故事未写完》【原创曲-泠鸢词曲】-> https://www.bilibili.com/video/BV1JG4y1W7ub?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
-
-### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
-![screenshot](https://i.imgur.com/4LV7Sv3.jpg)
-![screenshot](https://i.imgur.com/NfBeCOG.jpg)
-![screenshot](https://i.imgur.com/2JPu8AB.jpg)
-![screenshot](https://i.imgur.com/PBRMIDn.jpg)
-![screenshot](https://i.imgur.com/cWntQRN.jpg)
-![screenshot](https://i.imgur.com/RUUPu2E.jpg)
-![screenshot](https://i.imgur.com/9KeaeqO.jpg)
-![screenshot](https://i.imgur.com/BqvLFq4.jpg)
-![screenshot](https://i.imgur.com/ZDh6cpT.jpg)
-![screenshot](https://i.imgur.com/8wJCcs3.jpg)
-![screenshot](https://i.imgur.com/m1X2Odj.jpg)
-![screenshot](https://i.imgur.com/y1BvqRe.jpg)
-![screenshot](https://i.imgur.com/CET2UlW.jpg)
-![screenshot](https://i.imgur.com/IAEDyfl.jpg)
-- 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」【#ぶいすぽ３D】-> https://www.youtube.com/live/9GaGcoDiULw?feature=share
-
-### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
-![screenshot](https://i.imgur.com/Tp29cyb.jpg)
-![screenshot](https://i.imgur.com/9OsMvwh.jpg)
-![screenshot](https://i.imgur.com/HTBHcYg.jpg)
-![screenshot](https://i.imgur.com/PvSWEwl.jpg)
-- 【恋愛偏差値上昇中！】 https://www.bilibili.com/video/BV1v84y1K74A
-- 【情人节当一天恋爱脑也可以吧！】 https://www.bilibili.com/video/BV1wv4y1x7NZ
-- 【这次是全身版！！】 https://www.bilibili.com/video/BV1QM411b7pe
-
-### hololive-EN (https://hololive.hololivepro.com/en/talents?gp=english):
-![screenshot](https://i.imgur.com/cp5VTI1.jpg)
-![screenshot](https://i.imgur.com/9CloXLw.jpg)
-![screenshot](https://i.imgur.com/eVTmJT7.jpg)
-![screenshot](https://i.imgur.com/bc46ZRF.jpg)
-![screenshot](https://i.imgur.com/Ls2lt02.jpg)
-![screenshot](https://i.imgur.com/wfzBTfb.jpg)
-![screenshot](https://i.imgur.com/CLNxKnu.jpg)
-![screenshot](https://i.imgur.com/DcfrNdL.jpg)
-![screenshot](https://i.imgur.com/2ZggtS7.jpg)
-- 【3D BIRTHDAY】PARTY TIME! 🌊 #gawrgura -> https://youtu.be/lsFr7NzVVM8?t=2042
-
-![screenshot](https://i.imgur.com/QT0acUh.jpg)
-![screenshot](https://i.imgur.com/TW8QBwh.jpg)
-![screenshot](https://i.imgur.com/eA1YPzW.jpg)
-![screenshot](https://i.imgur.com/pS7qRwM.jpg)
-![screenshot](https://i.imgur.com/8hh4MU0.jpg)
-![screenshot](https://i.imgur.com/AzE873T.jpg)
-![screenshot](https://i.imgur.com/burEUOf.jpg)
-- DO U - Takanashi Kiara (Official Music Video) -> https://youtu.be/QI96hnhcr2E
-
-### VirtuaReal Star - hanser (https://space.bilibili.com/11073)
-![screenshot](https://i.imgur.com/nfVckVo.jpg)
-![screenshot](https://i.imgur.com/Ij7zvhz.jpg)
-![screenshot](https://i.imgur.com/ooybJus.jpg)
-![screenshot](https://i.imgur.com/LtziYj5.jpg)
-- 感谢300关注 跳个舞 -> https://www.bilibili.com/video/BV1CR4y1j7bY?share_source=copy_web
-
-### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
-![screenshot](https://i.imgur.com/3uQmdm9.jpg)
-![screenshot](https://i.imgur.com/FpGxHDL.jpg)
-![screenshot](https://i.imgur.com/GsOj7iO.jpg)
-![screenshot](https://i.imgur.com/iG0KCMX.jpg)
-![screenshot](https://i.imgur.com/UH6y3yb.jpg)
-![screenshot](https://i.imgur.com/sMX9DJq.jpg)
-- 【協力脱出】ぶいすぽデスゲーム【#ぶいすぽ３D】 -> https://www.youtube.com/live/nMTQyZ70TCQ?feature=share
+- 《我的故事未写完》【原创曲-泠鸢词曲】 -> https://www.bilibili.com/video/BV1JG4y1W7ub
 
 ### hololive ホロライブ - VTuber Group (https://www.youtube.com/@hololive)
 ![screenshot](https://i.imgur.com/Qrexl3d.jpg)
@@ -198,7 +130,72 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/eFNnSlt.jpg)
 ![screenshot](https://i.imgur.com/riHY7nk.jpg)
 ![screenshot](https://i.imgur.com/nZiNMOL.jpg)
-- 『ホロライブ・サマー2023 3DLIVE Splash Party!』ティザーPV【#hololivesummer2023】-> https://youtu.be/8aKFN2YbGLQ
+- 『ホロライブ・サマー2023 3DLIVE Splash Party!』ティザーPV【#hololivesummer2023】 -> https://youtu.be/8aKFN2YbGLQ
+
+### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
+![screenshot](https://i.imgur.com/Tp29cyb.jpg)
+![screenshot](https://i.imgur.com/9OsMvwh.jpg)
+![screenshot](https://i.imgur.com/HTBHcYg.jpg)
+![screenshot](https://i.imgur.com/PvSWEwl.jpg)
+- 【恋愛偏差値上昇中！】 -> https://www.bilibili.com/video/BV1v84y1K74A
+- 【情人节当一天恋爱脑也可以吧！】 -> https://www.bilibili.com/video/BV1wv4y1x7NZ
+- 【这次是全身版！！】 -> https://www.bilibili.com/video/BV1QM411b7pe
+- 【因为我是最棒滴！【僕が最高だから／ハコニワリリィ】】 -> https://www.bilibili.com/video/BV1rs4y1S7uB
+
+### VSPO!(ぶいすぽっ！) - 花芽すみれ (https://www.youtube.com/@KagaSumire)
+![screenshot](https://i.imgur.com/zk7AsTW.jpg)
+![screenshot](https://i.imgur.com/Asq0arH.jpg)
+![screenshot](https://i.imgur.com/GeX49uo.jpg)
+![screenshot](https://i.imgur.com/kLlSAgm.jpg)
+![screenshot](https://i.imgur.com/kCPEPt0.jpg)
+![screenshot](https://i.imgur.com/bSb3PY6.jpg)
+![screenshot](https://i.imgur.com/pLPpfKY.jpg)
+![screenshot](https://i.imgur.com/LV0zGNF.jpg)
+![screenshot](https://i.imgur.com/h9PCXAh.jpg)
+- #花芽すみれ3D うおおおおお！！【 ぶいすぽ / 花芽すみれ 】 -> https://www.youtube.com/live/g-bN6gisi3g?si=_5opnk-tvTbVU3x5&t=1321
+
+### VirtuaReal Star - hanser (https://space.bilibili.com/11073)
+![screenshot](https://i.imgur.com/nfVckVo.jpg)
+![screenshot](https://i.imgur.com/Ij7zvhz.jpg)
+![screenshot](https://i.imgur.com/ooybJus.jpg)
+![screenshot](https://i.imgur.com/LtziYj5.jpg)
+- 感谢300关注 跳个舞 -> https://www.bilibili.com/video/BV1CR4y1j7bY/
+
+### Gawr Gura Ch. hololive-EN (https://www.youtube.com/@GawrGura):
+![screenshot](https://i.imgur.com/cp5VTI1.jpg)
+![screenshot](https://i.imgur.com/9CloXLw.jpg)
+![screenshot](https://i.imgur.com/eVTmJT7.jpg)
+![screenshot](https://i.imgur.com/bc46ZRF.jpg)
+![screenshot](https://i.imgur.com/Ls2lt02.jpg)
+![screenshot](https://i.imgur.com/wfzBTfb.jpg)
+![screenshot](https://i.imgur.com/CLNxKnu.jpg)
+![screenshot](https://i.imgur.com/DcfrNdL.jpg)
+![screenshot](https://i.imgur.com/2ZggtS7.jpg)
+- 【3D BIRTHDAY】PARTY TIME! 🌊 #gawrgura -> https://youtu.be/lsFr7NzVVM8?t=2042
+
+### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
+![screenshot](https://i.imgur.com/4LV7Sv3.jpg)
+![screenshot](https://i.imgur.com/NfBeCOG.jpg)
+![screenshot](https://i.imgur.com/PBRMIDn.jpg)
+![screenshot](https://i.imgur.com/cWntQRN.jpg)
+![screenshot](https://i.imgur.com/RUUPu2E.jpg)
+![screenshot](https://i.imgur.com/BqvLFq4.jpg)
+![screenshot](https://i.imgur.com/8wJCcs3.jpg)
+![screenshot](https://i.imgur.com/m1X2Odj.jpg)
+![screenshot](https://i.imgur.com/y1BvqRe.jpg)
+![screenshot](https://i.imgur.com/CET2UlW.jpg)
+![screenshot](https://i.imgur.com/IAEDyfl.jpg)
+- 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」【#ぶいすぽ３D】 -> https://www.youtube.com/live/9GaGcoDiULw?feature=share
+
+### Takanashi Kiara Ch. hololive-EN (https://www.youtube.com/@TakanashiKiara)
+![screenshot](https://i.imgur.com/QT0acUh.jpg)
+![screenshot](https://i.imgur.com/TW8QBwh.jpg)
+![screenshot](https://i.imgur.com/eA1YPzW.jpg)
+![screenshot](https://i.imgur.com/pS7qRwM.jpg)
+![screenshot](https://i.imgur.com/8hh4MU0.jpg)
+![screenshot](https://i.imgur.com/AzE873T.jpg)
+![screenshot](https://i.imgur.com/burEUOf.jpg)
+- DO U - Takanashi Kiara (Official Music Video) -> https://youtu.be/QI96hnhcr2E
 
 ### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
 ![screenshot](https://i.imgur.com/gbCCiSL.jpg)
@@ -214,25 +211,29 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/y3yRORf.jpg)
 - 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」第２弾【#ぶいすぽ３D】-> https://www.youtube.com/live/97_o-WI4ihc?feature=share
 
+### 阿梓从小就很可爱 (https://space.bilibili.com/7706705/)
+![screenshot](https://i.imgur.com/pYFIlEI.jpg)
+![screenshot](https://i.imgur.com/7MQfD5u.jpg)
+![screenshot](https://i.imgur.com/bRtFS2u.jpg)
+![screenshot](https://i.imgur.com/b6wBAp7.jpg)
+![screenshot](https://i.imgur.com/jojIlNx.jpg)
+- 【【直播回放】【3d】三周年新衣发布～ 2023年8月9日19点场】 -> https://www.bilibili.com/video/BV1uX4y1j7BY
+
 ### hololive - Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
 ![screenshot](https://i.imgur.com/qjVT4M7.jpg)
 ![screenshot](https://i.imgur.com/i050aGy.jpg)
 ![screenshot](https://i.imgur.com/pOOn3wn.jpg)
 ![screenshot](https://i.imgur.com/p33Rr9U.jpg)
-- 【holo*27 MV】紫咲シオン x ラプラス・ダークネス - リップシンク【ホロライブ x DECO*27】-> https://youtu.be/NjtIAuZQN_E
+- 【holo*27 MV】紫咲シオン x ラプラス・ダークネス - リップシンク【ホロライブ x DECO*27】 -> https://youtu.be/NjtIAuZQN_E
 
-### VSPO!(ぶいすぽっ！) - 胡桃のあ (https://www.youtube.com/@963Noah)
-![screenshot](https://i.imgur.com/ThgxjXs.jpg)
-![screenshot](https://i.imgur.com/W0lL7NM.jpg)
-![screenshot](https://i.imgur.com/bRNlOWG.jpg)
-![screenshot](https://i.imgur.com/Ffuybg8.jpg)
-![screenshot](https://i.imgur.com/xewWdKO.jpg)
-![screenshot](https://i.imgur.com/TdYcCSz.jpg)
-![screenshot](https://i.imgur.com/7itrZ89.jpg)
-![screenshot](https://i.imgur.com/Ro1uw6s.jpg)
-![screenshot](https://i.imgur.com/B1zzDqV.jpg)
-![screenshot](https://i.imgur.com/lTYv5uO.jpg)
-- #胡桃のあ3Dライブ│ 星降る夜に願いを込めて 🌠-> https://www.youtube.com/live/otBLdDjhmp4?si=zHICK9le3O8STqkr
+### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
+![screenshot](https://i.imgur.com/3uQmdm9.jpg)
+![screenshot](https://i.imgur.com/FpGxHDL.jpg)
+![screenshot](https://i.imgur.com/GsOj7iO.jpg)
+![screenshot](https://i.imgur.com/iG0KCMX.jpg)
+![screenshot](https://i.imgur.com/UH6y3yb.jpg)
+![screenshot](https://i.imgur.com/sMX9DJq.jpg)
+- 【協力脱出】ぶいすぽデスゲーム【#ぶいすぽ３D】 -> https://www.youtube.com/live/nMTQyZ70TCQ?feature=share
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
 ![screenshot](https://i.imgur.com/iVbJHQo.jpg)
@@ -257,7 +258,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/5PtoW1R.jpg)
 ![screenshot](https://i.imgur.com/cCxz82L.jpg)
 ![screenshot](https://i.imgur.com/skcjPAy.jpg)
-- 【Original Song】Who’s Toxic ? It’s You! - Moona Hoshinova【3DMV】-> https://youtu.be/PFoGNZ05CJw
+- 【Original Song】Who’s Toxic ? It’s You! - Moona Hoshinova【3DMV】 -> https://youtu.be/PFoGNZ05CJw
 
 ### AIChannel中国绊爱 (https://space.bilibili.com/484322035)
 ![screenshot](https://i.imgur.com/xEyCBXZ.jpg)
@@ -267,7 +268,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/hhSrW74.jpg)
 ![screenshot](https://i.imgur.com/Us8tEer.jpg)
 ![screenshot](https://i.imgur.com/uAYhE8V.jpg)
-- 小 看 我 了 吧✨【BDF2023聚光】-> https://www.bilibili.com/video/BV1FL411Y7Zc
+- 小 看 我 了 吧✨【BDF2023聚光】 -> https://www.bilibili.com/video/BV1FL411Y7Zc
 
 ### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/SVWHinD.jpg)
@@ -281,7 +282,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/EslbmcQ.jpg)
 ![screenshot](https://i.imgur.com/QKidTrM.jpg)
 - 【高清回放】泠鸢个人演唱会【时光标记】十周年纪念-高清全程回放 -> https://www.bilibili.com/video/BV1D24y1B7FA
-- 【泠鸢时光标记演唱会】 一镜到底4K纯享版】-> https://space.bilibili.com/434021034/channel/collectiondetail?sid=1082531
+- 【泠鸢时光标记演唱会】 一镜到底4K纯享版】 -> https://space.bilibili.com/434021034/channel/collectiondetail?sid=1082531
 
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal):
 ![screenshot](https://i.imgur.com/IKpdkTI.jpg)
@@ -417,17 +418,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/kfnccw6.jpg)
 - VSHOJO Mahou Idols - Nyanners Ironmouse Silvervale | VILLS -> https://youtu.be/-OultaM3TMg
 
-### Warudo on Steam(supporting NiloToonURP) (https://store.steampowered.com/app/2079120/Warudo/)
-![screenshot](https://i.imgur.com/CLq5tte.jpg)
-![screenshot](https://i.imgur.com/weIU8Ua.jpg)
-![screenshot](https://i.imgur.com/9Zzfmd5.jpg)
-![screenshot](https://i.imgur.com/aM2foCp.jpg)
-![screenshot](https://i.imgur.com/OZRHUaO.jpg)
-![screenshot](https://i.imgur.com/XVT386s.jpg)
-![screenshot](https://i.imgur.com/Rq3uqR8.jpg)
-![screenshot](https://i.imgur.com/njJBhHV.jpg)
-- 【超高可玩性！全新3D虚拟主播软件【Warudo】】-> https://www.bilibili.com/video/BV198411D7Ui
-
 ### VirtuaReal (https://space.bilibili.com/413748120)
 ![screenshot](https://i.imgur.com/mFYajQZ.jpg)
 ![screenshot](https://i.imgur.com/ouCYYuu.jpg)
@@ -446,6 +436,17 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【【4K】LOVE DIVE 没想到我们跳了吧】 -> https://www.bilibili.com/video/BV1Hz4y1K7K6
 - 【【4K】泳装这么可爱真是抱歉/可愛くてごめん～】 -> https://www.bilibili.com/video/BV1xF411k7T7
 - 【想去海边 3D泳装直播】 https://www.bilibili.com/video/BV1jN411q7Qy
+
+### Warudo on Steam(supporting NiloToonURP) (https://store.steampowered.com/app/2079120/Warudo/)
+![screenshot](https://i.imgur.com/CLq5tte.jpg)
+![screenshot](https://i.imgur.com/weIU8Ua.jpg)
+![screenshot](https://i.imgur.com/9Zzfmd5.jpg)
+![screenshot](https://i.imgur.com/aM2foCp.jpg)
+![screenshot](https://i.imgur.com/OZRHUaO.jpg)
+![screenshot](https://i.imgur.com/XVT386s.jpg)
+![screenshot](https://i.imgur.com/Rq3uqR8.jpg)
+![screenshot](https://i.imgur.com/njJBhHV.jpg)
+- 【超高可玩性！全新3D虚拟主播软件【Warudo】】-> https://www.bilibili.com/video/BV198411D7Ui
 
 ### VShojo Highlights (https://www.youtube.com/@VShojoHighlights)
 ![screenshot](https://i.imgur.com/gPQc1Ls.jpg)
@@ -484,12 +485,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/tRrRM9G.jpg)
 ![screenshot](https://i.imgur.com/f7jFXrL.jpg)
 - 【#英リサ3Dお披露目】3次元、お邪魔します【ぶいすぽっ！/英リサ】 -> https://www.youtube.com/live/ey9KCNzSALQ?feature=share
-
-### VSPO!(ぶいすぽっ！) - 胡桃のあ (https://www.youtube.com/@963Noah)
-![screenshot](https://i.imgur.com/xdTiGo8.jpg)
-![screenshot](https://i.imgur.com/4WPOKJS.jpg)
-![screenshot](https://i.imgur.com/A8PKDEx.jpg)
-- #胡桃のあ3D✨あざとい女は3Dになってもあざといのか❓ -> https://www.youtube.com/live/ZpAJBxTsuTE?feature=share
 
 ### myer gugu(崩坏的栗子_108番) (https://www.artstation.com/myergugu)
 ![screenshot](https://i.imgur.com/VZPTL1E.jpg)
@@ -648,6 +643,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - https://www.bilibili.com/video/BV1pN4y1V7KU?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce
 
 # Other NiloToonURP's images (gallery)
+
+shader ON
+![screenshot](https://i.imgur.com/vXcIGQ0.jpg)
+shader OFF
+![screenshot](https://i.imgur.com/tx643sR.jpg)
+
+![screenshot](https://i.imgur.com/tduYcFM.jpg)
 
 shader ON
 ![screenshot](https://i.imgur.com/BgiZbfa.png)
