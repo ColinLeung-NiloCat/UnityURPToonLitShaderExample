@@ -199,6 +199,21 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/burEUOf.jpg)
 - DO U - Takanashi Kiara (Official Music Video) -> https://youtu.be/QI96hnhcr2E
 
+### 주르르 JURURU (https://www.youtube.com/@JU_RURU)
+![screenshot](https://i.imgur.com/acdR9Lj.jpg)
+![screenshot](https://i.imgur.com/DUq6AlZ.jpg)
+![screenshot](https://i.imgur.com/ZOT96go.jpg)
+![screenshot](https://i.imgur.com/SSKKyLY.jpg)
+![screenshot](https://i.imgur.com/l0W9J72.jpg)
+![screenshot](https://i.imgur.com/nC3nGFo.jpg)
+![screenshot](https://i.imgur.com/v7NusDY.jpg)
+![screenshot](https://i.imgur.com/Ytln6oQ.jpg)
+![screenshot](https://i.imgur.com/XAL2vEg.jpg)
+![screenshot](https://i.imgur.com/K9OlGaK.jpg)
+![screenshot](https://i.imgur.com/yGgFYYB.jpg)
+![screenshot](https://i.imgur.com/R9Sq8bw.jpg)
+- [MV] GIRL'S DAY - Darling｜Cover by Jururu -> https://youtu.be/7sFIjj5BW3M?si=xySDbq-FxfX-KPWJ
+
 ### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
 ![screenshot](https://i.imgur.com/gbCCiSL.jpg)
 ![screenshot](https://i.imgur.com/OQk9nOn.jpg)
