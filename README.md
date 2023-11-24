@@ -134,6 +134,20 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/nZiNMOL.jpg)
 - 『ホロライブ・サマー2023 3DLIVE Splash Party!』ティザーPV【#hololivesummer2023】 -> https://youtu.be/8aKFN2YbGLQ
 
+### ぶいごまチャンネル　V後藤真希 (https://www.youtube.com/@V_GOTO_MAKI)
+![screenshot](https://i.imgur.com/gFAPtTS.jpg)
+![screenshot](https://i.imgur.com/hI9cd0g.jpg)
+![screenshot](https://i.imgur.com/9gcADgz.jpg)
+![screenshot](https://i.imgur.com/EWcR7xg.jpg)
+![screenshot](https://i.imgur.com/RBnZmGK.jpg)
+![screenshot](https://i.imgur.com/okgCZ5b.jpg)
+![screenshot](https://i.imgur.com/6yXHYed.jpg)
+![screenshot](https://i.imgur.com/gZpw73O.jpg)
+![screenshot](https://i.imgur.com/c4II8j3.jpg)
+![screenshot](https://i.imgur.com/N426j2R.jpg)
+![screenshot](https://i.imgur.com/r44ixaR.jpg)
+- モーニング娘。『LOVEマシーン』 / V後藤真希が歌って踊ってみた -> https://youtu.be/zyuLj0fbn9w?si=ovX0OF4bOx-wscD2
+
 ### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
 ![screenshot](https://i.imgur.com/Tp29cyb.jpg)
 ![screenshot](https://i.imgur.com/9OsMvwh.jpg)
@@ -199,7 +213,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/burEUOf.jpg)
 - DO U - Takanashi Kiara (Official Music Video) -> https://youtu.be/QI96hnhcr2E
 
-### 주르르 JURURU (https://www.youtube.com/@JU_RURU)
+### ISEGYE IDOL (이세계아이돌) - 주르르 JURURU (https://www.youtube.com/@JU_RURU)
 ![screenshot](https://i.imgur.com/acdR9Lj.jpg)
 ![screenshot](https://i.imgur.com/DUq6AlZ.jpg)
 ![screenshot](https://i.imgur.com/ZOT96go.jpg)
