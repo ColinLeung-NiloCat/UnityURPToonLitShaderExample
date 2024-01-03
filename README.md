@@ -146,7 +146,9 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/qkJO7Cr.jpg)
 ![screenshot](https://i.imgur.com/4gkLntJ.jpg)
 ![screenshot](https://i.imgur.com/QzvwSx3.jpg)
-- 【#杏仁ミル5周年LIVE】Back To A Beginner's Spirit | 回歸初心3D演唱會【#杏仁ミル】-> https://www.youtube.com/watch?v=u8NKu9wnF24&t=3286s
+- 【#杏仁ミル5周年LIVE】Back To A Beginner's Spirit | 回歸初心3D演唱會【#杏仁ミル】->   
+Youtube: https://www.youtube.com/watch?v=u8NKu9wnF24&t=3286s  
+Twitch: https://www.twitch.tv/videos/2014344400?t=00h54m30s
 
 ### ぶいごまチャンネル　V後藤真希 (https://www.youtube.com/@V_GOTO_MAKI)
 ![screenshot](https://i.imgur.com/gFAPtTS.jpg)
@@ -161,6 +163,18 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/N426j2R.jpg)
 ![screenshot](https://i.imgur.com/r44ixaR.jpg)
 - モーニング娘。『LOVEマシーン』 / V後藤真希が歌って踊ってみた -> https://youtu.be/zyuLj0fbn9w?si=ovX0OF4bOx-wscD2
+
+### VSPO!(ぶいすぽっ！) - 小森めと (https://www.youtube.com/@Met_Komori)
+![screenshot](https://i.imgur.com/G8slEDj.jpg)
+![screenshot](https://i.imgur.com/UzofUqj.jpg)
+![screenshot](https://i.imgur.com/APcD4Cy.jpg)
+![screenshot](https://i.imgur.com/Z6sGj3c.jpg)
+![screenshot](https://i.imgur.com/Cx0qTOb.jpg)
+![screenshot](https://i.imgur.com/ILqORSQ.jpg)
+![screenshot](https://i.imgur.com/s9dyTJP.jpg)
+![screenshot](https://i.imgur.com/ppVwAsN.jpg)
+![screenshot](https://i.imgur.com/BHzmmYt.jpg)
+- 【 #小森めと爆誕2023 】小森めと爆誕3Dライブ！~食え！寝ろ！遊べ！~ 【 ぶいすぽっ！ / 小森めと 】 -> https://www.youtube.com/live/buF_TtzS9SA?si=vU6pt_XNCuwr5CB6&t=179
 
 ### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
 ![screenshot](https://i.imgur.com/Tp29cyb.jpg)
