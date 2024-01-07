@@ -27,12 +27,12 @@ Outline options(1/2/3)
 ![screenshot](https://i.imgur.com/Vkx0oN9.gif)
 ![screenshot](https://i.imgur.com/wUrVD7n.jpg)
 ![screenshot](https://i.imgur.com/aP3YmYV.jpg)
-![screenshot](https://i.imgur.com/qZWo4wN.jpg)
-![screenshot](https://i.imgur.com/RayvhGE.jpg)
+![screenshot](https://i.imgur.com/FxIv1Yl.jpg)
+![screenshot](https://i.imgur.com/XW5aNL4.jpg)
 shader ON
-![screenshot](https://i.imgur.com/5pVMWVN.png)
+![screenshot](https://i.imgur.com/VlA6hU6.jpg)
 shader OFF
-![screenshot](https://i.imgur.com/ds7LfLo.png)
+![screenshot](https://i.imgur.com/o1xm92a.jpg)
 ![screenshot](https://i.imgur.com/6dtu43p.jpg)
 ![screenshot](https://i.imgur.com/UyXuss9.jpg)
 ![screenshot](https://i.imgur.com/UbtyddV.jpg)
@@ -285,11 +285,11 @@ Twitch: https://www.twitch.tv/videos/2014344400?t=00h54m30s
 - 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」第２弾【#ぶいすぽ３D】-> https://www.youtube.com/live/97_o-WI4ihc?feature=share
 
 ### 阿梓从小就很可爱 (https://space.bilibili.com/7706705/)
-![screenshot](https://i.imgur.com/pYFIlEI.jpg)
-![screenshot](https://i.imgur.com/7MQfD5u.jpg)
-![screenshot](https://i.imgur.com/bRtFS2u.jpg)
-![screenshot](https://i.imgur.com/b6wBAp7.jpg)
-![screenshot](https://i.imgur.com/jojIlNx.jpg)
+![screenshot](https://i.imgur.com/v3VNAbm.jpg)
+![screenshot](https://i.imgur.com/ywGqO4f.jpg)
+![screenshot](https://i.imgur.com/8RYOo4a.jpg)
+![screenshot](https://i.imgur.com/y13uJN0.jpg)
+![screenshot](https://i.imgur.com/186xRLg.jpg)
 - 【【直播回放】【3d】三周年新衣发布～ 2023年8月9日19点场】 -> https://www.bilibili.com/video/BV1uX4y1j7BY
 
 ### hololive - Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
@@ -300,12 +300,12 @@ Twitch: https://www.twitch.tv/videos/2014344400?t=00h54m30s
 - 【holo*27 MV】紫咲シオン x ラプラス・ダークネス - リップシンク【ホロライブ x DECO*27】 -> https://youtu.be/NjtIAuZQN_E
 
 ### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
-![screenshot](https://i.imgur.com/3uQmdm9.jpg)
-![screenshot](https://i.imgur.com/FpGxHDL.jpg)
-![screenshot](https://i.imgur.com/GsOj7iO.jpg)
-![screenshot](https://i.imgur.com/iG0KCMX.jpg)
-![screenshot](https://i.imgur.com/UH6y3yb.jpg)
-![screenshot](https://i.imgur.com/sMX9DJq.jpg)
+![screenshot](https://i.imgur.com/6EPwhK3.jpg)
+![screenshot](https://i.imgur.com/9AZN4eJ.jpg)
+![screenshot](https://i.imgur.com/Ggco1mq.jpg)
+![screenshot](https://i.imgur.com/ZKBLdgX.jpg)
+![screenshot](https://i.imgur.com/OF5Kbhw.jpg)
+![screenshot](https://i.imgur.com/cQZ8jP5.jpg)
 - 【協力脱出】ぶいすぽデスゲーム【#ぶいすぽ３D】 -> https://www.youtube.com/live/nMTQyZ70TCQ?feature=share
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
@@ -553,9 +553,9 @@ Twitch: https://www.twitch.tv/videos/2014344400?t=00h54m30s
 
 ### 米亞 Mya (https://www.youtube.com/@mya./featured)
 ![screenshot](https://i.imgur.com/QzISOsI.jpg)
-![screenshot](https://i.imgur.com/P4ErH0x.png)
+![screenshot](https://i.imgur.com/MQ07xce.jpg)
 ![screenshot](https://i.imgur.com/W4UI45S.jpg)
-![screenshot](https://i.imgur.com/sBQVJ0h.png)
+![screenshot](https://i.imgur.com/E3WiIi8.jpg)
 ![screenshot](https://i.imgur.com/0bZFhwU.jpg)
 - 【#米亞兩週年】🎉兩週年🌸新房間攝影大會！補讀SC & 雜談 -> https://youtu.be/eC1djsRKSjY
 - 【#米亞兩週年】🎉跟大家一起慶祝 🎈 回饋粉絲向、紀念活動發表！-> https://youtu.be/1acQeY5hsgg?t=3480
@@ -563,10 +563,10 @@ Twitch: https://www.twitch.tv/videos/2014344400?t=00h54m30s
 - 🔴週年活動來入坑！玩玩彈射世界🐼＜有好多免費抽抽喔...我能抽到好東西嗎✨！ -> https://youtu.be/z3pQR7wgCdc
 
 ### VSPO!(ぶいすぽっ！) - 英リサ.Hanabusa Lisa (https://www.youtube.com/@lisahanabusa)
-![screenshot](https://i.imgur.com/ZM8qq51.jpg)
-![screenshot](https://i.imgur.com/d0gEvDD.jpg)
-![screenshot](https://i.imgur.com/tRrRM9G.jpg)
-![screenshot](https://i.imgur.com/f7jFXrL.jpg)
+![screenshot](https://i.imgur.com/gQHAQhs.jpg)
+![screenshot](https://i.imgur.com/budQFko.jpg)
+![screenshot](https://i.imgur.com/ghUkysz.jpg)
+![screenshot](https://i.imgur.com/nT0EUVI.jpg)
 - 【#英リサ3Dお披露目】3次元、お邪魔します【ぶいすぽっ！/英リサ】 -> https://www.youtube.com/live/ey9KCNzSALQ?feature=share
 
 ### myer gugu(崩坏的栗子_108番) (https://www.artstation.com/myergugu)
@@ -737,17 +737,17 @@ shader OFF
 ![screenshot](https://i.imgur.com/tduYcFM.jpg)
 
 shader ON
-![screenshot](https://i.imgur.com/BgiZbfa.png)
+![screenshot](https://i.imgur.com/cM5RJFJ.jpg)
 normal debug
-![screenshot](https://i.imgur.com/d1tqNLd.png)
+![screenshot](https://i.imgur.com/ynw0UBz.jpg)
 shader OFF
-![screenshot](https://i.imgur.com/Beu4mGP.png)
+![screenshot](https://i.imgur.com/XPmC2nt.jpg)
 
 ![screenshot](https://i.imgur.com/kPiktkr.jpg)
 ![screenshot](https://i.imgur.com/ltT2yHs.jpg)
 ![screenshot](https://i.imgur.com/JWbp20K.jpg)
 ![screenshot](https://i.imgur.com/183MzTr.jpg)
-![screenshot](https://i.imgur.com/fXgArpo.jpg)
+![screenshot](https://i.imgur.com/6LUJMZV.jpg)
 ![screenshot](https://i.imgur.com/1F9GxjT.jpg)
 ![screenshot](https://i.imgur.com/wXNlCNq.jpg)
 ![screenshot](https://i.imgur.com/Pbs5LAf.jpg)
