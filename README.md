@@ -256,6 +256,20 @@ Twitch: https://www.twitch.tv/videos/2014344400?t=00h54m30s
 ![screenshot](https://i.imgur.com/R9Sq8bw.jpg)
 - [MV] GIRL'S DAY - Darling｜Cover by Jururu -> https://youtu.be/7sFIjj5BW3M?si=xySDbq-FxfX-KPWJ
 
+### 浠Mizuki Channel (https://www.youtube.com/@MizukiVsinger)
+![screenshot](https://i.imgur.com/MLD53cv.jpg)
+![screenshot](https://i.imgur.com/hPGrptq.jpg)
+![screenshot](https://i.imgur.com/N1nzvz8.jpg)
+![screenshot](https://i.imgur.com/Irlz7pv.jpg)
+![screenshot](https://i.imgur.com/mvWl3a2.jpg)
+![screenshot](https://i.imgur.com/eX5wcLm.jpg)
+![screenshot](https://i.imgur.com/0UjUA7U.jpg)
+![screenshot](https://i.imgur.com/0FALsOV.jpg)
+![screenshot](https://i.imgur.com/IM414Xu.jpg)
+![screenshot](https://i.imgur.com/QyXXtuF.jpg)
+![screenshot](https://i.imgur.com/PIdv650.jpg)
+- 浠Mizuki 1st 3D Live『Bon Voyage!』 -> https://www.youtube.com/live/Z8vh7LdIfd8?si=qPchZCkqLWNL8Tj-
+
 ### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
 ![screenshot](https://i.imgur.com/gbCCiSL.jpg)
 ![screenshot](https://i.imgur.com/OQk9nOn.jpg)
