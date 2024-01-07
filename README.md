@@ -759,56 +759,56 @@ shader OFF
 ![screenshot](https://i.imgur.com/G9Eo2eb.jpg)
 ![screenshot](https://i.imgur.com/HUX3Em4.jpg)
 ![screenshot](https://i.imgur.com/vQQsD7j.jpg)
-![screenshot](https://i.imgur.com/HgpZRAM.png)
-![screenshot](https://i.imgur.com/YuYkbG7.png)
-![screenshot](https://i.imgur.com/T0QBUFP.png)
-![screenshot](https://i.imgur.com/LDa6JC9.png)
-![screenshot](https://i.imgur.com/3EoqpF0.png)
-![screenshot](https://i.imgur.com/mwZb9xZ.png)
-![screenshot](https://i.imgur.com/O7eMz5Q.png)
-![screenshot](https://i.imgur.com/bUn3f0q.png)
-![screenshot](https://i.imgur.com/WH7aW4J.png)
-![screenshot](https://i.imgur.com/NP2LMr6.png)
-![screenshot](https://i.imgur.com/Uv4seOB.png)
-![screenshot](https://i.imgur.com/MCqHtlQ.png)
-![screenshot](https://i.imgur.com/yu37Jr0.png)
-![screenshot](https://i.imgur.com/1CZ2XJa.png)
-![screenshot](https://i.imgur.com/Hxc7U5M.png)
-![screenshot](https://i.imgur.com/pbBcur0.png)
-![screenshot](https://i.imgur.com/WjT1sZp.png)
-![screenshot](https://i.imgur.com/BMyOEl9.png)
-![screenshot](https://i.imgur.com/JF4iDhM.png)
-![screenshot](https://i.imgur.com/Rtft0od.png)
-![screenshot](https://i.imgur.com/xptIKZy.png)
-![screenshot](https://i.imgur.com/f8EEr3o.png)
-![screenshot](https://i.imgur.com/nFPy1KS.png)
-![screenshot](https://i.imgur.com/sBpX10Y.png)
-![screenshot](https://i.imgur.com/EyiMbKP.png)
-![screenshot](https://i.imgur.com/McKrRYW.png)
-![screenshot](https://i.imgur.com/DaRpLLX.png)
+![screenshot](https://i.imgur.com/M3vVDZZ.jpg)
+![screenshot](https://i.imgur.com/DfAGBNL.jpg)
+![screenshot](https://i.imgur.com/gIbAOkS.jpg)
+![screenshot](https://i.imgur.com/LdKhKsA.jpg)
+![screenshot](https://i.imgur.com/LHrgEw8.jpg)
+![screenshot](https://i.imgur.com/x1KZFou.jpg)
+![screenshot](https://i.imgur.com/V2N59VY.jpg)
+![screenshot](https://i.imgur.com/D4VeHH5.jpg)
+![screenshot](https://i.imgur.com/qJBkQ0X.jpg)
+![screenshot](https://i.imgur.com/oVO96ml.jpg)
+![screenshot](https://i.imgur.com/v7E6fkU.jpg)
+![screenshot](https://i.imgur.com/d2R1L10.jpg)
+![screenshot](https://i.imgur.com/MinoelW.jpg)
+![screenshot](https://i.imgur.com/c0zQJP5.jpg)
+![screenshot](https://i.imgur.com/3RPeUSP.jpg)
+![screenshot](https://i.imgur.com/PZP4P3f.jpg)
+![screenshot](https://i.imgur.com/NRHrNfc.jpg)
+![screenshot](https://i.imgur.com/cZHp2de.jpg)
+![screenshot](https://i.imgur.com/cb9H6YP.jpg)
+![screenshot](https://i.imgur.com/2avJKYG.jpg)
+![screenshot](https://i.imgur.com/wf00agx.jpg)
+![screenshot](https://i.imgur.com/eYoZpKo.jpg)
+![screenshot](https://i.imgur.com/VjsNwS8.jpg)
+![screenshot](https://i.imgur.com/jClzSlf.jpg)
+![screenshot](https://i.imgur.com/AKM46Os.jpg)
+![screenshot](https://i.imgur.com/K8qHw6E.jpg)
+![screenshot](https://i.imgur.com/Xw5PBsw.jpg)
 ![screenshot](https://i.imgur.com/N02piW3.jpg)
 
 -------------------
 
 SHADER ON
-![screenshot](https://i.imgur.com/utXF8Qq.png)
-![screenshot](https://i.imgur.com/oEsHSMM.png)
+![screenshot](https://i.imgur.com/QyrLHYb.jpg)
+![screenshot](https://i.imgur.com/T00U1qO.jpg)
 BEFORE
-![screenshot](https://i.imgur.com/K6mZCcH.png)
+![screenshot](https://i.imgur.com/qAbvxEZ.jpg)
 AFTER:
-![screenshot](https://i.imgur.com/hjEeAoM.png)
+![screenshot](https://i.imgur.com/373jFLC.jpg)
 see it in motion-> https://youtu.be/D9ocVzGJfI8
 
 ---
 3D enviroment model TEST  
-![screenshot](https://i.imgur.com/AOAxQJ8.png)
-![screenshot](https://i.imgur.com/WlOQtCf.png)
+![screenshot](https://i.imgur.com/Ob6xlwI.jpg)
+![screenshot](https://i.imgur.com/1GgqIZx.jpg)
 see it in motion-> https://youtu.be/GcW0pNo-zus
 ---
 湊 あくあ（みなと あくあ，Minato Aqua） model TEST
-![screenshot](https://i.imgur.com/iDDFjoO.png)
-![screenshot](https://i.imgur.com/4aFqOND.png)
-![screenshot](https://i.imgur.com/7KjUwrI.png)
+![screenshot](https://i.imgur.com/bV1fIu8.jpg)
+![screenshot](https://i.imgur.com/vCcnuso.jpg)
+![screenshot](https://i.imgur.com/phqlwZE.jpg)
 see it in motion-> https://youtu.be/7zICgzdxuGg
 ---
 see it in motion-> https://youtu.be/X3XoYMTleJ0
@@ -816,77 +816,76 @@ see it in motion-> https://youtu.be/X3XoYMTleJ0
 Auto Phong tessellation  
 
 (shader off, no tessellation)
-![screenshot](https://i.imgur.com/yAUdcmK.png)
+![screenshot](https://i.imgur.com/OLAKa24.jpg)
 (shader on, no tessellation)
-![screenshot](https://i.imgur.com/pncbBUq.png)
+![screenshot](https://i.imgur.com/Q2DyIG7.jpg)
 (shader on, enable tessellation! Phong tessellation can make your model smooth without changing your .fbx)
-![screenshot](https://i.imgur.com/nGCmiEj.png)
+![screenshot](https://i.imgur.com/qlJ2bQQ.jpg)
 see it in motion-> https://youtu.be/D-MxyBa0nJE
 ---
 
 Kawaii model TEST (@ganbaru_sisters)
-![screenshot](https://i.imgur.com/7CAw71u.png)
-![screenshot](https://i.imgur.com/42CUENh.png)
+![screenshot](https://i.imgur.com/v9TRN5A.jpg)
+![screenshot](https://i.imgur.com/FIeltjQ.jpg)
 
-Upgraded to Unity2020.2 (URP 10.2.1)
 SHADER ON
-![screenshot](https://i.imgur.com/6chTRCl.png)
+![screenshot](https://i.imgur.com/ztEdBPp.jpg)
 SHADER OFF
-![screenshot](https://i.imgur.com/Vu2M5zB.png)
+![screenshot](https://i.imgur.com/JiqrUkk.jpg)
 HD
-![screenshot](https://i.imgur.com/KXYYfaN.png)
+![screenshot](https://i.imgur.com/oV6iTsP.jpg)
 
 shader ON
-![screenshot](https://i.imgur.com/VLZKP5h.png)
+![screenshot](https://i.imgur.com/ZZ0vVjz.jpg)
 shader OFF
-![screenshot](https://i.imgur.com/lTm0zvH.png)
+![screenshot](https://i.imgur.com/POagEfm.jpg)
 
 ---
 
 BEFORE
-![screenshot](https://i.imgur.com/JImt9l4.png)
+![screenshot](https://i.imgur.com/oxi44CQ.jpg)
 AFTER
-![screenshot](https://i.imgur.com/0oc1hFK.png)
+![screenshot](https://i.imgur.com/FpbVbc0.jpg)
 see it in motion-> https://youtu.be/KpRkxPnHuK0
 ---
 BEFORE
-![screenshot](https://i.imgur.com/Ak6rFTp.png)
+![screenshot](https://i.imgur.com/ChhR8Bj.jpg)
 AFTER
-![screenshot](https://i.imgur.com/6BTsiRF.png)
+![screenshot](https://i.imgur.com/h8lkC3L.jpg)
 (more shadow from trees)
-![screenshot](https://i.imgur.com/qSygREh.png)
+![screenshot](https://i.imgur.com/GV1QZh6.jpg)
 ---
 
 BEFORE
-![screenshot](https://i.imgur.com/rXEDmiy.png)
+![screenshot](https://i.imgur.com/vgssMwd.jpg)
 AFTER:
-![screenshot](https://i.imgur.com/J7F3vuC.png)
+![screenshot](https://i.imgur.com/MUBfY1H.jpg)
 see it in motion-> https://youtu.be/hUWacEQH6js
 ---
 BEFORE
 
-![screenshot](https://i.imgur.com/kZFNunW.png)
+![screenshot](https://i.imgur.com/x9mhDzt.jpg)
 
 AFTER:
 
-![screenshot](https://i.imgur.com/mnm5uYS.png)
+![screenshot](https://i.imgur.com/Gf5RyTd.jpg)
 
 BEFORE
 
 
-![screenshot](https://i.imgur.com/a9VUVgd.png)
+![screenshot](https://i.imgur.com/Y39qHYk.jpg)
 
 
 AFTER:
 
 
-![screenshot](https://i.imgur.com/VgSZMka.png)
+![screenshot](https://i.imgur.com/VwIN3sH.jpg)
 
 
 add 2D hair shadow & rim light
 
 
-![screenshot](https://i.imgur.com/KXdMhhv.png)
+![screenshot](https://i.imgur.com/3UqLwYH.jpg)
 
 
 
@@ -896,75 +895,75 @@ see it in motion-> https://youtu.be/S67GlGAnvWA
 
 ---
 BEFORE
-![screenshot](https://i.imgur.com/ApJyl6p.png)
+![screenshot](https://i.imgur.com/qeljSpf.jpg)
 AFTER:
-![screenshot](https://i.imgur.com/5GiKMUG.png)
+![screenshot](https://i.imgur.com/dzK985t.jpg)
 
 see it in motion-> https://youtu.be/M6FKoEiOAzU
 ---
 -------------------
 BEFORE
-![screenshot](https://i.imgur.com/FiuK1Cj.png)
+![screenshot](https://i.imgur.com/A2PyqyJ.jpg)
 AFTER:
 Sunny + StreetLight ON
-![screenshot](https://i.imgur.com/Lh5D9Y9.png)
+![screenshot](https://i.imgur.com/mFoMG6n.jpg)
 Sunny + StreetLight OFF
-![screenshot](https://i.imgur.com/NcsKQL8.png)
+![screenshot](https://i.imgur.com/CwQwVWV.jpg)
 Night + StreetLight ON
-![screenshot](https://i.imgur.com/AXV9Yig.png)
+![screenshot](https://i.imgur.com/K2sGcZH.jpg)
 Night + StreetLight OFF
-![screenshot](https://i.imgur.com/mJ1sjUm.png)
+![screenshot](https://i.imgur.com/CXCeJsK.jpg)
 see it in motion -> https://youtu.be/jDSnJmZrKPw
 ---
 BEFORE
-![screenshot](https://i.imgur.com/U5ba2lM.png)
+![screenshot](https://i.imgur.com/xY7XacI.jpg)
 AFTER
-![screenshot](https://i.imgur.com/cuZUqwW.png)
+![screenshot](https://i.imgur.com/NLSgYm9.jpg)
 ---
 BEFORE
-![screenshot](https://i.imgur.com/AMDcMdG.png)
+![screenshot](https://i.imgur.com/t9UnHK0.jpg)
 AFTER
-![screenshot](https://i.imgur.com/GB31Nay.png)
+![screenshot](https://i.imgur.com/qlDP3KN.jpg)
 see it in motion -> https://youtu.be/ZfSZOHTBypc
 ---
 BEFORE
-![screenshot](https://i.imgur.com/UCETVsr.png)
+![screenshot](https://i.imgur.com/4aEs2eo.jpg)
 AFTER
-![screenshot](https://i.imgur.com/7Wjdp8W.png)
+![screenshot](https://i.imgur.com/Nsl24so.jpg)
 see it in motion -> https://youtu.be/EgxiWPk-vaE
 
 ---
 BEFORE
-![screenshot](https://i.imgur.com/5afc5z5.png)
+![screenshot](https://i.imgur.com/7hgVTZb.jpg)
 AFTER
-![screenshot](https://i.imgur.com/pQ4DIqe.png)
+![screenshot](https://i.imgur.com/3jzOYAs.jpg)
 see it in motion -> https://youtu.be/Ty4DXLFqqDo
 ---
 BEFORE
-![screenshot](https://i.imgur.com/WKL3NwV.png)
+![screenshot](https://i.imgur.com/K08rm3X.jpg)
 AFTER
-![screenshot](https://i.imgur.com/8e6wtVZ.png)
+![screenshot](https://i.imgur.com/PknYemC.jpg)
 see it in motion -> https://youtu.be/cebGl_MaWnI
 ---
 BEFORE
-![screenshot](https://i.imgur.com/KwpjGHz.png)
+![screenshot](https://i.imgur.com/QUFEnam.jpg)
 AFTER
-![screenshot](https://i.imgur.com/KPxL4vR.png)
+![screenshot](https://i.imgur.com/0fpAVnH.jpg)
 see it in motion ->https://youtu.be/nl5z0r8a9vk
 ---
-![screenshot](https://i.imgur.com/KxdjhCx.png)
-![screenshot](https://i.imgur.com/6t2FMcg.png)
-![screenshot](https://i.imgur.com/CZHnfMC.png)
+![screenshot](https://i.imgur.com/leuzJ5w.jpg)
+![screenshot](https://i.imgur.com/AaHctFN.jpg)
+![screenshot](https://i.imgur.com/Ie6nYSH.jpg)
 see it in motion -> https://youtu.be/uVI_QOioER4
 ---
 Fake Skin SSS & specular
-![screenshot](https://i.imgur.com/ZoDO5TB.png)
-![screenshot](https://i.imgur.com/ICH4dFt.png)
+![screenshot](https://i.imgur.com/aO6a3gU.jpg)
+![screenshot](https://i.imgur.com/kVZ0vVg.jpg)
 
 BEFORE
-![screenshot](https://i.imgur.com/dPvjIQK.png)
+![screenshot](https://i.imgur.com/PQoFKIM.jpg)
 AFTER
-![screenshot](https://i.imgur.com/GvxXtva.png)
+![screenshot](https://i.imgur.com/P7CIuSX.jpg)
 
 
 What is included in this simplified tutorial example toon-lit shader repository?
@@ -972,7 +971,7 @@ What is included in this simplified tutorial example toon-lit shader repository?
 This repository only contains a very simple toon-lit URP tutorial shader example, to help people write their first custom toon-lit shader in URP.
 
 This example shader's default result(without editing material params) = the following picture
-![screenshot](https://i.imgur.com/mbUnvsA.png)
+![screenshot](https://i.imgur.com/7vo6Duo.jpg)
 
 Because this example toon lit shader aims to help people learn shader writing in URP, it is an extremely simplified version. This repository only contains ~3% of the NiloToonURP(full version)'s code, which only contains the most basic & easily understandable sections, to make sure everyone can understand the shader code easily.
 
@@ -1003,13 +1002,13 @@ but doing this will make the lighting slightly incorrect.
 3. edit "Normals" to Calculate
 4. edit "Smoothing Angle" to 180  
   
-![screenshot](https://i.imgur.com/yxDkeGP.png)  
+![screenshot](https://i.imgur.com/rqefuLr.jpg)  
 before calculating smooth normal (print screen of the tutorial shader, not NiloToonURP)  
-![screenshot](https://i.imgur.com/uTJ3gxB.png)  
+![screenshot](https://i.imgur.com/wbjjNtF.jpg)  
 after calculating smooth normal  (print screen of the tutorial shader, not NiloToonURP)
-![screenshot](https://i.imgur.com/9Jnnigf.png)
+![screenshot](https://i.imgur.com/fTscZV0.jpg)
 
-*NiloToonURP(full version) contains a few editor C# scripts, which can help the shader to produce correct lighting and perfect outline together automatically.
+*NiloToonURP(full version) contains many editor/runtime C# scripts, some of them are for producing correct lighting and perfect outline together automatically.
 
 What is NOT included in this simplified tutorial shader?
 -------------------
@@ -1048,10 +1047,9 @@ http://stereoarts.jp/
 if you downloaded a .vrm file, use UniVRM to convert it to prefab directly inside Unity
 https://github.com/vrm-c/UniVRM
 
-Editor environment requirement
+Editor version requirement
 -----------------------
-- URP 12
-- Unity 2021.3
+- Unity 2022.3
 
 ---------------------------
 Apply our shader to another model (2020-2 early version screenshots)
