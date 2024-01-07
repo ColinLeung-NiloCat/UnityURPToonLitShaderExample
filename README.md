@@ -1055,32 +1055,32 @@ Editor version requirement
 Apply our shader to another model (2020-2 early version screenshots)
 https://youtu.be/uVI_QOioER4
 
-![screenshot](https://i.imgur.com/LBTNZCH.png)
-![screenshot](https://i.imgur.com/X6hAD7W.png)
-![screenshot](https://i.imgur.com/WIGyMVx.png)
-![screenshot](https://i.imgur.com/zou7PxL.png)
-![screenshot](https://i.imgur.com/WpkJyFB.png)
-![screenshot](https://i.imgur.com/3iyu3eG.png)
+![screenshot](https://i.imgur.com/qsx3VYw.jpg)
+![screenshot](https://i.imgur.com/NTek8q8.jpg)
+![screenshot](https://i.imgur.com/ee9dakE.jpg)
+![screenshot](https://i.imgur.com/Bs0AKcb.jpg)
+![screenshot](https://i.imgur.com/RITr1Il.jpg)
+![screenshot](https://i.imgur.com/R2yHbz7.jpg)
 
 More old screenshots from the Full version shader:
 ---
 
-![screenshot](https://i.imgur.com/DDr32Mu.png)
+![screenshot](https://i.imgur.com/j5RgZpO.jpg)
 https://youtu.be/IP293mAmBCk
 
-![screenshot](https://i.imgur.com/kbpw4Me.png)
-![screenshot](https://i.imgur.com/jaMaTKt.png)
-![screenshot](https://i.imgur.com/D7ARBo0.png)
+![screenshot](https://i.imgur.com/Wi0qy8V.jpg)
+![screenshot](https://i.imgur.com/ncdJ7vp.jpg)
+![screenshot](https://i.imgur.com/xoxrIZW.jpg)
 
-![screenshot](https://i.imgur.com/lt45arW.png)
-![screenshot](https://i.imgur.com/RcSz8H1.png)
+![screenshot](https://i.imgur.com/aj12x53.jpg)
+![screenshot](https://i.imgur.com/mXOkXOJ.jpg)
 
 different Background image TEST
-![screenshot](https://i.imgur.com/hev9PtZ.png)
-![screenshot](https://i.imgur.com/lRdXn3I.png)
-![screenshot](https://i.imgur.com/cx8tZox.png)
-![screenshot](https://i.imgur.com/GYPoNWT.png)
-![screenshot](https://i.imgur.com/fZw0Wzt.png)
+![screenshot](https://i.imgur.com/p6EcR8C.jpg)
+![screenshot](https://i.imgur.com/yT1IFKo.jpg)
+![screenshot](https://i.imgur.com/EyKmmH5.jpg)
+![screenshot](https://i.imgur.com/WzuA4rN.jpg)
+![screenshot](https://i.imgur.com/QxJ3tUR.jpg)
 
 Credits
 ------------------------
