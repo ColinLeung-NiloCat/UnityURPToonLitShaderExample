@@ -95,6 +95,24 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/bEjNiOj.jpg)
 - 【原神生日会】When The Stars Align -> https://www.bilibili.com/video/BV1vT411T79n
 
+### キラッとプリ⭐︎チャン (https://twitter.com/pretty_vlive)
+![screenshot](https://i.imgur.com/Ul1u4hz.jpg)
+![screenshot](https://i.imgur.com/hJPCGmE.jpg)
+![screenshot](https://i.imgur.com/qwcCPN0.jpg)
+![screenshot](https://i.imgur.com/JbZRJXG.jpg)
+![screenshot](https://i.imgur.com/TwBlQe0.jpg)
+![screenshot](https://i.imgur.com/FnpWMuV.jpg)
+![screenshot](https://i.imgur.com/SdgQvOA.jpg)
+![screenshot](https://i.imgur.com/frhGcNt.jpg)
+![screenshot](https://i.imgur.com/8suihAg.jpg)
+![screenshot](https://i.imgur.com/RCo6T3s.jpg)
+![screenshot](https://i.imgur.com/apSrmFa.jpg)
+![screenshot](https://i.imgur.com/SdgQvOA.jpg)
+![screenshot](https://i.imgur.com/pTyaOOW.jpg)
+![screenshot](https://i.imgur.com/gSJLGDF.jpg)
+![screenshot](https://i.imgur.com/AtJqovW.jpg)
+- バーチャルミュージカル「ハイスクール！キラッとプリ☆チャン ～キラキラ☆未来の運命～」 -> https://www.zan-live.com/ja/live/detail/10395
+
 ### VSPO!(ぶいすぽっ！) - 胡桃のあ (https://www.youtube.com/@963Noah)
 ![screenshot](https://i.imgur.com/bRNlOWG.jpg)
 ![screenshot](https://i.imgur.com/Ffuybg8.jpg)
