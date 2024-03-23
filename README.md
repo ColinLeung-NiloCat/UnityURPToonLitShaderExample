@@ -41,12 +41,13 @@ shader OFF
 ![screenshot](https://i.imgur.com/WccM1g8.jpg)
 ![screenshot](https://i.imgur.com/i4O6m4z.jpg)
 
-We are now developing an "easy-to-use + high-performance + cross-platform(including mobile/VR/WebGL)" Closed source toon shader package - NiloToonURP,
-to assist Unity URP users in achieving high-quality anime/toon-like rendering.  
+We are now developing an 'easy-to-use, high-performance, and cross-platform (including mobile, VR, and WebGL)' closed-source toon shader package—NiloToonURP—to assist Unity URP users in achieving high-quality anime/toon-like rendering.
 
 NiloToonURP is supporting:
 - Unity 2021.3LTS(URP 12.x)
 - Unity 2022.3LTS(URP 14.x)
+- Unity 2023.2 (URP 16.x)
+- Unity6 (URP 17.x)
 
 # Download NiloToonURP PC .exe demo (2021.3.17LTS build):
 - https://drive.google.com/file/d/1MubGDhlDRKKxR9xyl7fcLyECyBJdsqrI/view?usp=sharing  
@@ -125,6 +126,18 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/lTYv5uO.jpg)
 ![screenshot](https://i.imgur.com/ThgxjXs.jpg)
 - #胡桃のあ3Dライブ│ 星降る夜に願いを込めて 🌠 -> https://www.youtube.com/live/otBLdDjhmp4?si=4YsH2jpEedQ7UaHK&t=1875
+
+### VVV MUSIC LIVE 公式(ブイスリー) (https://twitter.com/VVVMusicLive)
+![screenshot](https://i.imgur.com/9Xi2ae3.jpg)
+![screenshot](https://i.imgur.com/7ioCq51.jpg)
+![screenshot](https://i.imgur.com/7YcVoPO.jpg)
+![screenshot](https://i.imgur.com/SWOr8Gh.jpg)
+![screenshot](https://i.imgur.com/s8YWX0N.jpg)
+![screenshot](https://i.imgur.com/4wkNyIJ.jpg)
+![screenshot](https://i.imgur.com/VDFnNm2.jpg)
+![screenshot](https://i.imgur.com/rnJo98j.jpg)
+![screenshot](https://i.imgur.com/kI65eW8.jpg)
+- [VVV MUSIC LIVE 2023 RE:TUNE【第1部】](https://live.nicovideo.jp/watch/lv344122922)
 
 ### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/Y5ZqAQR.jpg)
@@ -253,7 +266,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/y1BvqRe.jpg)
 ![screenshot](https://i.imgur.com/CET2UlW.jpg)
 ![screenshot](https://i.imgur.com/IAEDyfl.jpg)
-- 【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」【#ぶいすぽ３D】 -> https://www.youtube.com/live/9GaGcoDiULw?feature=share
+- [【3D企画】ぶいすぽ公式音楽番組「ぶいすPOP！」【#ぶいすぽ３D】](https://www.youtube.com/live/9GaGcoDiULw?si=MTzHPHCocQWuNiEu&t=559)
 
 ### Takanashi Kiara Ch. hololive-EN (https://www.youtube.com/@TakanashiKiara)
 ![screenshot](https://i.imgur.com/QT0acUh.jpg)
