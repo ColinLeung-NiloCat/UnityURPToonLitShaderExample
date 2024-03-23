@@ -165,10 +165,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/qkJO7Cr.jpg)
 ![screenshot](https://i.imgur.com/4gkLntJ.jpg)
 ![screenshot](https://i.imgur.com/QzvwSx3.jpg)
-- 【#杏仁ミル5周年LIVE】Back To A Beginner's Spirit | 回歸初心3D演唱會【#杏仁ミル】->   
-Twitch: https://www.twitch.tv/videos/2014344400?t=00h54m30s  
-Youtube:
-https://www.youtube.com/watch?v=iCo2gQCupvs&list=PLHHwxaEhb01NztWik7JRj7CCKH8wQ6eI-&index=6
+- [【#杏仁ミル5周年LIVE】Back To A Beginner's Spirit | 回歸初心3D演唱會【#杏仁ミル】](https://www.twitch.tv/videos/2014344400?t=00h54m30s)   
+- [【3D LIVE映像】Rabbit - Cover by 杏仁ミルｘRumi懶貓子【#杏仁ミル 5周年LIVE影像】](https://www.youtube.com/watch?v=iCo2gQCupvs&list=PLHHwxaEhb01NztWik7JRj7CCKH8wQ6eI-&index=6)  
+- [【3D LIVE映像】ハートビート・フロムユー - Cover by 杏仁ミル【#杏仁ミル 5周年LIVE影像】](https://www.youtube.com/watch?v=4cnekD1wk30&list=PLHHwxaEhb01NztWik7JRj7CCKH8wQ6eI-&index=10)  
+- [【3D LIVE映像】おねだり大作戦 - Cover by 杏仁ミル【#杏仁ミル 5周年LIVE影像】](https://www.youtube.com/watch?v=0xC972nEMYM&list=PLHHwxaEhb01NztWik7JRj7CCKH8wQ6eI-&index=12)  
+- [【3D LIVE映像】ライオン - Cover by 杏仁ミル x カグラナナ【#杏仁ミル 5周年LIVE影像】](https://www.youtube.com/watch?v=u4kN1qDqRx0&list=PLHHwxaEhb01NztWik7JRj7CCKH8wQ6eI-&index=13)
+- [【3D LIVE映像】僕らのレットイットビー - Cover by 杏仁ミル【#杏仁ミル 5周年LIVE影像】](https://youtu.be/LagMYTFRq1Y?si=2OC3dtxNGjq5adcj)
+- [【3D LIVE映像】おじゃま虫 - Cover by 杏仁ミル【#杏仁ミル 5周年LIVE影像】](https://youtu.be/NC_Yr18wLq4?si=QanNLNz157gIT2WA)
+- [【3D LIVE映像】ドレミファロンド - Cover by 杏仁ミル【#杏仁ミル 5周年LIVE影像】](https://youtu.be/6FxpGLUvw8M?si=7N-pU8-E5dBcSFmV)
 
 ### ぶいごまチャンネル　V後藤真希 (https://www.youtube.com/@V_GOTO_MAKI)
 ![screenshot](https://i.imgur.com/gFAPtTS.jpg)
@@ -311,6 +315,21 @@ https://www.youtube.com/watch?v=iCo2gQCupvs&list=PLHHwxaEhb01NztWik7JRj7CCKH8wQ6
 ![screenshot](https://i.imgur.com/y13uJN0.jpg)
 ![screenshot](https://i.imgur.com/186xRLg.jpg)
 - 【【直播回放】【3d】三周年新衣发布～ 2023年8月9日19点场】 -> https://www.bilibili.com/video/BV1uX4y1j7BY
+
+### WAKTAVERSE (https://www.youtube.com/@waktaverse)
+![screenshot](https://i.imgur.com/AgWJEqV.jpg)
+![screenshot](https://i.imgur.com/vIgo9rc.jpg)
+![screenshot](https://i.imgur.com/Ez8aqpv.jpg)
+![screenshot](https://i.imgur.com/hfqbqL3.jpg)
+![screenshot](https://i.imgur.com/3wg0oFU.jpg)
+![screenshot](https://i.imgur.com/iMxGJ1q.jpg)
+![screenshot](https://i.imgur.com/6NCf9Yh.jpg)
+![screenshot](https://i.imgur.com/8e9rczR.jpg)
+![screenshot](https://i.imgur.com/1wRb1fA.jpg)
+![screenshot](https://i.imgur.com/lkWZqnE.jpg)
+![screenshot](https://i.imgur.com/U24OrRQ.jpg)
+![screenshot](https://i.imgur.com/40pXFdE.jpg)
+- [Kissing You(키싱유) 이세계아이돌 COVERㅣ[소녀시대 - Kissing You(키싱유)] (ISEGYE IDOL)](https://youtu.be/OrFyzG5yTC4?si=WAkRHXFEqmPUFa9d)
 
 ### hololive - Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
 ![screenshot](https://i.imgur.com/qjVT4M7.jpg)
