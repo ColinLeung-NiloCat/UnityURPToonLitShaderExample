@@ -213,6 +213,19 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/BHzmmYt.jpg)
 - 【 #小森めと爆誕2023 】小森めと爆誕3Dライブ！~食え！寝ろ！遊べ！~ 【 ぶいすぽっ！ / 小森めと 】 -> https://www.youtube.com/live/buF_TtzS9SA?si=vU6pt_XNCuwr5CB6&t=179
 
+### Veibae (https://www.youtube.com/@Veibae)
+![screenshot](https://i.imgur.com/EfJUnkz.jpg)
+![screenshot](https://i.imgur.com/wXHOoIa.jpg)
+![screenshot](https://i.imgur.com/dDdoZnB.jpg)
+![screenshot](https://i.imgur.com/BoK7p87.jpg)
+![screenshot](https://i.imgur.com/H5oVtXj.jpg)
+![screenshot](https://i.imgur.com/sQTNs6S.jpg)
+![screenshot](https://i.imgur.com/xidweRe.jpg)
+![screenshot](https://i.imgur.com/voydXQ4.jpg)
+![screenshot](https://i.imgur.com/Q6pwhNT.jpg)
+![screenshot](https://i.imgur.com/h26aQOn.jpg)
+- [[17.02.2024] Vei - 3D Comeback Stream (new 3D model debut)](https://youtu.be/mTeJOx-487s?si=Mbb5leehGoQXSF3-&t=1805)
+
 ### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
 ![screenshot](https://i.imgur.com/Tp29cyb.jpg)
 ![screenshot](https://i.imgur.com/9OsMvwh.jpg)
@@ -222,6 +235,10 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【情人节当一天恋爱脑也可以吧！】 -> https://www.bilibili.com/video/BV1wv4y1x7NZ
 - 【这次是全身版！！】 -> https://www.bilibili.com/video/BV1QM411b7pe
 - 【因为我是最棒滴！【僕が最高だから／ハコニワリリィ】】 -> https://www.bilibili.com/video/BV1rs4y1S7uB
+
+### Stargazer Official @ 스타게이저 @ スターゲイザー (https://twitter.com/StargazerCoLtd)
+![screenshot](https://i.imgur.com/n01LCwX.jpg)
+- [24ちゃん(イーサーちゃん)⚓🦷24Chan in 3D](https://twitter.com/StargazerCoLtd/status/1771108689916637350)
 
 ### VSPO!(ぶいすぽっ！) - 花芽すみれ (https://www.youtube.com/@KagaSumire)
 ![screenshot](https://i.imgur.com/zk7AsTW.jpg)
