@@ -115,6 +115,24 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/AtJqovW.jpg)
 - バーチャルミュージカル「ハイスクール！キラッとプリ☆チャン ～キラキラ☆未来の運命～」 -> https://www.zan-live.com/ja/live/detail/10395
 
+### Suisei Channel - hololive (https://www.youtube.com/@HoshimachiSuisei)
+![screenshot](https://i.imgur.com/XX23J0Q.jpg)
+![screenshot](https://i.imgur.com/MMbNWCA.jpg)
+![screenshot](https://i.imgur.com/x4PLSHc.jpg)
+![screenshot](https://i.imgur.com/G7L6O6u.jpg)
+![screenshot](https://i.imgur.com/kdG28ik.jpg)
+![screenshot](https://i.imgur.com/CTOI2aK.jpg)
+![screenshot](https://i.imgur.com/b5Ku6pB.jpg)
+![screenshot](https://i.imgur.com/jh3AMVa.jpg)
+![screenshot](https://i.imgur.com/jWLC9wA.jpg)
+![screenshot](https://i.imgur.com/STP9tAD.jpg)
+![screenshot](https://i.imgur.com/4BCD4O0.jpg)
+![screenshot](https://i.imgur.com/QeJhkWk.jpg)
+![screenshot](https://i.imgur.com/Pvb7u7X.jpg)
+![screenshot](https://i.imgur.com/WWmhvl8.jpg)
+![screenshot](https://i.imgur.com/4xlD9UM.jpg)
+- [シュガーラッシュ / miComet(official)](https://youtu.be/gtgME6MJpk4?si=cIsl6r1l8eSqd4Fl)
+
 ### VSPO!(ぶいすぽっ！) - 胡桃のあ (https://www.youtube.com/@963Noah)
 ![screenshot](https://i.imgur.com/bRNlOWG.jpg)
 ![screenshot](https://i.imgur.com/Ffuybg8.jpg)
@@ -138,6 +156,8 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/rnJo98j.jpg)
 ![screenshot](https://i.imgur.com/kI65eW8.jpg)
 - [VVV MUSIC LIVE 2023 RE:TUNE【第1部】](https://live.nicovideo.jp/watch/lv344122922)
+- [VVV MUSIC LIVE 2023 RE:TUNE - X Preview 1](https://twitter.com/VVVMusicLive/status/1773288934870839380)
+- [VVV MUSIC LIVE 2023 RE:TUNE - X Preview 2](https://twitter.com/VVVMusicLive/status/1774013705090371721)
 
 ### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/Y5ZqAQR.jpg)
@@ -187,6 +207,21 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - [【3D LIVE映像】おじゃま虫 - Cover by 杏仁ミル【#杏仁ミル 5周年LIVE影像】](https://youtu.be/NC_Yr18wLq4?si=QanNLNz157gIT2WA)
 - [【3D LIVE映像】ドレミファロンド - Cover by 杏仁ミル【#杏仁ミル 5周年LIVE影像】](https://youtu.be/6FxpGLUvw8M?si=7N-pU8-E5dBcSFmV)
 
+### ISEGYE IDOL (이세계아이돌) - 주르르 JURURU (https://www.youtube.com/@JU_RURU)
+![screenshot](https://i.imgur.com/acdR9Lj.jpg)
+![screenshot](https://i.imgur.com/DUq6AlZ.jpg)
+![screenshot](https://i.imgur.com/ZOT96go.jpg)
+![screenshot](https://i.imgur.com/SSKKyLY.jpg)
+![screenshot](https://i.imgur.com/l0W9J72.jpg)
+![screenshot](https://i.imgur.com/nC3nGFo.jpg)
+![screenshot](https://i.imgur.com/v7NusDY.jpg)
+![screenshot](https://i.imgur.com/Ytln6oQ.jpg)
+![screenshot](https://i.imgur.com/XAL2vEg.jpg)
+![screenshot](https://i.imgur.com/K9OlGaK.jpg)
+![screenshot](https://i.imgur.com/yGgFYYB.jpg)
+![screenshot](https://i.imgur.com/R9Sq8bw.jpg)
+- [GIRL'S DAY - Darling｜Cover by Jururu](https://youtu.be/7sFIjj5BW3M?si=xySDbq-FxfX-KPWJ)
+
 ### ぶいごまチャンネル　V後藤真希 (https://www.youtube.com/@V_GOTO_MAKI)
 ![screenshot](https://i.imgur.com/gFAPtTS.jpg)
 ![screenshot](https://i.imgur.com/hI9cd0g.jpg)
@@ -225,6 +260,11 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/Q6pwhNT.jpg)
 ![screenshot](https://i.imgur.com/h26aQOn.jpg)
 - [[17.02.2024] Vei - 3D Comeback Stream (new 3D model debut)](https://youtu.be/mTeJOx-487s?si=Mbb5leehGoQXSF3-&t=1805)
+- [whatcha lookin at](https://twitter.com/Veibae/status/1758207305479336311)
+- [omw back to streamin as 3d 😳](https://twitter.com/Veibae/status/1751654864726507959)
+- [butt ＼ʕ •ᴥ•ʔ／](https://twitter.com/Veibae/status/1760078411937034745)
+- [bumpin heads](https://twitter.com/Veibae/status/1758589960590852408)
+- [Veibae vs Buckshot Roulette](https://youtu.be/d67CvouX68M?si=-sDEIyC7GCa2hmuT)
 
 ### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
 ![screenshot](https://i.imgur.com/Tp29cyb.jpg)
@@ -294,21 +334,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/AzE873T.jpg)
 ![screenshot](https://i.imgur.com/burEUOf.jpg)
 - DO U - Takanashi Kiara (Official Music Video) -> https://youtu.be/QI96hnhcr2E
-
-### ISEGYE IDOL (이세계아이돌) - 주르르 JURURU (https://www.youtube.com/@JU_RURU)
-![screenshot](https://i.imgur.com/acdR9Lj.jpg)
-![screenshot](https://i.imgur.com/DUq6AlZ.jpg)
-![screenshot](https://i.imgur.com/ZOT96go.jpg)
-![screenshot](https://i.imgur.com/SSKKyLY.jpg)
-![screenshot](https://i.imgur.com/l0W9J72.jpg)
-![screenshot](https://i.imgur.com/nC3nGFo.jpg)
-![screenshot](https://i.imgur.com/v7NusDY.jpg)
-![screenshot](https://i.imgur.com/Ytln6oQ.jpg)
-![screenshot](https://i.imgur.com/XAL2vEg.jpg)
-![screenshot](https://i.imgur.com/K9OlGaK.jpg)
-![screenshot](https://i.imgur.com/yGgFYYB.jpg)
-![screenshot](https://i.imgur.com/R9Sq8bw.jpg)
-- [MV] GIRL'S DAY - Darling｜Cover by Jururu -> https://youtu.be/7sFIjj5BW3M?si=xySDbq-FxfX-KPWJ
 
 ### 浠Mizuki Channel (https://www.youtube.com/@MizukiVsinger)
 ![screenshot](https://i.imgur.com/MLD53cv.jpg)
@@ -610,7 +635,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
 ![screenshot](https://i.imgur.com/fo9h7YR.jpg)
-- Kanauru MV | CapSule - Mori Calliope x Hoshimachi Suisei -> https://youtu.be/4uss_EDzT_M
+- Kanauru MV | CapSule - Mori Calliope x Hoshimachi Suisei
 
 ![screenshot](https://i.imgur.com/TzekRQa.jpg)
 ![screenshot](https://i.imgur.com/J5wRsE0.jpg)
