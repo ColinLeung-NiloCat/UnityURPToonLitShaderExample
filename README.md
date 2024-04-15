@@ -292,6 +292,16 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【这次是全身版！！】 -> https://www.bilibili.com/video/BV1QM411b7pe
 - 【因为我是最棒滴！【僕が最高だから／ハコニワリリィ】】 -> https://www.bilibili.com/video/BV1rs4y1S7uB
 
+### NeoPorte（ネオポルテ）- 夜絆ニウ / yozuna niu (https://www.youtube.com/@niu_yozuna)
+![screenshot](https://i.imgur.com/MKQQBHs.jpg)
+![screenshot](https://i.imgur.com/lO8wU94.jpg)
+![screenshot](https://i.imgur.com/zq0XXe7.jpg)
+![screenshot](https://i.imgur.com/5nuatCB.jpg)
+![screenshot](https://i.imgur.com/wXG7rQt.jpg)
+![screenshot](https://i.imgur.com/2peors3.jpg)
+![screenshot](https://i.imgur.com/o9RNSlt.jpg)
+- [【 #夜絆ニウ3D 】しっぽが見れるぞ！3Dお披露目IKZ！【夜絆ニウ / NeoPorte (ネオポルテ) 】](https://www.youtube.com/live/lZ3Rlvh6e1Q?si=su4r8O0ubzsaEHt0)
+
 ### Stargazer Official @ 스타게이저 @ スターゲイザー (https://twitter.com/StargazerCoLtd)
 ![screenshot](https://i.imgur.com/n01LCwX.jpg)
 - [24ちゃん(イーサーちゃん)⚓🦷24Chan in 3D](https://twitter.com/StargazerCoLtd/status/1771108689916637350)
