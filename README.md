@@ -282,7 +282,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/b0naICA.jpg)
 - [Starseed：Asnia Trigger - X](https://twitter.com/STARSEED_KR)
 
-### NeoPorte（ネオポルテ）- 天帝フォルテ / Tentei Forte (https://www.youtube.com/@tenteiforte4631)
+### Neo-Porte（ネオポルテ）- 天帝フォルテ / Tentei Forte (https://www.youtube.com/@tenteiforte4631)
 ![screenshot](https://i.imgur.com/AJRw1g8.jpg)
 ![screenshot](https://i.imgur.com/MFMZThA.jpg)
 ![screenshot](https://i.imgur.com/q4loeqX.jpg)
@@ -305,7 +305,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【这次是全身版！！】 -> https://www.bilibili.com/video/BV1QM411b7pe
 - 【因为我是最棒滴！【僕が最高だから／ハコニワリリィ】】 -> https://www.bilibili.com/video/BV1rs4y1S7uB
 
-### NeoPorte（ネオポルテ）- 夜絆ニウ / yozuna niu (https://www.youtube.com/@niu_yozuna)
+### Neo-Porte（ネオポルテ）- 夜絆ニウ / yozuna niu (https://www.youtube.com/@niu_yozuna)
 ![screenshot](https://i.imgur.com/MKQQBHs.jpg)
 ![screenshot](https://i.imgur.com/lO8wU94.jpg)
 ![screenshot](https://i.imgur.com/zq0XXe7.jpg)
@@ -349,6 +349,16 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/DcfrNdL.jpg)
 ![screenshot](https://i.imgur.com/2ZggtS7.jpg)
 - 【3D BIRTHDAY】PARTY TIME! 🌊 #gawrgura -> https://youtu.be/lsFr7NzVVM8?t=2042
+
+### Neo-Porte（ネオポルテ）- [緋月ゆい / Hizuki Yui](https://www.youtube.com/@Hizuki_Yui_)
+![screenshot](https://i.imgur.com/wJJ2VWV.jpg)
+![screenshot](https://i.imgur.com/kp7z2il.jpg)
+![screenshot](https://i.imgur.com/qODzhx3.jpg)
+![screenshot](https://i.imgur.com/Cszcz0D.jpg)
+![screenshot](https://i.imgur.com/fXfZ54k.jpg)
+![screenshot](https://i.imgur.com/fz50ZMS.jpg)
+![screenshot](https://i.imgur.com/JGjAIls.jpg)
+- [【#緋月ゆい3D】遂に"3D"になる…!?✨️【緋月ゆい/ネオポルテ】](https://www.youtube.com/live/jLvXmNRJFbI?si=Z3EcG1zwFJoSTxzr&t=1765)
 
 ### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
 ![screenshot](https://i.imgur.com/4LV7Sv3.jpg)
