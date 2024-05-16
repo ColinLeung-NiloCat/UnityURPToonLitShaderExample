@@ -486,6 +486,18 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/uAYhE8V.jpg)
 - 小 看 我 了 吧✨【BDF2023聚光】 -> https://www.bilibili.com/video/BV1FL411Y7Zc
 
+### 史黛菈 埃蕾諾亞 / Stella Eleanor Ch. (https://www.youtube.com/@NKStellaEleanor)
+![screenshot](https://i.imgur.com/jm7YKxb.jpg)
+![screenshot](https://i.imgur.com/Boo6tIe.jpg)
+![screenshot](https://i.imgur.com/4KYX2eP.jpg)
+![screenshot](https://i.imgur.com/suKw6aT.jpg)
+![screenshot](https://i.imgur.com/uFeHTSK.jpg)
+![screenshot](https://i.imgur.com/cjlqz0u.jpg)
+![screenshot](https://i.imgur.com/ETTZItx.jpg)
+![screenshot](https://i.imgur.com/Dy6adLl.jpg)
+![screenshot](https://i.imgur.com/KfwFGio.jpg)
+- [ShinWork Stella NiloToon Test 史黛菈女武神](https://youtu.be/jLhFQcBt6jM?si=G5g78GPf6EBclwqs)
+
 ### 泠鸢yousa (https://space.bilibili.com/282994)
 ![screenshot](https://i.imgur.com/SVWHinD.jpg)
 ![screenshot](https://i.imgur.com/NKlm7QI.jpg)
