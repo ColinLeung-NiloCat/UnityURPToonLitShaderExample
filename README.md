@@ -612,6 +612,18 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【3D Live】ニャタタリズム - 杏仁ミル【#杏仁ミル3D】-> https://youtu.be/vICHoj4d_jE
 - 【3D Live】アスミルキミヘ - 杏仁ミル【#杏仁ミル3D】-> https://youtu.be/ujcUdrf7YBg
 
+### Nemesis ch. 涅默 (https://www.youtube.com/@NemesisXDFP)
+![screenshot](https://i.imgur.com/wcMHIBm.jpg)
+![screenshot](https://i.imgur.com/4VFUoMP.jpg)
+![screenshot](https://i.imgur.com/3q7yWQU.jpg)
+![screenshot](https://i.imgur.com/UL3T6uR.jpg)
+![screenshot](https://i.imgur.com/3plWxoL.jpg)
+![screenshot](https://i.imgur.com/uLZH0kQ.jpg)
+![screenshot](https://i.imgur.com/UGNt89o.jpg)
+![screenshot](https://i.imgur.com/5Pnd4O1.jpg)
+![screenshot](https://i.imgur.com/YbgE5Cl.jpg)
+- [【3D SHOWCASE】降落！因你而存在的太陽伴星，想帶給你們歡樂又有活力的演出！ #Nemomo3D 春魚創意 x VIVE ORIGINALS x BEATDAY【涅默Nemesis】](https://www.youtube.com/live/JIZ3hYas5VY?t=1626s)
+
 ### 穆小泠Official (https://space.bilibili.com/43272050)
 ![screenshot](https://i.imgur.com/QF7t3x2.jpg)
 ![screenshot](https://i.imgur.com/K2YAc33.jpg)
