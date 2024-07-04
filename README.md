@@ -293,7 +293,8 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/3KiFI7U.jpg)
 ![screenshot](https://i.imgur.com/ivZ4zVr.jpg)
 ![screenshot](https://i.imgur.com/iFcIs0y.jpg)
-- [【#天帝フォルテ3D】動くのか…！？動けるのか…！？3Dお披露目！【天帝フォルテ / ネオポルテ】](https://www.youtube.com/live/yuV3gcmt5lg?si=DZa4weQBaaOK04lI&t=188)
+- [【#天帝フォルテ3D】動くのか…！？動けるのか…！？3Dお披露目！【天帝フォルテ / ネオポルテ】](https://www.youtube.com/live/yuV3gcmt5lg?si=wDN36D7yszt4kEB_&t=197)
+- [- 晩餐歌](https://www.youtube.com/live/yuV3gcmt5lg?si=EXO8wc28qo4FuG3s&t=1538)
 
 ### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
 ![screenshot](https://i.imgur.com/Tp29cyb.jpg)
@@ -313,7 +314,20 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/wXG7rQt.jpg)
 ![screenshot](https://i.imgur.com/2peors3.jpg)
 ![screenshot](https://i.imgur.com/o9RNSlt.jpg)
-- [【 #夜絆ニウ3D 】しっぽが見れるぞ！3Dお披露目IKZ！【夜絆ニウ / NeoPorte (ネオポルテ) 】](https://www.youtube.com/live/lZ3Rlvh6e1Q?si=su4r8O0ubzsaEHt0)
+- [【 #夜絆ニウ3D 】しっぽが見れるぞ！3Dお披露目IKZ！【夜絆ニウ / NeoPorte (ネオポルテ) 】](https://www.youtube.com/live/lZ3Rlvh6e1Q?t=832s)
+
+### ISEGYE IDOL (이세계아이돌) - 주르르 JURURU (https://www.youtube.com/@JU_RURU)
+![screenshot](https://i.imgur.com/Qukmpkh.jpg)
+![screenshot](https://i.imgur.com/evk4e6N.jpg)
+![screenshot](https://i.imgur.com/T14Vs0G.jpg)
+![screenshot](https://i.imgur.com/o0RlbiU.jpg)
+![screenshot](https://i.imgur.com/udZYkVo.jpg)
+![screenshot](https://i.imgur.com/z9M8a3i.jpg)
+![screenshot](https://i.imgur.com/TaFH5RU.jpg)
+![screenshot](https://i.imgur.com/eEQAj8Z.jpg)
+![screenshot](https://i.imgur.com/u4h1HwE.jpg)
+![screenshot](https://i.imgur.com/JULVBCH.jpg)
+- [TWICE(트와이스) - "What is Love?"｜Cover by 주르르](https://youtu.be/T-LRqnvEi9E?si=_9itufJ4CZrANSfL)
 
 ### Stargazer Official @ 스타게이저 @ スターゲイザー (https://twitter.com/StargazerCoLtd)
 ![screenshot](https://i.imgur.com/n01LCwX.jpg)
@@ -396,7 +410,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/IM414Xu.jpg)
 ![screenshot](https://i.imgur.com/QyXXtuF.jpg)
 ![screenshot](https://i.imgur.com/PIdv650.jpg)
-- 浠Mizuki 1st 3D Live『Bon Voyage!』 -> https://www.youtube.com/live/Z8vh7LdIfd8?si=qPchZCkqLWNL8Tj-
+- [浠Mizuki 1st 3D Live『Bon Voyage!』](https://www.youtube.com/live/Z8vh7LdIfd8?si=4Rk2oSldZn_4HkGg&t=3475)
 
 ### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
 ![screenshot](https://i.imgur.com/gbCCiSL.jpg)
@@ -622,7 +636,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/UGNt89o.jpg)
 ![screenshot](https://i.imgur.com/5Pnd4O1.jpg)
 ![screenshot](https://i.imgur.com/YbgE5Cl.jpg)
-- [【3D SHOWCASE】降落！因你而存在的太陽伴星，想帶給你們歡樂又有活力的演出！ #Nemomo3D 春魚創意 x VIVE ORIGINALS x BEATDAY【涅默Nemesis】](https://www.youtube.com/live/JIZ3hYas5VY?t=1626s)
+- [【3D SHOWCASE】降落！因你而存在的太陽伴星，想帶給你們歡樂又有活力的演出！ #Nemomo3D 春魚創意 x VIVE ORIGINALS x BEATDAY【涅默Nemesis】](https://www.youtube.com/live/JIZ3hYas5VY?si=Dqs5uEPWtz0zKDxN&t=2126)
 
 ### 穆小泠Official (https://space.bilibili.com/43272050)
 ![screenshot](https://i.imgur.com/QF7t3x2.jpg)
