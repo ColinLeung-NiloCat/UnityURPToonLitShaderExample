@@ -639,6 +639,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【3D Live】ニャタタリズム - 杏仁ミル【#杏仁ミル3D】-> https://youtu.be/vICHoj4d_jE
 - 【3D Live】アスミルキミヘ - 杏仁ミル【#杏仁ミル3D】-> https://youtu.be/ujcUdrf7YBg
 
+### 징버거 JINGBURGER (https://www.youtube.com/@jingburger)
+![screenshot](https://i.imgur.com/7CqskrR.jpg)
+![screenshot](https://i.imgur.com/iJumrEs.jpg)
+![screenshot](https://i.imgur.com/0Nw9t3t.jpg)
+![screenshot](https://i.imgur.com/YdOUkzn.jpg)
+![screenshot](https://i.imgur.com/ayhOHNQ.jpg)
+- [Can't slow me downㅣ징버거 COVER (feat. 곽춘식)](https://youtu.be/goBJJTlcC_M?si=8a7wW3hZaoXC-Zw2)
+
 ### Nemesis ch. 涅默 (https://www.youtube.com/@NemesisXDFP)
 ![screenshot](https://i.imgur.com/wcMHIBm.jpg)
 ![screenshot](https://i.imgur.com/4VFUoMP.jpg)
