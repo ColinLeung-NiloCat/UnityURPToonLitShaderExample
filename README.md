@@ -114,6 +114,20 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/AtJqovW.jpg)
 - バーチャルミュージカル「ハイスクール！キラッとプリ☆チャン ～キラキラ☆未来の運命～」 -> https://www.zan-live.com/ja/live/detail/10395
 
+### VSPO!(ぶいすぽっ！) - 空澄セナ -Asumi Sena- (https://www.youtube.com/@asumi_sena)
+![screenshot](https://i.imgur.com/QQco4TK.jpg)
+![screenshot](https://i.imgur.com/fWkpEF8.jpg)
+![screenshot](https://i.imgur.com/wBlNuYi.jpg)
+![screenshot](https://i.imgur.com/B2gnt6M.jpg)
+![screenshot](https://i.imgur.com/cIGqIeB.jpg)
+![screenshot](https://i.imgur.com/4fdkINy.jpg)
+![screenshot](https://i.imgur.com/tLFP24Z.jpg)
+![screenshot](https://i.imgur.com/lQ7fd0U.jpg)
+![screenshot](https://i.imgur.com/hmTzJbs.jpg)
+![screenshot](https://i.imgur.com/KcIz27F.jpg)
+- [【#空澄セナ4周年記念LIVE】～私がここにいる理由～ 【空澄セナ/ぶいすぽっ！】](https://www.youtube.com/live/rFmmP-8AfHs?si=_iu6meNxc53i4WYF&t=1003)
+- [- デビルじゃないもん w/星川サラ](https://www.youtube.com/live/rFmmP-8AfHs?si=6lFF51APLpsNbgI-&t=1323)
+
 ### Suisei Channel - hololive (https://www.youtube.com/@HoshimachiSuisei)
 ![screenshot](https://i.imgur.com/XX23J0Q.jpg)
 ![screenshot](https://i.imgur.com/MMbNWCA.jpg)
