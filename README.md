@@ -704,6 +704,14 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【做v一年花了6位数用3D跳舞，值吗？】 -> https://www.bilibili.com/video/BV1334y1G7Wf
 - 【谁家的温婉姑娘，邀你花月成双❀《花月成双》3D舞台4K纯享版】 -> https://www.bilibili.com/video/BV1pN4y1y7Mx
 
+### psplive - 白神遥Haruka (https://space.bilibili.com/477332594)
+![screenshot](https://i.imgur.com/6hhvJei.jpg)
+![screenshot](https://i.imgur.com/CDfhokR.jpg)
+![screenshot](https://i.imgur.com/sCZ9WGe.jpg)
+![screenshot](https://i.imgur.com/6Cg3e8B.jpg)
+![screenshot](https://i.imgur.com/ph6yXau.jpg)
+- [【日清合味道× psplive】原创歌曲《若行星海》MV正式发布！](https://www.bilibili.com/video/BV1qj411B7ps/?share_source=copy_web&vd_source=833e89d3d9a150b0feba26e590fd09ce)
+
 ### Kanauru (https://www.youtube.com/user/kanauru):
 ![screenshot](https://i.imgur.com/7TRdfHh.jpg)
 - Takane Lui - Overd ( オーバード ) | Kanauru Dance -> https://youtu.be/9qHbGbK8YnU
