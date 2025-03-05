@@ -412,7 +412,7 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/fXfZ54k.jpg)
 ![screenshot](https://i.imgur.com/fz50ZMS.jpg)
 ![screenshot](https://i.imgur.com/JGjAIls.jpg)
-- [【#緋月ゆい3D】遂に"3D"になる…!?✨️【緋月ゆい/ネオポルテ】](https://www.youtube.com/live/jLvXmNRJFbI?si=Z3EcG1zwFJoSTxzr&t=1765)
+- [【#緋月ゆい3D】遂に"3D"になる…!?✨️【緋月ゆい/ネオポルテ】](https://www.youtube.com/live/jLvXmNRJFbI?si=Z3EcG1zwFJoSTxzr&t=1768)
 
 ### VSPO!(ぶいすぽっ！【公式】) (https://www.youtube.com/@Vspo77)
 ![screenshot](https://i.imgur.com/4LV7Sv3.jpg)
@@ -500,6 +500,11 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/U24OrRQ.jpg)
 ![screenshot](https://i.imgur.com/40pXFdE.jpg)
 - [Kissing You(키싱유) 이세계아이돌 COVERㅣ[소녀시대 - Kissing You(키싱유)] (ISEGYE IDOL)](https://youtu.be/OrFyzG5yTC4?si=WAkRHXFEqmPUFa9d)
+
+### VSPO!(ぶいすぽっ！) - 夜乃くろむ (https://www.youtube.com/@YanoKuromu)
+![screenshot](https://i.imgur.com/XkqlbNI.jpg)
+- [〖＃夜乃くろむ3D 〗これがOTONAの魅力ってやつだよ。の巻〖 ぶいすぽっ！ / 夜乃くろむ 〗](https://www.youtube.com/live/QtZQ3qHd5qQ?si=Tm3tBY9zcdgBVYHB&t=1438)
+- [Greedy Greedy](https://www.youtube.com/live/QtZQ3qHd5qQ?si=Yh_gqFe7pBTnlhuX&t=120)
 
 ### hololive - Shion Ch. 紫咲シオン (https://www.youtube.com/@MurasakiShion)
 ![screenshot](https://i.imgur.com/qjVT4M7.jpg)
