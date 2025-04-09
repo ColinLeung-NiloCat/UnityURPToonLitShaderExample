@@ -583,6 +583,13 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - 【高清回放】泠鸢个人演唱会【时光标记】十周年纪念-高清全程回放 -> https://www.bilibili.com/video/BV1D24y1B7FA
 - 【泠鸢时光标记演唱会】 一镜到底4K纯享版】 -> https://space.bilibili.com/434021034/channel/collectiondetail?sid=1082531
 
+### エルセ/ Else (https://x.com/Else_PJblue)
+![screenshot](https://i.imgur.com/bQ7raIT.jpg)
+![screenshot](https://i.imgur.com/WB5Bb3u.jpg)
+![screenshot](https://i.imgur.com/OPwEsPw.jpg)
+![screenshot](https://i.imgur.com/pmnMeeF.jpg)
+![screenshot](https://i.imgur.com/jEgC5yw.jpg)
+
 ### Nijisanji & bilibili - VirtuaReal (https://www.nijisanji.jp/talents?filter=virtuareal):
 ![screenshot](https://i.imgur.com/IKpdkTI.jpg)
 ![screenshot](https://i.imgur.com/ixS8EQW.jpg)
