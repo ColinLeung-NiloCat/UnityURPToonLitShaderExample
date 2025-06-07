@@ -324,6 +324,17 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - [【#天帝フォルテ3D】動くのか…！？動けるのか…！？3Dお披露目！【天帝フォルテ / ネオポルテ】](https://www.youtube.com/live/yuV3gcmt5lg?si=wDN36D7yszt4kEB_&t=197)
 - [- 晩餐歌](https://www.youtube.com/live/yuV3gcmt5lg?si=EXO8wc28qo4FuG3s&t=1538)
 
+### Bao The Whale (https://www.youtube.com/@baovtuber)
+![screenshot](https://i.imgur.com/FhjBan9.jpeg)
+![screenshot](https://i.imgur.com/JuV8Q6c.jpeg)
+![screenshot](https://i.imgur.com/3ok3Bjf.jpeg)
+![screenshot](https://i.imgur.com/8RFZ8r9.jpeg)
+![screenshot](https://i.imgur.com/kV3TWzl.jpeg)
+![screenshot](https://i.imgur.com/0tr8EoZ.jpeg)
+![screenshot](https://i.imgur.com/cRajfCt.jpeg)
+![screenshot](https://i.imgur.com/zhPJ6f7.jpeg)
+- [Bao The Whale - Final Bow (Original Song 3D MV)](https://youtu.be/R_nS5XjiFxA?si=oPapEN5m8ojQumGj)
+
 ### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
 ![screenshot](https://i.imgur.com/Tp29cyb.jpg)
 ![screenshot](https://i.imgur.com/9OsMvwh.jpg)
