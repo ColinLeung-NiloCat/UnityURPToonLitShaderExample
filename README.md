@@ -335,15 +335,31 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/zhPJ6f7.jpeg)
 - [Bao The Whale - Final Bow (Original Song 3D MV)](https://youtu.be/R_nS5XjiFxA?si=oPapEN5m8ojQumGj)
 
+### Watame Ch. 角巻わため (https://www.youtube.com/@TsunomakiWatame)
+![screenshot](https://i.imgur.com/WHp12gf.jpeg)
+![screenshot](https://i.imgur.com/nDnHOeV.jpeg)
+![screenshot](https://i.imgur.com/nJ4jxp3.jpeg)
+![screenshot](https://i.imgur.com/SByfumx.jpeg)
+![screenshot](https://i.imgur.com/ybBeITH.jpeg)
+![screenshot](https://i.imgur.com/V0jcRdO.jpeg)
+![screenshot](https://i.imgur.com/PXLDz1r.jpeg)
+![screenshot](https://i.imgur.com/8Kw1VmW.jpeg)
+![screenshot](https://i.imgur.com/5nGgjRU.jpeg)
+![screenshot](https://i.imgur.com/z0r6Qwm.jpeg)
+![screenshot](https://i.imgur.com/rZgLqJz.jpeg)
+![screenshot](https://i.imgur.com/uVtgf0a.jpeg)
+![screenshot](https://i.imgur.com/Ii5HBSJ.jpeg)
+- [ビリ／角巻わため【original】](https://youtu.be/cVT_yB1qpYY?si=q1sNWZckxjhz_5ac)
+
 ### VirtuaReal / Nijisanji CN - 七海Nana7mi (https://space.bilibili.com/434334701)
 ![screenshot](https://i.imgur.com/Tp29cyb.jpg)
 ![screenshot](https://i.imgur.com/9OsMvwh.jpg)
 ![screenshot](https://i.imgur.com/HTBHcYg.jpg)
 ![screenshot](https://i.imgur.com/PvSWEwl.jpg)
-- 【恋愛偏差値上昇中！】 -> https://www.bilibili.com/video/BV1v84y1K74A
-- 【情人节当一天恋爱脑也可以吧！】 -> https://www.bilibili.com/video/BV1wv4y1x7NZ
-- 【这次是全身版！！】 -> https://www.bilibili.com/video/BV1QM411b7pe
-- 【因为我是最棒滴！【僕が最高だから／ハコニワリリィ】】 -> https://www.bilibili.com/video/BV1rs4y1S7uB
+- [【恋愛偏差値上昇中！】](https://www.bilibili.com/video/BV1v84y1K74A)
+- [【情人节当一天恋爱脑也可以吧！】](https://www.bilibili.com/video/BV1wv4y1x7NZ)
+- [【这次是全身版！！】](https://www.bilibili.com/video/BV1QM411b7pe)
+- [【因为我是最棒滴！【僕が最高だから／ハコニワリリィ】】](https://www.bilibili.com/video/BV1rs4y1S7uB)
 
 ### Neo-Porte（ネオポルテ）- 夜絆ニウ / yozuna niu (https://www.youtube.com/@niu_yozuna)
 ![screenshot](https://i.imgur.com/MKQQBHs.jpg)
