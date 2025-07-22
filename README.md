@@ -361,6 +361,16 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 - [【这次是全身版！！】](https://www.bilibili.com/video/BV1QM411b7pe)
 - [【因为我是最棒滴！【僕が最高だから／ハコニワリリィ】】](https://www.bilibili.com/video/BV1rs4y1S7uB)
 
+### vα-liv公式📣ヴイアラ (https://x.com/valiv_official) 
+![screenshot](https://i.imgur.com/19TAMmZ.jpeg)
+- [愛夏2nd single「あっちこっちプリンセス」](https://youtu.be/GYs17lN2-zY)
+- [宇宙2nd single「クライヤ」](https://youtu.be/_57ECmqYSFA)
+- [レトラ2nd single「きみの一等星」](https://youtu.be/jaKbwrZC8-I)
+![screenshot](https://i.imgur.com/FWta9F6.jpeg)
+![screenshot](https://i.imgur.com/63pDCei.jpeg)
+![screenshot](https://i.imgur.com/QkgPfad.jpeg)
+![screenshot](https://i.imgur.com/xPsTiy4.jpeg)
+
 ### Neo-Porte（ネオポルテ）- 夜絆ニウ / yozuna niu (https://www.youtube.com/@niu_yozuna)
 ![screenshot](https://i.imgur.com/MKQQBHs.jpg)
 ![screenshot](https://i.imgur.com/lO8wU94.jpg)
@@ -813,7 +823,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 
 ![screenshot](https://i.imgur.com/1x3NXLg.jpg)
 ![screenshot](https://i.imgur.com/kfnccw6.jpg)
-- VSHOJO Mahou Idols - Nyanners Ironmouse Silvervale | VILLS -> https://youtu.be/-OultaM3TMg
 
 ### VirtuaReal (https://space.bilibili.com/413748120)
 ![screenshot](https://i.imgur.com/mFYajQZ.jpg)
@@ -844,14 +853,6 @@ of NiloToonURP for your URP project, please send the following info to nilotoon@
 ![screenshot](https://i.imgur.com/Rq3uqR8.jpg)
 ![screenshot](https://i.imgur.com/njJBhHV.jpg)
 - 【超高可玩性！全新3D虚拟主播软件【Warudo】】-> https://www.bilibili.com/video/BV198411D7Ui
-
-### VShojo Highlights (https://www.youtube.com/@VShojoHighlights)
-![screenshot](https://i.imgur.com/gPQc1Ls.jpg)
-![screenshot](https://i.imgur.com/91a36og.jpg)
-![screenshot](https://i.imgur.com/c8UJW1u.jpg)
-![screenshot](https://i.imgur.com/N6WRNiJ.jpg)
-![screenshot](https://i.imgur.com/VAyfegx.jpg)
-- Celebrating 2 Years of VShojo -> https://youtu.be/QxvTqRzwmW4
 
 ### Kanauru (https://www.youtube.com/user/kanauru):
 ![screenshot](https://i.imgur.com/fo9h7YR.jpg)
